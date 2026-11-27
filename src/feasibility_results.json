@@ -1,0 +1,2106 @@
+{
+ "bridged": [
+  {
+   "identifiable": {
+    "A-B": true,
+    "A-C": true,
+    "B-C": true
+   },
+   "ERM (logistic)": {
+    "factual": 0.7994444444444445,
+    "counterfactual": 0.29666666666666663,
+    "cf_A_vs_B": 0.21333333333333332,
+    "new_site": 0.4511111111111111,
+    "new_site_A_vs_B": 0.845
+   },
+   "ERM (network)": {
+    "factual": 0.7622222222222222,
+    "counterfactual": 0.26222222222222225,
+    "cf_A_vs_B": 0.14666666666666667,
+    "new_site": 0.52,
+    "new_site_A_vs_B": 0.8266666666666667
+   },
+   "Site harmonization": {
+    "factual": 0.5561111111111111,
+    "counterfactual": 0.4533333333333333,
+    "cf_A_vs_B": 0.6016666666666666,
+    "new_site": 0.5322222222222223,
+    "new_site_A_vs_B": 0.7233333333333334
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.7405555555555555,
+    "counterfactual": 0.3194444444444445,
+    "cf_A_vs_B": 0.6783333333333333,
+    "new_site": 0.6422222222222222,
+    "new_site_A_vs_B": 0.81
+   },
+   "Anchor adversary": {
+    "factual": 0.7799999999999999,
+    "counterfactual": 0.44222222222222224,
+    "cf_A_vs_B": 0.5416666666666666,
+    "new_site": 0.7011111111111111,
+    "new_site_A_vs_B": 0.865
+   },
+   "Anchor transform + adversary (proposed)": {
+    "factual": 0.6822222222222223,
+    "counterfactual": 0.5911111111111111,
+    "cf_A_vs_B": 0.7966666666666666,
+    "new_site": 0.6033333333333334,
+    "new_site_A_vs_B": 0.81
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6750000000000002,
+    "counterfactual": 0.6311111111111112,
+    "cf_A_vs_B": 0.825,
+    "new_site": 0.5911111111111111,
+    "new_site_A_vs_B": 0.7649999999999999
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": true,
+    "A-C": true,
+    "B-C": true
+   },
+   "ERM (logistic)": {
+    "factual": 0.7783333333333333,
+    "counterfactual": 0.26555555555555554,
+    "cf_A_vs_B": 0.07333333333333333,
+    "new_site": 0.41999999999999993,
+    "new_site_A_vs_B": 0.8266666666666667
+   },
+   "ERM (network)": {
+    "factual": 0.7188888888888889,
+    "counterfactual": 0.25499999999999995,
+    "cf_A_vs_B": 0.05,
+    "new_site": 0.46444444444444444,
+    "new_site_A_vs_B": 0.6066666666666667
+   },
+   "Site harmonization": {
+    "factual": 0.56,
+    "counterfactual": 0.43500000000000005,
+    "cf_A_vs_B": 0.5666666666666667,
+    "new_site": 0.5422222222222223,
+    "new_site_A_vs_B": 0.7266666666666667
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.7138888888888889,
+    "counterfactual": 0.2438888888888889,
+    "cf_A_vs_B": 0.02,
+    "new_site": 0.37999999999999995,
+    "new_site_A_vs_B": 0.6333333333333333
+   },
+   "Anchor adversary": {
+    "factual": 0.7394444444444445,
+    "counterfactual": 0.24555555555555555,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.3544444444444445,
+    "new_site_A_vs_B": 0.5216666666666667
+   },
+   "Anchor transform + adversary (proposed)": {
+    "factual": 0.6144444444444445,
+    "counterfactual": 0.6122222222222223,
+    "cf_A_vs_B": 0.8266666666666667,
+    "new_site": 0.6322222222222221,
+    "new_site_A_vs_B": 0.815
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6461111111111111,
+    "counterfactual": 0.62,
+    "cf_A_vs_B": 0.8333333333333333,
+    "new_site": 0.5366666666666666,
+    "new_site_A_vs_B": 0.7749999999999999
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": true,
+    "A-C": true,
+    "B-C": true
+   },
+   "ERM (logistic)": {
+    "factual": 0.8166666666666668,
+    "counterfactual": 0.2561111111111111,
+    "cf_A_vs_B": 0.05333333333333333,
+    "new_site": 0.541111111111111,
+    "new_site_A_vs_B": 0.7166666666666667
+   },
+   "ERM (network)": {
+    "factual": 0.7705555555555555,
+    "counterfactual": 0.24777777777777776,
+    "cf_A_vs_B": 0.04,
+    "new_site": 0.5422222222222223,
+    "new_site_A_vs_B": 0.7733333333333333
+   },
+   "Site harmonization": {
+    "factual": 0.601111111111111,
+    "counterfactual": 0.43,
+    "cf_A_vs_B": 0.565,
+    "new_site": 0.5511111111111111,
+    "new_site_A_vs_B": 0.7583333333333333
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.7055555555555556,
+    "counterfactual": 0.3711111111111111,
+    "cf_A_vs_B": 0.8816666666666666,
+    "new_site": 0.39222222222222225,
+    "new_site_A_vs_B": 0.54
+   },
+   "Anchor adversary": {
+    "factual": 0.8077777777777778,
+    "counterfactual": 0.285,
+    "cf_A_vs_B": 0.5833333333333334,
+    "new_site": 0.5666666666666667,
+    "new_site_A_vs_B": 0.7949999999999999
+   },
+   "Anchor transform + adversary (proposed)": {
+    "factual": 0.6566666666666666,
+    "counterfactual": 0.581111111111111,
+    "cf_A_vs_B": 0.7849999999999999,
+    "new_site": 0.5711111111111111,
+    "new_site_A_vs_B": 0.775
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6722222222222222,
+    "counterfactual": 0.6227777777777778,
+    "cf_A_vs_B": 0.8183333333333334,
+    "new_site": 0.5033333333333333,
+    "new_site_A_vs_B": 0.7016666666666667
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": true,
+    "A-C": true,
+    "B-C": true
+   },
+   "ERM (logistic)": {
+    "factual": 0.7944444444444444,
+    "counterfactual": 0.2583333333333333,
+    "cf_A_vs_B": 0.03166666666666667,
+    "new_site": 0.3333333333333333,
+    "new_site_A_vs_B": 0.745
+   },
+   "ERM (network)": {
+    "factual": 0.7477777777777778,
+    "counterfactual": 0.2488888888888889,
+    "cf_A_vs_B": 0.07833333333333334,
+    "new_site": 0.35333333333333333,
+    "new_site_A_vs_B": 0.75
+   },
+   "Site harmonization": {
+    "factual": 0.5444444444444444,
+    "counterfactual": 0.43722222222222223,
+    "cf_A_vs_B": 0.5633333333333334,
+    "new_site": 0.5633333333333334,
+    "new_site_A_vs_B": 0.7466666666666667
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.7622222222222222,
+    "counterfactual": 0.24055555555555555,
+    "cf_A_vs_B": 0.005,
+    "new_site": 0.4155555555555555,
+    "new_site_A_vs_B": 0.6583333333333333
+   },
+   "Anchor adversary": {
+    "factual": 0.7611111111111111,
+    "counterfactual": 0.24722222222222223,
+    "cf_A_vs_B": 0.03,
+    "new_site": 0.45999999999999996,
+    "new_site_A_vs_B": 0.5283333333333333
+   },
+   "Anchor transform + adversary (proposed)": {
+    "factual": 0.6277777777777778,
+    "counterfactual": 0.5755555555555556,
+    "cf_A_vs_B": 0.7866666666666666,
+    "new_site": 0.5922222222222222,
+    "new_site_A_vs_B": 0.8016666666666667
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6261111111111112,
+    "counterfactual": 0.5844444444444444,
+    "cf_A_vs_B": 0.8483333333333334,
+    "new_site": 0.5477777777777778,
+    "new_site_A_vs_B": 0.7450000000000001
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": true,
+    "A-C": true,
+    "B-C": true
+   },
+   "ERM (logistic)": {
+    "factual": 0.7777777777777778,
+    "counterfactual": 0.2555555555555556,
+    "cf_A_vs_B": 0.058333333333333334,
+    "new_site": 0.51,
+    "new_site_A_vs_B": 0.5183333333333333
+   },
+   "ERM (network)": {
+    "factual": 0.7611111111111111,
+    "counterfactual": 0.24944444444444447,
+    "cf_A_vs_B": 0.05,
+    "new_site": 0.4688888888888889,
+    "new_site_A_vs_B": 0.6433333333333333
+   },
+   "Site harmonization": {
+    "factual": 0.6261111111111112,
+    "counterfactual": 0.3872222222222222,
+    "cf_A_vs_B": 0.5283333333333333,
+    "new_site": 0.5477777777777777,
+    "new_site_A_vs_B": 0.73
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.7394444444444446,
+    "counterfactual": 0.32555555555555554,
+    "cf_A_vs_B": 0.49166666666666664,
+    "new_site": 0.38222222222222224,
+    "new_site_A_vs_B": 0.55
+   },
+   "Anchor adversary": {
+    "factual": 0.7372222222222221,
+    "counterfactual": 0.3611111111111111,
+    "cf_A_vs_B": 0.29666666666666663,
+    "new_site": 0.4444444444444445,
+    "new_site_A_vs_B": 0.6033333333333334
+   },
+   "Anchor transform + adversary (proposed)": {
+    "factual": 0.6638888888888889,
+    "counterfactual": 0.57,
+    "cf_A_vs_B": 0.75,
+    "new_site": 0.6122222222222222,
+    "new_site_A_vs_B": 0.8133333333333334
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6377777777777778,
+    "counterfactual": 0.6305555555555556,
+    "cf_A_vs_B": 0.835,
+    "new_site": 0.4177777777777778,
+    "new_site_A_vs_B": 0.5283333333333333
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": true,
+    "A-C": true,
+    "B-C": true
+   },
+   "ERM (logistic)": {
+    "factual": 0.7755555555555556,
+    "counterfactual": 0.2588888888888889,
+    "cf_A_vs_B": 0.11,
+    "new_site": 0.37777777777777777,
+    "new_site_A_vs_B": 0.535
+   },
+   "ERM (network)": {
+    "factual": 0.7361111111111112,
+    "counterfactual": 0.25,
+    "cf_A_vs_B": 0.021666666666666667,
+    "new_site": 0.5733333333333334,
+    "new_site_A_vs_B": 0.7583333333333333
+   },
+   "Site harmonization": {
+    "factual": 0.5544444444444444,
+    "counterfactual": 0.4488888888888889,
+    "cf_A_vs_B": 0.5733333333333334,
+    "new_site": 0.59,
+    "new_site_A_vs_B": 0.8083333333333333
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.7583333333333333,
+    "counterfactual": 0.2511111111111111,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.49111111111111105,
+    "new_site_A_vs_B": 0.735
+   },
+   "Anchor adversary": {
+    "factual": 0.7472222222222222,
+    "counterfactual": 0.26333333333333336,
+    "cf_A_vs_B": 0.15666666666666668,
+    "new_site": 0.44,
+    "new_site_A_vs_B": 0.6666666666666667
+   },
+   "Anchor transform + adversary (proposed)": {
+    "factual": 0.6499999999999999,
+    "counterfactual": 0.6188888888888889,
+    "cf_A_vs_B": 0.7983333333333333,
+    "new_site": 0.6355555555555555,
+    "new_site_A_vs_B": 0.81
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6188888888888888,
+    "counterfactual": 0.6288888888888889,
+    "cf_A_vs_B": 0.8366666666666667,
+    "new_site": 0.5311111111111111,
+    "new_site_A_vs_B": 0.645
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": true,
+    "A-C": true,
+    "B-C": true
+   },
+   "ERM (logistic)": {
+    "factual": 0.7722222222222221,
+    "counterfactual": 0.27055555555555555,
+    "cf_A_vs_B": 0.09333333333333334,
+    "new_site": 0.5422222222222222,
+    "new_site_A_vs_B": 0.6566666666666667
+   },
+   "ERM (network)": {
+    "factual": 0.7527777777777778,
+    "counterfactual": 0.2594444444444444,
+    "cf_A_vs_B": 0.155,
+    "new_site": 0.35666666666666663,
+    "new_site_A_vs_B": 0.5083333333333333
+   },
+   "Site harmonization": {
+    "factual": 0.5666666666666667,
+    "counterfactual": 0.3955555555555556,
+    "cf_A_vs_B": 0.5666666666666667,
+    "new_site": 0.5644444444444444,
+    "new_site_A_vs_B": 0.7833333333333334
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.7377777777777778,
+    "counterfactual": 0.26055555555555554,
+    "cf_A_vs_B": 0.035,
+    "new_site": 0.3333333333333333,
+    "new_site_A_vs_B": 0.5
+   },
+   "Anchor adversary": {
+    "factual": 0.7333333333333334,
+    "counterfactual": 0.25666666666666665,
+    "cf_A_vs_B": 0.18833333333333332,
+    "new_site": 0.4977777777777777,
+    "new_site_A_vs_B": 0.5
+   },
+   "Anchor transform + adversary (proposed)": {
+    "factual": 0.6455555555555557,
+    "counterfactual": 0.5905555555555556,
+    "cf_A_vs_B": 0.7966666666666666,
+    "new_site": 0.6377777777777779,
+    "new_site_A_vs_B": 0.8049999999999999
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6194444444444445,
+    "counterfactual": 0.6344444444444445,
+    "cf_A_vs_B": 0.8666666666666667,
+    "new_site": 0.5288888888888889,
+    "new_site_A_vs_B": 0.7366666666666667
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": true,
+    "A-C": true,
+    "B-C": true
+   },
+   "ERM (logistic)": {
+    "factual": 0.7988888888888889,
+    "counterfactual": 0.2622222222222222,
+    "cf_A_vs_B": 0.07833333333333334,
+    "new_site": 0.4811111111111111,
+    "new_site_A_vs_B": 0.5816666666666667
+   },
+   "ERM (network)": {
+    "factual": 0.7133333333333333,
+    "counterfactual": 0.24888888888888885,
+    "cf_A_vs_B": 0.023333333333333334,
+    "new_site": 0.37777777777777777,
+    "new_site_A_vs_B": 0.515
+   },
+   "Site harmonization": {
+    "factual": 0.6183333333333333,
+    "counterfactual": 0.40944444444444444,
+    "cf_A_vs_B": 0.5249999999999999,
+    "new_site": 0.5499999999999999,
+    "new_site_A_vs_B": 0.7733333333333334
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.7222222222222222,
+    "counterfactual": 0.25333333333333335,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.4388888888888889,
+    "new_site_A_vs_B": 0.5066666666666667
+   },
+   "Anchor adversary": {
+    "factual": 0.7516666666666666,
+    "counterfactual": 0.2472222222222222,
+    "cf_A_vs_B": 0.028333333333333335,
+    "new_site": 0.3811111111111111,
+    "new_site_A_vs_B": 0.5283333333333333
+   },
+   "Anchor transform + adversary (proposed)": {
+    "factual": 0.66,
+    "counterfactual": 0.5711111111111111,
+    "cf_A_vs_B": 0.7666666666666666,
+    "new_site": 0.6355555555555555,
+    "new_site_A_vs_B": 0.8166666666666667
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6377777777777779,
+    "counterfactual": 0.6238888888888888,
+    "cf_A_vs_B": 0.815,
+    "new_site": 0.5811111111111111,
+    "new_site_A_vs_B": 0.8016666666666666
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": true,
+    "A-C": true,
+    "B-C": true
+   },
+   "ERM (logistic)": {
+    "factual": 0.8172222222222222,
+    "counterfactual": 0.2644444444444444,
+    "cf_A_vs_B": 0.10833333333333334,
+    "new_site": 0.571111111111111,
+    "new_site_A_vs_B": 0.7216666666666667
+   },
+   "ERM (network)": {
+    "factual": 0.7533333333333333,
+    "counterfactual": 0.255,
+    "cf_A_vs_B": 0.03166666666666667,
+    "new_site": 0.40222222222222226,
+    "new_site_A_vs_B": 0.58
+   },
+   "Site harmonization": {
+    "factual": 0.5822222222222222,
+    "counterfactual": 0.3961111111111111,
+    "cf_A_vs_B": 0.5449999999999999,
+    "new_site": 0.5288888888888889,
+    "new_site_A_vs_B": 0.7533333333333334
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.7616666666666667,
+    "counterfactual": 0.2672222222222222,
+    "cf_A_vs_B": 0.29333333333333333,
+    "new_site": 0.5822222222222222,
+    "new_site_A_vs_B": 0.775
+   },
+   "Anchor adversary": {
+    "factual": 0.765,
+    "counterfactual": 0.27111111111111114,
+    "cf_A_vs_B": 0.19166666666666668,
+    "new_site": 0.5044444444444445,
+    "new_site_A_vs_B": 0.7933333333333333
+   },
+   "Anchor transform + adversary (proposed)": {
+    "factual": 0.6583333333333333,
+    "counterfactual": 0.5427777777777778,
+    "cf_A_vs_B": 0.77,
+    "new_site": 0.57,
+    "new_site_A_vs_B": 0.785
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6444444444444444,
+    "counterfactual": 0.6483333333333333,
+    "cf_A_vs_B": 0.8433333333333334,
+    "new_site": 0.5588888888888889,
+    "new_site_A_vs_B": 0.7916666666666666
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": true,
+    "A-C": true,
+    "B-C": true
+   },
+   "ERM (logistic)": {
+    "factual": 0.7711111111111112,
+    "counterfactual": 0.2583333333333333,
+    "cf_A_vs_B": 0.08,
+    "new_site": 0.47888888888888886,
+    "new_site_A_vs_B": 0.6033333333333333
+   },
+   "ERM (network)": {
+    "factual": 0.7355555555555556,
+    "counterfactual": 0.24111111111111114,
+    "cf_A_vs_B": 0.04,
+    "new_site": 0.47000000000000003,
+    "new_site_A_vs_B": 0.6966666666666667
+   },
+   "Site harmonization": {
+    "factual": 0.5666666666666668,
+    "counterfactual": 0.43,
+    "cf_A_vs_B": 0.5666666666666667,
+    "new_site": 0.5455555555555556,
+    "new_site_A_vs_B": 0.7416666666666667
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.7277777777777779,
+    "counterfactual": 0.24944444444444447,
+    "cf_A_vs_B": 0.07333333333333333,
+    "new_site": 0.5188888888888888,
+    "new_site_A_vs_B": 0.73
+   },
+   "Anchor adversary": {
+    "factual": 0.7283333333333334,
+    "counterfactual": 0.25,
+    "cf_A_vs_B": 0.056666666666666664,
+    "new_site": 0.4988888888888889,
+    "new_site_A_vs_B": 0.6833333333333333
+   },
+   "Anchor transform + adversary (proposed)": {
+    "factual": 0.6455555555555555,
+    "counterfactual": 0.5827777777777778,
+    "cf_A_vs_B": 0.7949999999999999,
+    "new_site": 0.5977777777777779,
+    "new_site_A_vs_B": 0.7933333333333333
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6388888888888888,
+    "counterfactual": 0.6138888888888889,
+    "cf_A_vs_B": 0.8316666666666667,
+    "new_site": 0.49333333333333335,
+    "new_site_A_vs_B": 0.6283333333333334
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": true,
+    "A-C": true,
+    "B-C": true
+   },
+   "ERM (logistic)": {
+    "factual": 0.7933333333333333,
+    "counterfactual": 0.27666666666666667,
+    "cf_A_vs_B": 0.07166666666666667,
+    "new_site": 0.5577777777777778,
+    "new_site_A_vs_B": 0.6633333333333333
+   },
+   "ERM (network)": {
+    "factual": 0.7411111111111112,
+    "counterfactual": 0.2633333333333333,
+    "cf_A_vs_B": 0.08666666666666666,
+    "new_site": 0.4222222222222222,
+    "new_site_A_vs_B": 0.615
+   },
+   "Site harmonization": {
+    "factual": 0.6322222222222222,
+    "counterfactual": 0.36166666666666664,
+    "cf_A_vs_B": 0.49,
+    "new_site": 0.5488888888888889,
+    "new_site_A_vs_B": 0.7183333333333333
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.7544444444444444,
+    "counterfactual": 0.3161111111111111,
+    "cf_A_vs_B": 0.6783333333333333,
+    "new_site": 0.63,
+    "new_site_A_vs_B": 0.8116666666666666
+   },
+   "Anchor adversary": {
+    "factual": 0.7577777777777778,
+    "counterfactual": 0.27055555555555555,
+    "cf_A_vs_B": 0.29,
+    "new_site": 0.5499999999999999,
+    "new_site_A_vs_B": 0.7666666666666666
+   },
+   "Anchor transform + adversary (proposed)": {
+    "factual": 0.6655555555555556,
+    "counterfactual": 0.5950000000000001,
+    "cf_A_vs_B": 0.8,
+    "new_site": 0.6355555555555555,
+    "new_site_A_vs_B": 0.8416666666666667
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6422222222222222,
+    "counterfactual": 0.6283333333333333,
+    "cf_A_vs_B": 0.8400000000000001,
+    "new_site": 0.4633333333333334,
+    "new_site_A_vs_B": 0.6533333333333333
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": true,
+    "A-C": true,
+    "B-C": true
+   },
+   "ERM (logistic)": {
+    "factual": 0.7844444444444445,
+    "counterfactual": 0.26166666666666666,
+    "cf_A_vs_B": 0.06333333333333332,
+    "new_site": 0.5433333333333333,
+    "new_site_A_vs_B": 0.5816666666666667
+   },
+   "ERM (network)": {
+    "factual": 0.7466666666666666,
+    "counterfactual": 0.24444444444444446,
+    "cf_A_vs_B": 0.07,
+    "new_site": 0.4233333333333333,
+    "new_site_A_vs_B": 0.5966666666666667
+   },
+   "Site harmonization": {
+    "factual": 0.5533333333333333,
+    "counterfactual": 0.43,
+    "cf_A_vs_B": 0.5533333333333333,
+    "new_site": 0.5633333333333334,
+    "new_site_A_vs_B": 0.7583333333333333
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.7472222222222222,
+    "counterfactual": 0.24333333333333332,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.4566666666666666,
+    "new_site_A_vs_B": 0.5916666666666667
+   },
+   "Anchor adversary": {
+    "factual": 0.721111111111111,
+    "counterfactual": 0.245,
+    "cf_A_vs_B": 0.008333333333333333,
+    "new_site": 0.41111111111111104,
+    "new_site_A_vs_B": 0.6416666666666667
+   },
+   "Anchor transform + adversary (proposed)": {
+    "factual": 0.6416666666666667,
+    "counterfactual": 0.5988888888888889,
+    "cf_A_vs_B": 0.8,
+    "new_site": 0.6155555555555555,
+    "new_site_A_vs_B": 0.8383333333333334
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6472222222222223,
+    "counterfactual": 0.6261111111111111,
+    "cf_A_vs_B": 0.8233333333333333,
+    "new_site": 0.5622222222222222,
+    "new_site_A_vs_B": 0.825
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": true,
+    "A-C": true,
+    "B-C": true
+   },
+   "ERM (logistic)": {
+    "factual": 0.7922222222222222,
+    "counterfactual": 0.2688888888888889,
+    "cf_A_vs_B": 0.10833333333333334,
+    "new_site": 0.5222222222222223,
+    "new_site_A_vs_B": 0.5616666666666666
+   },
+   "ERM (network)": {
+    "factual": 0.7238888888888888,
+    "counterfactual": 0.24722222222222223,
+    "cf_A_vs_B": 0.03,
+    "new_site": 0.5022222222222222,
+    "new_site_A_vs_B": 0.6233333333333333
+   },
+   "Site harmonization": {
+    "factual": 0.5305555555555556,
+    "counterfactual": 0.4172222222222222,
+    "cf_A_vs_B": 0.5883333333333334,
+    "new_site": 0.5111111111111111,
+    "new_site_A_vs_B": 0.675
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.6822222222222223,
+    "counterfactual": 0.4005555555555556,
+    "cf_A_vs_B": 0.40499999999999997,
+    "new_site": 0.3766666666666667,
+    "new_site_A_vs_B": 0.5133333333333333
+   },
+   "Anchor adversary": {
+    "factual": 0.7455555555555554,
+    "counterfactual": 0.29,
+    "cf_A_vs_B": 0.12666666666666665,
+    "new_site": 0.35777777777777775,
+    "new_site_A_vs_B": 0.5383333333333333
+   },
+   "Anchor transform + adversary (proposed)": {
+    "factual": 0.6427777777777778,
+    "counterfactual": 0.5427777777777777,
+    "cf_A_vs_B": 0.76,
+    "new_site": 0.6166666666666667,
+    "new_site_A_vs_B": 0.8200000000000001
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.655,
+    "counterfactual": 0.6327777777777778,
+    "cf_A_vs_B": 0.85,
+    "new_site": 0.49888888888888894,
+    "new_site_A_vs_B": 0.7483333333333333
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": true,
+    "A-C": true,
+    "B-C": true
+   },
+   "ERM (logistic)": {
+    "factual": 0.8105555555555556,
+    "counterfactual": 0.25277777777777777,
+    "cf_A_vs_B": 0.058333333333333334,
+    "new_site": 0.36000000000000004,
+    "new_site_A_vs_B": 0.5
+   },
+   "ERM (network)": {
+    "factual": 0.7677777777777778,
+    "counterfactual": 0.23722222222222222,
+    "cf_A_vs_B": 0.06833333333333333,
+    "new_site": 0.36999999999999994,
+    "new_site_A_vs_B": 0.5
+   },
+   "Site harmonization": {
+    "factual": 0.5955555555555555,
+    "counterfactual": 0.4222222222222222,
+    "cf_A_vs_B": 0.5833333333333334,
+    "new_site": 0.5166666666666667,
+    "new_site_A_vs_B": 0.7033333333333334
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.8055555555555555,
+    "counterfactual": 0.25166666666666665,
+    "cf_A_vs_B": 0.006666666666666667,
+    "new_site": 0.3422222222222222,
+    "new_site_A_vs_B": 0.5
+   },
+   "Anchor adversary": {
+    "factual": 0.7827777777777779,
+    "counterfactual": 0.24222222222222223,
+    "cf_A_vs_B": 0.005,
+    "new_site": 0.3377777777777778,
+    "new_site_A_vs_B": 0.5
+   },
+   "Anchor transform + adversary (proposed)": {
+    "factual": 0.6538888888888889,
+    "counterfactual": 0.5616666666666666,
+    "cf_A_vs_B": 0.7933333333333333,
+    "new_site": 0.5833333333333334,
+    "new_site_A_vs_B": 0.8216666666666667
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6516666666666667,
+    "counterfactual": 0.625,
+    "cf_A_vs_B": 0.8266666666666667,
+    "new_site": 0.5911111111111111,
+    "new_site_A_vs_B": 0.7383333333333333
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": true,
+    "A-C": true,
+    "B-C": true
+   },
+   "ERM (logistic)": {
+    "factual": 0.8083333333333332,
+    "counterfactual": 0.2638888888888889,
+    "cf_A_vs_B": 0.07833333333333334,
+    "new_site": 0.38666666666666666,
+    "new_site_A_vs_B": 0.8633333333333333
+   },
+   "ERM (network)": {
+    "factual": 0.7427777777777779,
+    "counterfactual": 0.2538888888888889,
+    "cf_A_vs_B": 0.05,
+    "new_site": 0.42888888888888893,
+    "new_site_A_vs_B": 0.5416666666666667
+   },
+   "Site harmonization": {
+    "factual": 0.5744444444444444,
+    "counterfactual": 0.41222222222222227,
+    "cf_A_vs_B": 0.5183333333333333,
+    "new_site": 0.5555555555555556,
+    "new_site_A_vs_B": 0.75
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.7672222222222222,
+    "counterfactual": 0.30277777777777776,
+    "cf_A_vs_B": 0.275,
+    "new_site": 0.43,
+    "new_site_A_vs_B": 0.7683333333333333
+   },
+   "Anchor adversary": {
+    "factual": 0.773888888888889,
+    "counterfactual": 0.2738888888888889,
+    "cf_A_vs_B": 0.13833333333333334,
+    "new_site": 0.35555555555555557,
+    "new_site_A_vs_B": 0.5333333333333333
+   },
+   "Anchor transform + adversary (proposed)": {
+    "factual": 0.6472222222222223,
+    "counterfactual": 0.5783333333333334,
+    "cf_A_vs_B": 0.7883333333333333,
+    "new_site": 0.5622222222222222,
+    "new_site_A_vs_B": 0.7633333333333334
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6394444444444445,
+    "counterfactual": 0.6483333333333334,
+    "cf_A_vs_B": 0.8416666666666667,
+    "new_site": 0.46666666666666673,
+    "new_site_A_vs_B": 0.6566666666666667
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": true,
+    "A-C": true,
+    "B-C": true
+   },
+   "ERM (logistic)": {
+    "factual": 0.7888888888888889,
+    "counterfactual": 0.2677777777777778,
+    "cf_A_vs_B": 0.095,
+    "new_site": 0.3422222222222222,
+    "new_site_A_vs_B": 0.5016666666666667
+   },
+   "ERM (network)": {
+    "factual": 0.7549999999999999,
+    "counterfactual": 0.2561111111111111,
+    "cf_A_vs_B": 0.04666666666666667,
+    "new_site": 0.3811111111111111,
+    "new_site_A_vs_B": 0.5733333333333334
+   },
+   "Site harmonization": {
+    "factual": 0.6033333333333334,
+    "counterfactual": 0.40888888888888886,
+    "cf_A_vs_B": 0.5133333333333333,
+    "new_site": 0.5344444444444444,
+    "new_site_A_vs_B": 0.69
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.7683333333333332,
+    "counterfactual": 0.3327777777777778,
+    "cf_A_vs_B": 0.755,
+    "new_site": 0.37666666666666665,
+    "new_site_A_vs_B": 0.5583333333333333
+   },
+   "Anchor adversary": {
+    "factual": 0.7494444444444445,
+    "counterfactual": 0.2611111111111111,
+    "cf_A_vs_B": 0.04833333333333333,
+    "new_site": 0.34,
+    "new_site_A_vs_B": 0.505
+   },
+   "Anchor transform + adversary (proposed)": {
+    "factual": 0.6433333333333334,
+    "counterfactual": 0.6150000000000001,
+    "cf_A_vs_B": 0.8116666666666666,
+    "new_site": 0.6144444444444445,
+    "new_site_A_vs_B": 0.8
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.5983333333333334,
+    "counterfactual": 0.6622222222222223,
+    "cf_A_vs_B": 0.8616666666666666,
+    "new_site": 0.4566666666666667,
+    "new_site_A_vs_B": 0.6733333333333333
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": true,
+    "A-C": true,
+    "B-C": true
+   },
+   "ERM (logistic)": {
+    "factual": 0.7744444444444444,
+    "counterfactual": 0.2611111111111111,
+    "cf_A_vs_B": 0.11333333333333334,
+    "new_site": 0.3888888888888889,
+    "new_site_A_vs_B": 0.8516666666666666
+   },
+   "ERM (network)": {
+    "factual": 0.7472222222222222,
+    "counterfactual": 0.24666666666666667,
+    "cf_A_vs_B": 0.08166666666666667,
+    "new_site": 0.5111111111111112,
+    "new_site_A_vs_B": 0.7833333333333333
+   },
+   "Site harmonization": {
+    "factual": 0.5211111111111112,
+    "counterfactual": 0.4444444444444444,
+    "cf_A_vs_B": 0.6,
+    "new_site": 0.5455555555555556,
+    "new_site_A_vs_B": 0.7683333333333333
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.7411111111111112,
+    "counterfactual": 0.26555555555555554,
+    "cf_A_vs_B": 0.013333333333333334,
+    "new_site": 0.4177777777777778,
+    "new_site_A_vs_B": 0.7183333333333334
+   },
+   "Anchor adversary": {
+    "factual": 0.7411111111111112,
+    "counterfactual": 0.23666666666666666,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.5222222222222221,
+    "new_site_A_vs_B": 0.595
+   },
+   "Anchor transform + adversary (proposed)": {
+    "factual": 0.6311111111111112,
+    "counterfactual": 0.5883333333333334,
+    "cf_A_vs_B": 0.8016666666666667,
+    "new_site": 0.6233333333333334,
+    "new_site_A_vs_B": 0.835
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6416666666666667,
+    "counterfactual": 0.6438888888888888,
+    "cf_A_vs_B": 0.8366666666666667,
+    "new_site": 0.5166666666666666,
+    "new_site_A_vs_B": 0.7833333333333333
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": true,
+    "A-C": true,
+    "B-C": true
+   },
+   "ERM (logistic)": {
+    "factual": 0.7672222222222222,
+    "counterfactual": 0.2588888888888889,
+    "cf_A_vs_B": 0.051666666666666666,
+    "new_site": 0.4855555555555555,
+    "new_site_A_vs_B": 0.5633333333333334
+   },
+   "ERM (network)": {
+    "factual": 0.7194444444444444,
+    "counterfactual": 0.25166666666666665,
+    "cf_A_vs_B": 0.05,
+    "new_site": 0.6166666666666667,
+    "new_site_A_vs_B": 0.8366666666666667
+   },
+   "Site harmonization": {
+    "factual": 0.5311111111111111,
+    "counterfactual": 0.42777777777777776,
+    "cf_A_vs_B": 0.5116666666666667,
+    "new_site": 0.5488888888888889,
+    "new_site_A_vs_B": 0.7250000000000001
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.7633333333333333,
+    "counterfactual": 0.2572222222222222,
+    "cf_A_vs_B": 0.034999999999999996,
+    "new_site": 0.43444444444444447,
+    "new_site_A_vs_B": 0.54
+   },
+   "Anchor adversary": {
+    "factual": 0.7733333333333334,
+    "counterfactual": 0.2505555555555556,
+    "cf_A_vs_B": 0.15166666666666667,
+    "new_site": 0.5622222222222223,
+    "new_site_A_vs_B": 0.7716666666666667
+   },
+   "Anchor transform + adversary (proposed)": {
+    "factual": 0.6138888888888888,
+    "counterfactual": 0.5555555555555555,
+    "cf_A_vs_B": 0.7316666666666667,
+    "new_site": 0.5977777777777779,
+    "new_site_A_vs_B": 0.805
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.615,
+    "counterfactual": 0.5994444444444444,
+    "cf_A_vs_B": 0.8066666666666666,
+    "new_site": 0.48444444444444446,
+    "new_site_A_vs_B": 0.6316666666666667
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": true,
+    "A-C": true,
+    "B-C": true
+   },
+   "ERM (logistic)": {
+    "factual": 0.7849999999999998,
+    "counterfactual": 0.26833333333333337,
+    "cf_A_vs_B": 0.165,
+    "new_site": 0.508888888888889,
+    "new_site_A_vs_B": 0.6366666666666667
+   },
+   "ERM (network)": {
+    "factual": 0.7272222222222222,
+    "counterfactual": 0.26944444444444443,
+    "cf_A_vs_B": 0.18,
+    "new_site": 0.5077777777777778,
+    "new_site_A_vs_B": 0.705
+   },
+   "Site harmonization": {
+    "factual": 0.5444444444444444,
+    "counterfactual": 0.4338888888888888,
+    "cf_A_vs_B": 0.61,
+    "new_site": 0.5577777777777778,
+    "new_site_A_vs_B": 0.765
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.6444444444444445,
+    "counterfactual": 0.45222222222222214,
+    "cf_A_vs_B": 0.75,
+    "new_site": 0.5911111111111111,
+    "new_site_A_vs_B": 0.7583333333333333
+   },
+   "Anchor adversary": {
+    "factual": 0.7344444444444443,
+    "counterfactual": 0.3833333333333333,
+    "cf_A_vs_B": 0.7466666666666667,
+    "new_site": 0.47222222222222227,
+    "new_site_A_vs_B": 0.6766666666666666
+   },
+   "Anchor transform + adversary (proposed)": {
+    "factual": 0.6266666666666667,
+    "counterfactual": 0.5766666666666667,
+    "cf_A_vs_B": 0.8,
+    "new_site": 0.6077777777777778,
+    "new_site_A_vs_B": 0.81
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6366666666666666,
+    "counterfactual": 0.6377777777777779,
+    "cf_A_vs_B": 0.8466666666666667,
+    "new_site": 0.5711111111111111,
+    "new_site_A_vs_B": 0.7633333333333334
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": true,
+    "A-C": true,
+    "B-C": true
+   },
+   "ERM (logistic)": {
+    "factual": 0.7788888888888889,
+    "counterfactual": 0.26499999999999996,
+    "cf_A_vs_B": 0.15000000000000002,
+    "new_site": 0.5477777777777778,
+    "new_site_A_vs_B": 0.6283333333333333
+   },
+   "ERM (network)": {
+    "factual": 0.7533333333333333,
+    "counterfactual": 0.24777777777777776,
+    "cf_A_vs_B": 0.19333333333333336,
+    "new_site": 0.37777777777777777,
+    "new_site_A_vs_B": 0.56
+   },
+   "Site harmonization": {
+    "factual": 0.5666666666666667,
+    "counterfactual": 0.4088888888888889,
+    "cf_A_vs_B": 0.5449999999999999,
+    "new_site": 0.5333333333333333,
+    "new_site_A_vs_B": 0.725
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.7638888888888888,
+    "counterfactual": 0.26,
+    "cf_A_vs_B": 0.03833333333333333,
+    "new_site": 0.3344444444444445,
+    "new_site_A_vs_B": 0.5
+   },
+   "Anchor adversary": {
+    "factual": 0.7538888888888889,
+    "counterfactual": 0.2577777777777778,
+    "cf_A_vs_B": 0.16833333333333333,
+    "new_site": 0.34888888888888886,
+    "new_site_A_vs_B": 0.5133333333333333
+   },
+   "Anchor transform + adversary (proposed)": {
+    "factual": 0.6822222222222223,
+    "counterfactual": 0.5355555555555556,
+    "cf_A_vs_B": 0.7616666666666667,
+    "new_site": 0.6333333333333333,
+    "new_site_A_vs_B": 0.8366666666666667
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6316666666666667,
+    "counterfactual": 0.63,
+    "cf_A_vs_B": 0.8283333333333334,
+    "new_site": 0.4066666666666667,
+    "new_site_A_vs_B": 0.5783333333333334
+   }
+  }
+ ],
+ "no_bridge": [
+  {
+   "identifiable": {
+    "A-B": false,
+    "A-C": true,
+    "B-C": false
+   },
+   "ERM (logistic)": {
+    "factual": 0.8577777777777778,
+    "counterfactual": 0.13444444444444445,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.45999999999999996,
+    "new_site_A_vs_B": 0.6616666666666666
+   },
+   "ERM (network)": {
+    "factual": 0.8388888888888889,
+    "counterfactual": 0.12888888888888891,
+    "cf_A_vs_B": 0.11166666666666666,
+    "new_site": 0.4911111111111111,
+    "new_site_A_vs_B": 0.6766666666666666
+   },
+   "Site harmonization": {
+    "factual": 0.5299999999999999,
+    "counterfactual": 0.4077777777777778,
+    "cf_A_vs_B": 0.5333333333333333,
+    "new_site": 0.48000000000000004,
+    "new_site_A_vs_B": 0.6333333333333333
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.8533333333333334,
+    "counterfactual": 0.1461111111111111,
+    "cf_A_vs_B": 0.225,
+    "new_site": 0.42333333333333334,
+    "new_site_A_vs_B": 0.5633333333333334
+   },
+   "Anchor adversary": {
+    "factual": 0.8422222222222223,
+    "counterfactual": 0.1377777777777778,
+    "cf_A_vs_B": 0.13833333333333334,
+    "new_site": 0.5344444444444445,
+    "new_site_A_vs_B": 0.8016666666666667
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6177777777777779,
+    "counterfactual": 0.6422222222222222,
+    "cf_A_vs_B": 0.85,
+    "new_site": 0.6022222222222222,
+    "new_site_A_vs_B": 0.8416666666666667
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": false,
+    "A-C": true,
+    "B-C": false
+   },
+   "ERM (logistic)": {
+    "factual": 0.8644444444444445,
+    "counterfactual": 0.135,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.3211111111111111,
+    "new_site_A_vs_B": 0.5033333333333333
+   },
+   "ERM (network)": {
+    "factual": 0.8366666666666666,
+    "counterfactual": 0.1288888888888889,
+    "cf_A_vs_B": 0.008333333333333333,
+    "new_site": 0.4155555555555556,
+    "new_site_A_vs_B": 0.635
+   },
+   "Site harmonization": {
+    "factual": 0.5822222222222223,
+    "counterfactual": 0.38888888888888884,
+    "cf_A_vs_B": 0.4816666666666667,
+    "new_site": 0.5033333333333333,
+    "new_site_A_vs_B": 0.7
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.8433333333333334,
+    "counterfactual": 0.1288888888888889,
+    "cf_A_vs_B": 0.0016666666666666668,
+    "new_site": 0.3144444444444444,
+    "new_site_A_vs_B": 0.505
+   },
+   "Anchor adversary": {
+    "factual": 0.8466666666666667,
+    "counterfactual": 0.12388888888888888,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.30666666666666664,
+    "new_site_A_vs_B": 0.5316666666666667
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6433333333333333,
+    "counterfactual": 0.6327777777777778,
+    "cf_A_vs_B": 0.8333333333333334,
+    "new_site": 0.5788888888888889,
+    "new_site_A_vs_B": 0.8633333333333333
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": false,
+    "A-C": true,
+    "B-C": false
+   },
+   "ERM (logistic)": {
+    "factual": 0.8655555555555555,
+    "counterfactual": 0.13555555555555557,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.5688888888888889,
+    "new_site_A_vs_B": 0.7150000000000001
+   },
+   "ERM (network)": {
+    "factual": 0.8611111111111112,
+    "counterfactual": 0.13333333333333333,
+    "cf_A_vs_B": 0.006666666666666667,
+    "new_site": 0.42444444444444446,
+    "new_site_A_vs_B": 0.5966666666666667
+   },
+   "Site harmonization": {
+    "factual": 0.5888888888888889,
+    "counterfactual": 0.42277777777777775,
+    "cf_A_vs_B": 0.5216666666666667,
+    "new_site": 0.4633333333333334,
+    "new_site_A_vs_B": 0.6483333333333333
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.7933333333333333,
+    "counterfactual": 0.18499999999999997,
+    "cf_A_vs_B": 0.36166666666666664,
+    "new_site": 0.44555555555555554,
+    "new_site_A_vs_B": 0.6116666666666667
+   },
+   "Anchor adversary": {
+    "factual": 0.8533333333333334,
+    "counterfactual": 0.1338888888888889,
+    "cf_A_vs_B": 0.016666666666666666,
+    "new_site": 0.40444444444444444,
+    "new_site_A_vs_B": 0.5133333333333333
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6211111111111111,
+    "counterfactual": 0.6438888888888888,
+    "cf_A_vs_B": 0.8700000000000001,
+    "new_site": 0.5577777777777778,
+    "new_site_A_vs_B": 0.7933333333333333
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": false,
+    "A-C": true,
+    "B-C": false
+   },
+   "ERM (logistic)": {
+    "factual": 0.8622222222222223,
+    "counterfactual": 0.13166666666666668,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.38666666666666666,
+    "new_site_A_vs_B": 0.5
+   },
+   "ERM (network)": {
+    "factual": 0.8377777777777777,
+    "counterfactual": 0.12666666666666668,
+    "cf_A_vs_B": 0.016666666666666666,
+    "new_site": 0.3844444444444444,
+    "new_site_A_vs_B": 0.6666666666666666
+   },
+   "Site harmonization": {
+    "factual": 0.5866666666666667,
+    "counterfactual": 0.3572222222222223,
+    "cf_A_vs_B": 0.4683333333333333,
+    "new_site": 0.49,
+    "new_site_A_vs_B": 0.6583333333333333
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.8411111111111111,
+    "counterfactual": 0.125,
+    "cf_A_vs_B": 0.0016666666666666668,
+    "new_site": 0.41111111111111115,
+    "new_site_A_vs_B": 0.5283333333333333
+   },
+   "Anchor adversary": {
+    "factual": 0.8377777777777777,
+    "counterfactual": 0.1322222222222222,
+    "cf_A_vs_B": 0.005,
+    "new_site": 0.3577777777777778,
+    "new_site_A_vs_B": 0.54
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6511111111111112,
+    "counterfactual": 0.62,
+    "cf_A_vs_B": 0.815,
+    "new_site": 0.48888888888888893,
+    "new_site_A_vs_B": 0.565
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": false,
+    "A-C": true,
+    "B-C": false
+   },
+   "ERM (logistic)": {
+    "factual": 0.8633333333333333,
+    "counterfactual": 0.1338888888888889,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.3333333333333333,
+    "new_site_A_vs_B": 0.5
+   },
+   "ERM (network)": {
+    "factual": 0.8255555555555555,
+    "counterfactual": 0.12111111111111111,
+    "cf_A_vs_B": 0.0016666666666666668,
+    "new_site": 0.3377777777777778,
+    "new_site_A_vs_B": 0.5016666666666667
+   },
+   "Site harmonization": {
+    "factual": 0.62,
+    "counterfactual": 0.3311111111111111,
+    "cf_A_vs_B": 0.41333333333333333,
+    "new_site": 0.45555555555555555,
+    "new_site_A_vs_B": 0.63
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.8155555555555556,
+    "counterfactual": 0.16611111111111113,
+    "cf_A_vs_B": 0.13166666666666665,
+    "new_site": 0.3344444444444445,
+    "new_site_A_vs_B": 0.5016666666666667
+   },
+   "Anchor adversary": {
+    "factual": 0.8177777777777777,
+    "counterfactual": 0.1272222222222222,
+    "cf_A_vs_B": 0.0033333333333333335,
+    "new_site": 0.4077777777777778,
+    "new_site_A_vs_B": 0.6116666666666667
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6366666666666667,
+    "counterfactual": 0.6461111111111112,
+    "cf_A_vs_B": 0.7966666666666666,
+    "new_site": 0.5144444444444445,
+    "new_site_A_vs_B": 0.77
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": false,
+    "A-C": true,
+    "B-C": false
+   },
+   "ERM (logistic)": {
+    "factual": 0.8555555555555555,
+    "counterfactual": 0.13444444444444445,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.3877777777777778,
+    "new_site_A_vs_B": 0.5816666666666667
+   },
+   "ERM (network)": {
+    "factual": 0.8488888888888889,
+    "counterfactual": 0.12055555555555557,
+    "cf_A_vs_B": 0.028333333333333332,
+    "new_site": 0.39111111111111113,
+    "new_site_A_vs_B": 0.5816666666666667
+   },
+   "Site harmonization": {
+    "factual": 0.5366666666666667,
+    "counterfactual": 0.34888888888888886,
+    "cf_A_vs_B": 0.45999999999999996,
+    "new_site": 0.44999999999999996,
+    "new_site_A_vs_B": 0.7233333333333334
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.8377777777777777,
+    "counterfactual": 0.12833333333333333,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.36000000000000004,
+    "new_site_A_vs_B": 0.5433333333333333
+   },
+   "Anchor adversary": {
+    "factual": 0.8177777777777777,
+    "counterfactual": 0.12277777777777778,
+    "cf_A_vs_B": 0.03833333333333333,
+    "new_site": 0.34,
+    "new_site_A_vs_B": 0.515
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6322222222222221,
+    "counterfactual": 0.6311111111111112,
+    "cf_A_vs_B": 0.825,
+    "new_site": 0.3377777777777778,
+    "new_site_A_vs_B": 0.505
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": false,
+    "A-C": true,
+    "B-C": false
+   },
+   "ERM (logistic)": {
+    "factual": 0.8644444444444445,
+    "counterfactual": 0.12388888888888888,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.3955555555555556,
+    "new_site_A_vs_B": 0.5
+   },
+   "ERM (network)": {
+    "factual": 0.8477777777777779,
+    "counterfactual": 0.12944444444444445,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.35777777777777775,
+    "new_site_A_vs_B": 0.5
+   },
+   "Site harmonization": {
+    "factual": 0.5722222222222223,
+    "counterfactual": 0.36666666666666664,
+    "cf_A_vs_B": 0.45499999999999996,
+    "new_site": 0.46666666666666673,
+    "new_site_A_vs_B": 0.6733333333333333
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.8266666666666667,
+    "counterfactual": 0.12277777777777778,
+    "cf_A_vs_B": 0.0016666666666666668,
+    "new_site": 0.34555555555555556,
+    "new_site_A_vs_B": 0.5
+   },
+   "Anchor adversary": {
+    "factual": 0.8255555555555555,
+    "counterfactual": 0.12444444444444445,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.4366666666666667,
+    "new_site_A_vs_B": 0.5
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.65,
+    "counterfactual": 0.6416666666666666,
+    "cf_A_vs_B": 0.8266666666666667,
+    "new_site": 0.5411111111111111,
+    "new_site_A_vs_B": 0.6866666666666666
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": false,
+    "A-C": true,
+    "B-C": false
+   },
+   "ERM (logistic)": {
+    "factual": 0.8533333333333334,
+    "counterfactual": 0.1311111111111111,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.3377777777777778,
+    "new_site_A_vs_B": 0.5
+   },
+   "ERM (network)": {
+    "factual": 0.8355555555555556,
+    "counterfactual": 0.12611111111111112,
+    "cf_A_vs_B": 0.035,
+    "new_site": 0.40111111111111114,
+    "new_site_A_vs_B": 0.5516666666666666
+   },
+   "Site harmonization": {
+    "factual": 0.561111111111111,
+    "counterfactual": 0.3622222222222222,
+    "cf_A_vs_B": 0.44333333333333336,
+    "new_site": 0.45999999999999996,
+    "new_site_A_vs_B": 0.6233333333333333
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.8233333333333333,
+    "counterfactual": 0.12666666666666668,
+    "cf_A_vs_B": 0.0016666666666666668,
+    "new_site": 0.36000000000000004,
+    "new_site_A_vs_B": 0.5366666666666666
+   },
+   "Anchor adversary": {
+    "factual": 0.8033333333333333,
+    "counterfactual": 0.12555555555555556,
+    "cf_A_vs_B": 0.021666666666666667,
+    "new_site": 0.47,
+    "new_site_A_vs_B": 0.62
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6444444444444444,
+    "counterfactual": 0.6094444444444445,
+    "cf_A_vs_B": 0.8116666666666668,
+    "new_site": 0.6155555555555555,
+    "new_site_A_vs_B": 0.8
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": false,
+    "A-C": true,
+    "B-C": false
+   },
+   "ERM (logistic)": {
+    "factual": 0.8688888888888888,
+    "counterfactual": 0.13555555555555557,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.45,
+    "new_site_A_vs_B": 0.675
+   },
+   "ERM (network)": {
+    "factual": 0.8355555555555556,
+    "counterfactual": 0.12333333333333334,
+    "cf_A_vs_B": 0.07166666666666667,
+    "new_site": 0.5144444444444445,
+    "new_site_A_vs_B": 0.7633333333333333
+   },
+   "Site harmonization": {
+    "factual": 0.57,
+    "counterfactual": 0.38277777777777783,
+    "cf_A_vs_B": 0.4966666666666667,
+    "new_site": 0.4811111111111111,
+    "new_site_A_vs_B": 0.6666666666666666
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.8111111111111112,
+    "counterfactual": 0.14277777777777778,
+    "cf_A_vs_B": 0.04666666666666667,
+    "new_site": 0.4344444444444444,
+    "new_site_A_vs_B": 0.6033333333333333
+   },
+   "Anchor adversary": {
+    "factual": 0.84,
+    "counterfactual": 0.15722222222222224,
+    "cf_A_vs_B": 0.043333333333333335,
+    "new_site": 0.4777777777777778,
+    "new_site_A_vs_B": 0.7166666666666667
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6211111111111111,
+    "counterfactual": 0.6511111111111111,
+    "cf_A_vs_B": 0.855,
+    "new_site": 0.4033333333333333,
+    "new_site_A_vs_B": 0.7333333333333333
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": false,
+    "A-C": true,
+    "B-C": false
+   },
+   "ERM (logistic)": {
+    "factual": 0.8622222222222223,
+    "counterfactual": 0.13277777777777777,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.3422222222222222,
+    "new_site_A_vs_B": 0.5116666666666667
+   },
+   "ERM (network)": {
+    "factual": 0.8344444444444444,
+    "counterfactual": 0.12388888888888888,
+    "cf_A_vs_B": 0.041666666666666664,
+    "new_site": 0.41,
+    "new_site_A_vs_B": 0.6166666666666667
+   },
+   "Site harmonization": {
+    "factual": 0.5544444444444444,
+    "counterfactual": 0.3855555555555556,
+    "cf_A_vs_B": 0.505,
+    "new_site": 0.4677777777777778,
+    "new_site_A_vs_B": 0.6833333333333333
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.8255555555555555,
+    "counterfactual": 0.12222222222222222,
+    "cf_A_vs_B": 0.0016666666666666668,
+    "new_site": 0.4711111111111111,
+    "new_site_A_vs_B": 0.7166666666666667
+   },
+   "Anchor adversary": {
+    "factual": 0.8444444444444444,
+    "counterfactual": 0.12555555555555556,
+    "cf_A_vs_B": 0.005,
+    "new_site": 0.4677777777777778,
+    "new_site_A_vs_B": 0.725
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6188888888888889,
+    "counterfactual": 0.6438888888888888,
+    "cf_A_vs_B": 0.8366666666666667,
+    "new_site": 0.5722222222222221,
+    "new_site_A_vs_B": 0.7816666666666667
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": false,
+    "A-C": true,
+    "B-C": false
+   },
+   "ERM (logistic)": {
+    "factual": 0.8777777777777778,
+    "counterfactual": 0.13333333333333333,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.3333333333333333,
+    "new_site_A_vs_B": 0.5
+   },
+   "ERM (network)": {
+    "factual": 0.8377777777777777,
+    "counterfactual": 0.1361111111111111,
+    "cf_A_vs_B": 0.0033333333333333335,
+    "new_site": 0.4444444444444445,
+    "new_site_A_vs_B": 0.6416666666666667
+   },
+   "Site harmonization": {
+    "factual": 0.6499999999999999,
+    "counterfactual": 0.3277777777777778,
+    "cf_A_vs_B": 0.42666666666666664,
+    "new_site": 0.48444444444444446,
+    "new_site_A_vs_B": 0.7166666666666667
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.8288888888888889,
+    "counterfactual": 0.13055555555555556,
+    "cf_A_vs_B": 0.015,
+    "new_site": 0.4555555555555555,
+    "new_site_A_vs_B": 0.5666666666666667
+   },
+   "Anchor adversary": {
+    "factual": 0.8233333333333333,
+    "counterfactual": 0.12833333333333333,
+    "cf_A_vs_B": 0.026666666666666665,
+    "new_site": 0.4166666666666667,
+    "new_site_A_vs_B": 0.5283333333333333
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6288888888888889,
+    "counterfactual": 0.6288888888888889,
+    "cf_A_vs_B": 0.865,
+    "new_site": 0.3844444444444444,
+    "new_site_A_vs_B": 0.6033333333333333
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": false,
+    "A-C": true,
+    "B-C": false
+   },
+   "ERM (logistic)": {
+    "factual": 0.8300000000000001,
+    "counterfactual": 0.11944444444444445,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.47555555555555556,
+    "new_site_A_vs_B": 0.7133333333333334
+   },
+   "ERM (network)": {
+    "factual": 0.8077777777777778,
+    "counterfactual": 0.11833333333333333,
+    "cf_A_vs_B": 0.015,
+    "new_site": 0.44555555555555554,
+    "new_site_A_vs_B": 0.6683333333333333
+   },
+   "Site harmonization": {
+    "factual": 0.5477777777777778,
+    "counterfactual": 0.3561111111111111,
+    "cf_A_vs_B": 0.49833333333333335,
+    "new_site": 0.4677777777777778,
+    "new_site_A_vs_B": 0.6416666666666666
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.8122222222222222,
+    "counterfactual": 0.1111111111111111,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.43999999999999995,
+    "new_site_A_vs_B": 0.6333333333333333
+   },
+   "Anchor adversary": {
+    "factual": 0.7977777777777778,
+    "counterfactual": 0.11722222222222223,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.4611111111111111,
+    "new_site_A_vs_B": 0.69
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.63,
+    "counterfactual": 0.6555555555555556,
+    "cf_A_vs_B": 0.8483333333333334,
+    "new_site": 0.5422222222222223,
+    "new_site_A_vs_B": 0.78
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": false,
+    "A-C": true,
+    "B-C": false
+   },
+   "ERM (logistic)": {
+    "factual": 0.8566666666666666,
+    "counterfactual": 0.1311111111111111,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.3333333333333333,
+    "new_site_A_vs_B": 0.5
+   },
+   "ERM (network)": {
+    "factual": 0.8355555555555556,
+    "counterfactual": 0.12833333333333333,
+    "cf_A_vs_B": 0.023333333333333334,
+    "new_site": 0.35666666666666663,
+    "new_site_A_vs_B": 0.53
+   },
+   "Site harmonization": {
+    "factual": 0.54,
+    "counterfactual": 0.39166666666666666,
+    "cf_A_vs_B": 0.5216666666666667,
+    "new_site": 0.4444444444444444,
+    "new_site_A_vs_B": 0.6433333333333333
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.8233333333333334,
+    "counterfactual": 0.16333333333333336,
+    "cf_A_vs_B": 0.05333333333333334,
+    "new_site": 0.4333333333333334,
+    "new_site_A_vs_B": 0.5316666666666667
+   },
+   "Anchor adversary": {
+    "factual": 0.8433333333333334,
+    "counterfactual": 0.14055555555555557,
+    "cf_A_vs_B": 0.006666666666666667,
+    "new_site": 0.4033333333333333,
+    "new_site_A_vs_B": 0.5866666666666667
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6422222222222222,
+    "counterfactual": 0.6605555555555555,
+    "cf_A_vs_B": 0.8633333333333333,
+    "new_site": 0.4633333333333334,
+    "new_site_A_vs_B": 0.69
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": false,
+    "A-C": true,
+    "B-C": false
+   },
+   "ERM (logistic)": {
+    "factual": 0.831111111111111,
+    "counterfactual": 0.13277777777777777,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.3333333333333333,
+    "new_site_A_vs_B": 0.5
+   },
+   "ERM (network)": {
+    "factual": 0.8011111111111111,
+    "counterfactual": 0.13166666666666668,
+    "cf_A_vs_B": 0.03,
+    "new_site": 0.3333333333333333,
+    "new_site_A_vs_B": 0.5
+   },
+   "Site harmonization": {
+    "factual": 0.5533333333333333,
+    "counterfactual": 0.38055555555555554,
+    "cf_A_vs_B": 0.4983333333333333,
+    "new_site": 0.42333333333333334,
+    "new_site_A_vs_B": 0.5833333333333333
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.831111111111111,
+    "counterfactual": 0.13,
+    "cf_A_vs_B": 0.02666666666666667,
+    "new_site": 0.3333333333333333,
+    "new_site_A_vs_B": 0.5
+   },
+   "Anchor adversary": {
+    "factual": 0.8177777777777777,
+    "counterfactual": 0.11722222222222221,
+    "cf_A_vs_B": 0.06999999999999999,
+    "new_site": 0.33666666666666667,
+    "new_site_A_vs_B": 0.505
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6288888888888889,
+    "counterfactual": 0.6427777777777778,
+    "cf_A_vs_B": 0.825,
+    "new_site": 0.5044444444444444,
+    "new_site_A_vs_B": 0.6716666666666666
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": false,
+    "A-C": true,
+    "B-C": false
+   },
+   "ERM (logistic)": {
+    "factual": 0.8744444444444444,
+    "counterfactual": 0.12666666666666668,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.49666666666666665,
+    "new_site_A_vs_B": 0.795
+   },
+   "ERM (network)": {
+    "factual": 0.8533333333333334,
+    "counterfactual": 0.1111111111111111,
+    "cf_A_vs_B": 0.035,
+    "new_site": 0.4288888888888889,
+    "new_site_A_vs_B": 0.5266666666666666
+   },
+   "Site harmonization": {
+    "factual": 0.63,
+    "counterfactual": 0.33,
+    "cf_A_vs_B": 0.43000000000000005,
+    "new_site": 0.42777777777777776,
+    "new_site_A_vs_B": 0.6316666666666666
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.6755555555555555,
+    "counterfactual": 0.16166666666666665,
+    "cf_A_vs_B": 0.24833333333333332,
+    "new_site": 0.38777777777777783,
+    "new_site_A_vs_B": 0.55
+   },
+   "Anchor adversary": {
+    "factual": 0.8411111111111111,
+    "counterfactual": 0.11833333333333333,
+    "cf_A_vs_B": 0.041666666666666664,
+    "new_site": 0.4266666666666667,
+    "new_site_A_vs_B": 0.5
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.65,
+    "counterfactual": 0.6427777777777778,
+    "cf_A_vs_B": 0.8383333333333334,
+    "new_site": 0.36777777777777776,
+    "new_site_A_vs_B": 0.7916666666666667
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": false,
+    "A-C": true,
+    "B-C": false
+   },
+   "ERM (logistic)": {
+    "factual": 0.8755555555555555,
+    "counterfactual": 0.1272222222222222,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.3433333333333333,
+    "new_site_A_vs_B": 0.5
+   },
+   "ERM (network)": {
+    "factual": 0.831111111111111,
+    "counterfactual": 0.11499999999999999,
+    "cf_A_vs_B": 0.0016666666666666668,
+    "new_site": 0.38000000000000006,
+    "new_site_A_vs_B": 0.5700000000000001
+   },
+   "Site harmonization": {
+    "factual": 0.6222222222222222,
+    "counterfactual": 0.3233333333333333,
+    "cf_A_vs_B": 0.43,
+    "new_site": 0.43555555555555553,
+    "new_site_A_vs_B": 0.5866666666666667
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.831111111111111,
+    "counterfactual": 0.10777777777777776,
+    "cf_A_vs_B": 0.06333333333333334,
+    "new_site": 0.33777777777777773,
+    "new_site_A_vs_B": 0.505
+   },
+   "Anchor adversary": {
+    "factual": 0.8255555555555555,
+    "counterfactual": 0.11833333333333333,
+    "cf_A_vs_B": 0.07333333333333333,
+    "new_site": 0.4255555555555555,
+    "new_site_A_vs_B": 0.6316666666666666
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6544444444444445,
+    "counterfactual": 0.6422222222222222,
+    "cf_A_vs_B": 0.8583333333333334,
+    "new_site": 0.5233333333333333,
+    "new_site_A_vs_B": 0.6383333333333333
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": false,
+    "A-C": true,
+    "B-C": false
+   },
+   "ERM (logistic)": {
+    "factual": 0.8477777777777779,
+    "counterfactual": 0.1288888888888889,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.33888888888888885,
+    "new_site_A_vs_B": 0.5083333333333333
+   },
+   "ERM (network)": {
+    "factual": 0.8155555555555556,
+    "counterfactual": 0.12833333333333333,
+    "cf_A_vs_B": 0.045,
+    "new_site": 0.3688888888888889,
+    "new_site_A_vs_B": 0.5533333333333333
+   },
+   "Site harmonization": {
+    "factual": 0.5255555555555556,
+    "counterfactual": 0.4066666666666667,
+    "cf_A_vs_B": 0.5133333333333333,
+    "new_site": 0.44222222222222224,
+    "new_site_A_vs_B": 0.635
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.8188888888888889,
+    "counterfactual": 0.12277777777777778,
+    "cf_A_vs_B": 0.07833333333333332,
+    "new_site": 0.41111111111111115,
+    "new_site_A_vs_B": 0.6133333333333333
+   },
+   "Anchor adversary": {
+    "factual": 0.8422222222222223,
+    "counterfactual": 0.13277777777777777,
+    "cf_A_vs_B": 0.011666666666666667,
+    "new_site": 0.5066666666666667,
+    "new_site_A_vs_B": 0.7516666666666667
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6377777777777778,
+    "counterfactual": 0.6127777777777778,
+    "cf_A_vs_B": 0.83,
+    "new_site": 0.47444444444444445,
+    "new_site_A_vs_B": 0.62
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": false,
+    "A-C": true,
+    "B-C": false
+   },
+   "ERM (logistic)": {
+    "factual": 0.8444444444444444,
+    "counterfactual": 0.13055555555555556,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.49222222222222217,
+    "new_site_A_vs_B": 0.5
+   },
+   "ERM (network)": {
+    "factual": 0.8455555555555555,
+    "counterfactual": 0.12055555555555557,
+    "cf_A_vs_B": 0.0,
+    "new_site": 0.4811111111111111,
+    "new_site_A_vs_B": 0.5283333333333333
+   },
+   "Site harmonization": {
+    "factual": 0.5755555555555555,
+    "counterfactual": 0.3522222222222222,
+    "cf_A_vs_B": 0.46166666666666667,
+    "new_site": 0.4577777777777778,
+    "new_site_A_vs_B": 0.6483333333333334
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.8377777777777777,
+    "counterfactual": 0.12166666666666666,
+    "cf_A_vs_B": 0.08833333333333333,
+    "new_site": 0.47,
+    "new_site_A_vs_B": 0.53
+   },
+   "Anchor adversary": {
+    "factual": 0.8155555555555556,
+    "counterfactual": 0.12111111111111111,
+    "cf_A_vs_B": 0.03833333333333333,
+    "new_site": 0.4677777777777778,
+    "new_site_A_vs_B": 0.5216666666666667
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6533333333333333,
+    "counterfactual": 0.5750000000000001,
+    "cf_A_vs_B": 0.7933333333333333,
+    "new_site": 0.561111111111111,
+    "new_site_A_vs_B": 0.76
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": false,
+    "A-C": true,
+    "B-C": false
+   },
+   "ERM (logistic)": {
+    "factual": 0.8588888888888889,
+    "counterfactual": 0.135,
+    "cf_A_vs_B": 0.005,
+    "new_site": 0.3755555555555556,
+    "new_site_A_vs_B": 0.5133333333333333
+   },
+   "ERM (network)": {
+    "factual": 0.81,
+    "counterfactual": 0.12888888888888891,
+    "cf_A_vs_B": 0.06333333333333334,
+    "new_site": 0.44333333333333336,
+    "new_site_A_vs_B": 0.5583333333333333
+   },
+   "Site harmonization": {
+    "factual": 0.5266666666666666,
+    "counterfactual": 0.40444444444444444,
+    "cf_A_vs_B": 0.5233333333333333,
+    "new_site": 0.4388888888888889,
+    "new_site_A_vs_B": 0.6116666666666667
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.7922222222222222,
+    "counterfactual": 0.21166666666666667,
+    "cf_A_vs_B": 0.32,
+    "new_site": 0.46555555555555556,
+    "new_site_A_vs_B": 0.6483333333333333
+   },
+   "Anchor adversary": {
+    "factual": 0.82,
+    "counterfactual": 0.16333333333333333,
+    "cf_A_vs_B": 0.08833333333333333,
+    "new_site": 0.48666666666666664,
+    "new_site_A_vs_B": 0.7366666666666667
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6511111111111111,
+    "counterfactual": 0.6288888888888889,
+    "cf_A_vs_B": 0.79,
+    "new_site": 0.6344444444444445,
+    "new_site_A_vs_B": 0.84
+   }
+  },
+  {
+   "identifiable": {
+    "A-B": false,
+    "A-C": true,
+    "B-C": false
+   },
+   "ERM (logistic)": {
+    "factual": 0.8544444444444445,
+    "counterfactual": 0.13055555555555556,
+    "cf_A_vs_B": 0.0016666666666666668,
+    "new_site": 0.5088888888888888,
+    "new_site_A_vs_B": 0.5016666666666667
+   },
+   "ERM (network)": {
+    "factual": 0.8366666666666666,
+    "counterfactual": 0.1288888888888889,
+    "cf_A_vs_B": 0.016666666666666666,
+    "new_site": 0.3977777777777778,
+    "new_site_A_vs_B": 0.525
+   },
+   "Site harmonization": {
+    "factual": 0.56,
+    "counterfactual": 0.345,
+    "cf_A_vs_B": 0.47833333333333333,
+    "new_site": 0.45555555555555555,
+    "new_site_A_vs_B": 0.6366666666666667
+   },
+   "Site adversary (DANN)": {
+    "factual": 0.8055555555555557,
+    "counterfactual": 0.1327777777777778,
+    "cf_A_vs_B": 0.26166666666666666,
+    "new_site": 0.37777777777777777,
+    "new_site_A_vs_B": 0.5316666666666666
+   },
+   "Anchor adversary": {
+    "factual": 0.85,
+    "counterfactual": 0.12722222222222224,
+    "cf_A_vs_B": 0.07166666666666667,
+    "new_site": 0.3433333333333333,
+    "new_site_A_vs_B": 0.5066666666666667
+   },
+   "Oracle (unconfounded training)": {
+    "factual": 0.6433333333333334,
+    "counterfactual": 0.6538888888888889,
+    "cf_A_vs_B": 0.8733333333333333,
+    "new_site": 0.5422222222222222,
+    "new_site_A_vs_B": 0.7816666666666667
+   }
+  }
+ ]
+}

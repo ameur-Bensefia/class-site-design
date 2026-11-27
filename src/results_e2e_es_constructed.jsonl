@@ -1,0 +1,290 @@
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 0, "method": "ERM", "n_train": 5035, "best_epoch": 1, "auc": 0.5025034645340105}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 0, "method": "Linear head on learned features", "n_train": 5035, "best_epoch": 1, "auc": 0.5203635244569005}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 0, "method": "DANN", "n_train": 5035, "best_epoch": 2, "auc": 0.6269927844788876}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 0, "method": "FOND", "n_train": 5035, "best_epoch": 4, "auc": 0.46450759100692135}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 1, "method": "ERM", "n_train": 5169, "best_epoch": 3, "auc": 0.631135035601758}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 1, "method": "Linear head on learned features", "n_train": 5169, "best_epoch": 3, "auc": 0.602682592651368}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 1, "method": "DANN", "n_train": 5169, "best_epoch": 6, "auc": 0.41977888689466397}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 1, "method": "FOND", "n_train": 5169, "best_epoch": 1, "auc": 0.4513209194693226}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 2, "method": "ERM", "n_train": 4920, "best_epoch": 4, "auc": 0.615450675182516}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 2, "method": "Linear head on learned features", "n_train": 4920, "best_epoch": 4, "auc": 0.6097060418374871}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 2, "method": "DANN", "n_train": 4920, "best_epoch": 4, "auc": 0.4097279944161646}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 2, "method": "FOND", "n_train": 4920, "best_epoch": 4, "auc": 0.5291171873680734}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 3, "method": "ERM", "n_train": 5093, "best_epoch": 4, "auc": 0.5312762187496434}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 3, "method": "Linear head on learned features", "n_train": 5093, "best_epoch": 4, "auc": 0.5317601439295461}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 3, "method": "DANN", "n_train": 5093, "best_epoch": 3, "auc": 0.3829943832282467}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 3, "method": "FOND", "n_train": 5093, "best_epoch": 2, "auc": 0.46659719790938425}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 4, "method": "ERM", "n_train": 5043, "best_epoch": 1, "auc": 0.596324092417144}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 4, "method": "Linear head on learned features", "n_train": 5043, "best_epoch": 1, "auc": 0.6323584052584131}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 4, "method": "DANN", "n_train": 5043, "best_epoch": 3, "auc": 0.6162391268377427}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 4, "method": "FOND", "n_train": 5043, "best_epoch": 4, "auc": 0.4813427262354779}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 5, "method": "ERM", "n_train": 5089, "best_epoch": 3, "auc": 0.5241962778109438}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 5, "method": "Linear head on learned features", "n_train": 5089, "best_epoch": 3, "auc": 0.5363528582325237}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 5, "method": "DANN", "n_train": 5089, "best_epoch": 2, "auc": 0.5421364728146831}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 5, "method": "FOND", "n_train": 5089, "best_epoch": 3, "auc": 0.5320837869729902}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 6, "method": "ERM", "n_train": 5075, "best_epoch": 2, "auc": 0.5687330547558487}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 6, "method": "Linear head on learned features", "n_train": 5075, "best_epoch": 2, "auc": 0.5521733309991865}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 6, "method": "DANN", "n_train": 5075, "best_epoch": 4, "auc": 0.5257874803424134}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 6, "method": "FOND", "n_train": 5075, "best_epoch": 1, "auc": 0.5829814030772489}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 7, "method": "ERM", "n_train": 5077, "best_epoch": 2, "auc": 0.6513879437407116}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 7, "method": "Linear head on learned features", "n_train": 5077, "best_epoch": 2, "auc": 0.6478499955751809}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 7, "method": "DANN", "n_train": 5077, "best_epoch": 2, "auc": 0.5189062800391825}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 7, "method": "FOND", "n_train": 5077, "best_epoch": 2, "auc": 0.4492719265052777}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 8, "method": "ERM", "n_train": 4906, "best_epoch": 3, "auc": 0.5121377517868746}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 8, "method": "Linear head on learned features", "n_train": 4906, "best_epoch": 3, "auc": 0.50614938906721}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 8, "method": "DANN", "n_train": 4906, "best_epoch": 3, "auc": 0.6057326552248066}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 8, "method": "FOND", "n_train": 4906, "best_epoch": 4, "auc": 0.42861090347701614}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 9, "method": "ERM", "n_train": 5017, "best_epoch": 2, "auc": 0.676396468680646}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 9, "method": "Linear head on learned features", "n_train": 5017, "best_epoch": 2, "auc": 0.6742463919925512}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 9, "method": "DANN", "n_train": 5017, "best_epoch": 3, "auc": 0.5031650778997985}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 9, "method": "FOND", "n_train": 5017, "best_epoch": 4, "auc": 0.48587787141909644}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 0, "method": "ERM", "n_train": 5135, "best_epoch": 2, "auc": 0.5930101574717805}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 0, "method": "Linear head on learned features", "n_train": 5135, "best_epoch": 2, "auc": 0.5300824133285849}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 0, "method": "ComBat on learned features", "n_train": 5135, "best_epoch": 2, "auc": 0.582294295712494}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 0, "method": "Anchor centring on learned features", "n_train": 5135, "best_epoch": 2, "auc": 0.5439457752040011}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 0, "method": "Anchor-referenced CORAL on learned features", "n_train": 5135, "best_epoch": 2, "auc": 0.5391409116950281}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 0, "method": "DANN", "n_train": 5135, "best_epoch": 2, "auc": 0.5724041156341452}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 0, "method": "FOND", "n_train": 5135, "best_epoch": 2, "auc": 0.6298423153151758}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 1, "method": "ERM", "n_train": 5269, "best_epoch": 2, "auc": 0.621203460116867}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 1, "method": "Linear head on learned features", "n_train": 5269, "best_epoch": 2, "auc": 0.5128865921775223}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 1, "method": "ComBat on learned features", "n_train": 5269, "best_epoch": 2, "auc": 0.5621030331341841}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 1, "method": "Anchor centring on learned features", "n_train": 5269, "best_epoch": 2, "auc": 0.5238286287753994}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 1, "method": "Anchor-referenced CORAL on learned features", "n_train": 5269, "best_epoch": 2, "auc": 0.553785401528376}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 1, "method": "DANN", "n_train": 5269, "best_epoch": 2, "auc": 0.45076521242220846}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 1, "method": "FOND", "n_train": 5269, "best_epoch": 3, "auc": 0.7139832544708015}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 2, "method": "ERM", "n_train": 5020, "best_epoch": 2, "auc": 0.5147305555503436}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 2, "method": "Linear head on learned features", "n_train": 5020, "best_epoch": 2, "auc": 0.5180425804974792}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 2, "method": "ComBat on learned features", "n_train": 5020, "best_epoch": 2, "auc": 0.6170755412624047}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 2, "method": "Anchor centring on learned features", "n_train": 5020, "best_epoch": 2, "auc": 0.5915315582390654}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 2, "method": "Anchor-referenced CORAL on learned features", "n_train": 5020, "best_epoch": 2, "auc": 0.5657862494300773}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 2, "method": "DANN", "n_train": 5020, "best_epoch": 2, "auc": 0.4970837781701306}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 2, "method": "FOND", "n_train": 5020, "best_epoch": 1, "auc": 0.6719241529025249}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 3, "method": "ERM", "n_train": 5193, "best_epoch": 4, "auc": 0.5352900918850405}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 3, "method": "Linear head on learned features", "n_train": 5193, "best_epoch": 4, "auc": 0.5740639296638956}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 3, "method": "ComBat on learned features", "n_train": 5193, "best_epoch": 4, "auc": 0.6510284652558656}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 3, "method": "Anchor centring on learned features", "n_train": 5193, "best_epoch": 4, "auc": 0.6362204283796256}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 3, "method": "Anchor-referenced CORAL on learned features", "n_train": 5193, "best_epoch": 4, "auc": 0.6122621744273244}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 3, "method": "DANN", "n_train": 5193, "best_epoch": 2, "auc": 0.5006839193632289}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 3, "method": "FOND", "n_train": 5193, "best_epoch": 3, "auc": 0.624836406046543}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 4, "method": "ERM", "n_train": 5143, "best_epoch": 1, "auc": 0.5319128305915342}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 4, "method": "Linear head on learned features", "n_train": 5143, "best_epoch": 1, "auc": 0.5716045222069931}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 4, "method": "ComBat on learned features", "n_train": 5143, "best_epoch": 1, "auc": 0.5485667750588888}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 4, "method": "Anchor centring on learned features", "n_train": 5143, "best_epoch": 1, "auc": 0.5737147258295715}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 4, "method": "Anchor-referenced CORAL on learned features", "n_train": 5143, "best_epoch": 1, "auc": 0.6542522340070767}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 4, "method": "DANN", "n_train": 5143, "best_epoch": 2, "auc": 0.5246422359875393}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 4, "method": "FOND", "n_train": 5143, "best_epoch": 2, "auc": 0.49579715979272077}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 5, "method": "ERM", "n_train": 5189, "best_epoch": 1, "auc": 0.47844062202262594}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 5, "method": "Linear head on learned features", "n_train": 5189, "best_epoch": 1, "auc": 0.534249522455978}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 5, "method": "ComBat on learned features", "n_train": 5189, "best_epoch": 1, "auc": 0.5599576427067317}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 5, "method": "Anchor centring on learned features", "n_train": 5189, "best_epoch": 1, "auc": 0.5406582517092398}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 5, "method": "Anchor-referenced CORAL on learned features", "n_train": 5189, "best_epoch": 1, "auc": 0.5645551040631522}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 5, "method": "DANN", "n_train": 5189, "best_epoch": 2, "auc": 0.5193669130678955}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 5, "method": "FOND", "n_train": 5189, "best_epoch": 2, "auc": 0.5041497667461721}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 6, "method": "ERM", "n_train": 5175, "best_epoch": 2, "auc": 0.6379914764410537}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 6, "method": "Linear head on learned features", "n_train": 5175, "best_epoch": 2, "auc": 0.5376820671322211}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 6, "method": "ComBat on learned features", "n_train": 5175, "best_epoch": 2, "auc": 0.6220482359292872}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 6, "method": "Anchor centring on learned features", "n_train": 5175, "best_epoch": 2, "auc": 0.5910782508021178}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 6, "method": "Anchor-referenced CORAL on learned features", "n_train": 5175, "best_epoch": 2, "auc": 0.5907878922506815}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 6, "method": "DANN", "n_train": 5175, "best_epoch": 3, "auc": 0.46501657563003573}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 6, "method": "FOND", "n_train": 5175, "best_epoch": 2, "auc": 0.6382482755019029}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 7, "method": "ERM", "n_train": 5177, "best_epoch": 4, "auc": 0.5840295112558248}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 7, "method": "Linear head on learned features", "n_train": 5177, "best_epoch": 4, "auc": 0.6258960259019765}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 7, "method": "ComBat on learned features", "n_train": 5177, "best_epoch": 4, "auc": 0.6967566456208021}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 7, "method": "Anchor centring on learned features", "n_train": 5177, "best_epoch": 4, "auc": 0.680057148829559}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 7, "method": "Anchor-referenced CORAL on learned features", "n_train": 5177, "best_epoch": 4, "auc": 0.6318592327668546}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 7, "method": "DANN", "n_train": 5177, "best_epoch": 2, "auc": 0.4229207926834851}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 7, "method": "FOND", "n_train": 5177, "best_epoch": 2, "auc": 0.6511228360345075}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 8, "method": "ERM", "n_train": 5006, "best_epoch": 2, "auc": 0.6204753599398105}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 8, "method": "Linear head on learned features", "n_train": 5006, "best_epoch": 2, "auc": 0.5616864774020822}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 8, "method": "ComBat on learned features", "n_train": 5006, "best_epoch": 2, "auc": 0.6394666979339187}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 8, "method": "Anchor centring on learned features", "n_train": 5006, "best_epoch": 2, "auc": 0.6123040544831866}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 8, "method": "Anchor-referenced CORAL on learned features", "n_train": 5006, "best_epoch": 2, "auc": 0.6520756081236229}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 8, "method": "DANN", "n_train": 5006, "best_epoch": 3, "auc": 0.6220178125625957}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 8, "method": "FOND", "n_train": 5006, "best_epoch": 2, "auc": 0.5251049651418995}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 9, "method": "ERM", "n_train": 5117, "best_epoch": 3, "auc": 0.6617793949771689}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 9, "method": "Linear head on learned features", "n_train": 5117, "best_epoch": 3, "auc": 0.7050246645493737}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 9, "method": "ComBat on learned features", "n_train": 5117, "best_epoch": 3, "auc": 0.7040321834902171}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 9, "method": "Anchor centring on learned features", "n_train": 5117, "best_epoch": 3, "auc": 0.6949125181755569}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 9, "method": "Anchor-referenced CORAL on learned features", "n_train": 5117, "best_epoch": 3, "auc": 0.6610346355960306}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 9, "method": "DANN", "n_train": 5117, "best_epoch": 3, "auc": 0.6933616170505854}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 9, "method": "FOND", "n_train": 5117, "best_epoch": 3, "auc": 0.6130801629741588}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 0, "method": "ERM", "n_train": 6035, "best_epoch": 1, "auc": 0.6949596836628834}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 0, "method": "Linear head on learned features", "n_train": 6035, "best_epoch": 1, "auc": 0.5837792066023566}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 0, "method": "ComBat on learned features", "n_train": 6035, "best_epoch": 1, "auc": 0.6467237895421396}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 0, "method": "Anchor centring on learned features", "n_train": 6035, "best_epoch": 1, "auc": 0.6410930508028428}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 0, "method": "Anchor-referenced CORAL on learned features", "n_train": 6035, "best_epoch": 1, "auc": 0.7117672220243717}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 0, "method": "DANN", "n_train": 6035, "best_epoch": 5, "auc": 0.6346331464936593}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 0, "method": "FOND", "n_train": 6035, "best_epoch": 1, "auc": 0.7610932830621061}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 1, "method": "ERM", "n_train": 6169, "best_epoch": 1, "auc": 0.7109853979521817}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 1, "method": "Linear head on learned features", "n_train": 6169, "best_epoch": 1, "auc": 0.5775322621141715}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 1, "method": "ComBat on learned features", "n_train": 6169, "best_epoch": 1, "auc": 0.684411667631494}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 1, "method": "Anchor centring on learned features", "n_train": 6169, "best_epoch": 1, "auc": 0.658235043871707}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 1, "method": "Anchor-referenced CORAL on learned features", "n_train": 6169, "best_epoch": 1, "auc": 0.726315536552057}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 1, "method": "DANN", "n_train": 6169, "best_epoch": 2, "auc": 0.8368258967120619}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 1, "method": "FOND", "n_train": 6169, "best_epoch": 1, "auc": 0.7458480758212767}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 2, "method": "ERM", "n_train": 5920, "best_epoch": 1, "auc": 0.7515727990663587}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 2, "method": "Linear head on learned features", "n_train": 5920, "best_epoch": 1, "auc": 0.6030463424564748}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 2, "method": "ComBat on learned features", "n_train": 5920, "best_epoch": 1, "auc": 0.7061714890415354}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 2, "method": "Anchor centring on learned features", "n_train": 5920, "best_epoch": 1, "auc": 0.6820373494043721}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 2, "method": "Anchor-referenced CORAL on learned features", "n_train": 5920, "best_epoch": 1, "auc": 0.7540378672600743}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 2, "method": "DANN", "n_train": 5920, "best_epoch": 4, "auc": 0.7144785699677466}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 2, "method": "FOND", "n_train": 5920, "best_epoch": 3, "auc": 0.7449288605110636}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 3, "method": "ERM", "n_train": 6093, "best_epoch": 1, "auc": 0.6136031386477853}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 3, "method": "Linear head on learned features", "n_train": 6093, "best_epoch": 1, "auc": 0.5783134149066627}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 3, "method": "ComBat on learned features", "n_train": 6093, "best_epoch": 1, "auc": 0.6240886137135818}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 3, "method": "Anchor centring on learned features", "n_train": 6093, "best_epoch": 1, "auc": 0.623157393673594}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 3, "method": "Anchor-referenced CORAL on learned features", "n_train": 6093, "best_epoch": 1, "auc": 0.704019652994906}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 3, "method": "DANN", "n_train": 6093, "best_epoch": 3, "auc": 0.4910982800684306}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 3, "method": "FOND", "n_train": 6093, "best_epoch": 1, "auc": 0.7159036147683142}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 4, "method": "ERM", "n_train": 6043, "best_epoch": 2, "auc": 0.6204230260488749}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 4, "method": "Linear head on learned features", "n_train": 6043, "best_epoch": 2, "auc": 0.6046552846655069}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 4, "method": "ComBat on learned features", "n_train": 6043, "best_epoch": 2, "auc": 0.6523186821620373}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 4, "method": "Anchor centring on learned features", "n_train": 6043, "best_epoch": 2, "auc": 0.6177324231972048}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 4, "method": "Anchor-referenced CORAL on learned features", "n_train": 6043, "best_epoch": 2, "auc": 0.664421291720979}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 4, "method": "DANN", "n_train": 6043, "best_epoch": 4, "auc": 0.6141058603442079}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 4, "method": "FOND", "n_train": 6043, "best_epoch": 1, "auc": 0.7229700698893315}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 5, "method": "ERM", "n_train": 6089, "best_epoch": 1, "auc": 0.7539208902109761}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 5, "method": "Linear head on learned features", "n_train": 6089, "best_epoch": 1, "auc": 0.6616754973116902}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 5, "method": "ComBat on learned features", "n_train": 6089, "best_epoch": 1, "auc": 0.6963013738180145}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 5, "method": "Anchor centring on learned features", "n_train": 6089, "best_epoch": 1, "auc": 0.6571372691094444}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 5, "method": "Anchor-referenced CORAL on learned features", "n_train": 6089, "best_epoch": 1, "auc": 0.7506822523127474}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 5, "method": "DANN", "n_train": 6089, "best_epoch": 1, "auc": 0.6583806065437734}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 5, "method": "FOND", "n_train": 6089, "best_epoch": 3, "auc": 0.7868225790078074}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 6, "method": "ERM", "n_train": 6075, "best_epoch": 1, "auc": 0.6331883318156475}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 6, "method": "Linear head on learned features", "n_train": 6075, "best_epoch": 1, "auc": 0.6102432024102519}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 6, "method": "ComBat on learned features", "n_train": 6075, "best_epoch": 1, "auc": 0.6778524279785749}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 6, "method": "Anchor centring on learned features", "n_train": 6075, "best_epoch": 1, "auc": 0.6606705204608077}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 6, "method": "Anchor-referenced CORAL on learned features", "n_train": 6075, "best_epoch": 1, "auc": 0.7275574354591232}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 6, "method": "DANN", "n_train": 6075, "best_epoch": 2, "auc": 0.7284305338772483}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 6, "method": "FOND", "n_train": 6075, "best_epoch": 3, "auc": 0.7092271497566064}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 7, "method": "ERM", "n_train": 6077, "best_epoch": 1, "auc": 0.6984325459189433}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 7, "method": "Linear head on learned features", "n_train": 6077, "best_epoch": 1, "auc": 0.6474948656838482}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 7, "method": "ComBat on learned features", "n_train": 6077, "best_epoch": 1, "auc": 0.7241762207160883}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 7, "method": "Anchor centring on learned features", "n_train": 6077, "best_epoch": 1, "auc": 0.6994102021074347}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 7, "method": "Anchor-referenced CORAL on learned features", "n_train": 6077, "best_epoch": 1, "auc": 0.7425748862516288}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 7, "method": "DANN", "n_train": 6077, "best_epoch": 4, "auc": 0.5571395793980415}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 7, "method": "FOND", "n_train": 6077, "best_epoch": 2, "auc": 0.7365697198936823}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 8, "method": "ERM", "n_train": 5906, "best_epoch": 1, "auc": 0.6515204189811762}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 8, "method": "Linear head on learned features", "n_train": 5906, "best_epoch": 1, "auc": 0.5691476253987796}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 8, "method": "ComBat on learned features", "n_train": 5906, "best_epoch": 1, "auc": 0.6308639044003772}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 8, "method": "Anchor centring on learned features", "n_train": 5906, "best_epoch": 1, "auc": 0.6247804696927504}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 8, "method": "Anchor-referenced CORAL on learned features", "n_train": 5906, "best_epoch": 1, "auc": 0.7077672739353257}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 8, "method": "DANN", "n_train": 5906, "best_epoch": 3, "auc": 0.5743630030241296}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 8, "method": "FOND", "n_train": 5906, "best_epoch": 3, "auc": 0.6649958228905597}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 9, "method": "ERM", "n_train": 6017, "best_epoch": 1, "auc": 0.6439832928369176}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 9, "method": "Linear head on learned features", "n_train": 6017, "best_epoch": 1, "auc": 0.6512630816178159}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 9, "method": "ComBat on learned features", "n_train": 6017, "best_epoch": 1, "auc": 0.7140568400678553}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 9, "method": "Anchor centring on learned features", "n_train": 6017, "best_epoch": 1, "auc": 0.6801568359225529}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 9, "method": "Anchor-referenced CORAL on learned features", "n_train": 6017, "best_epoch": 1, "auc": 0.7456934692354786}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 9, "method": "DANN", "n_train": 6017, "best_epoch": 1, "auc": 0.6480112114486876}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 9, "method": "FOND", "n_train": 6017, "best_epoch": 1, "auc": 0.6495360051401751}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11348, "rep": 0, "method": "ERM", "n_train": 16383, "best_epoch": 1, "auc": 0.7862163804716411}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11348, "rep": 0, "method": "Linear head on learned features", "n_train": 16383, "best_epoch": 1, "auc": 0.6893551708653981}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11348, "rep": 0, "method": "ComBat on learned features", "n_train": 16383, "best_epoch": 1, "auc": 0.7812013223294055}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11348, "rep": 0, "method": "Anchor centring on learned features", "n_train": 16383, "best_epoch": 1, "auc": 0.6797533793722806}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11348, "rep": 0, "method": "Anchor-referenced CORAL on learned features", "n_train": 16383, "best_epoch": 1, "auc": 0.8039590526918848}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11348, "rep": 0, "method": "DANN", "n_train": 16383, "best_epoch": 1, "auc": 0.6647735278633696}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11348, "rep": 0, "method": "FOND", "n_train": 16383, "best_epoch": 4, "auc": 0.6067844866296084}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11528, "rep": 1, "method": "ERM", "n_train": 16697, "best_epoch": 2, "auc": 0.7520056488967068}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11528, "rep": 1, "method": "Linear head on learned features", "n_train": 16697, "best_epoch": 2, "auc": 0.7387383410482272}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11528, "rep": 1, "method": "ComBat on learned features", "n_train": 16697, "best_epoch": 2, "auc": 0.7849269376080774}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11528, "rep": 1, "method": "Anchor centring on learned features", "n_train": 16697, "best_epoch": 2, "auc": 0.7217191957437329}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11528, "rep": 1, "method": "Anchor-referenced CORAL on learned features", "n_train": 16697, "best_epoch": 2, "auc": 0.7989800768732738}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11528, "rep": 1, "method": "DANN", "n_train": 16697, "best_epoch": 3, "auc": 0.6010896961650533}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11528, "rep": 1, "method": "FOND", "n_train": 16697, "best_epoch": 4, "auc": 0.6722424562791638}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11378, "rep": 2, "method": "ERM", "n_train": 16298, "best_epoch": 2, "auc": 0.6565197282383337}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11378, "rep": 2, "method": "Linear head on learned features", "n_train": 16298, "best_epoch": 2, "auc": 0.6522097991057607}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11378, "rep": 2, "method": "ComBat on learned features", "n_train": 16298, "best_epoch": 2, "auc": 0.7764506995742702}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11378, "rep": 2, "method": "Anchor centring on learned features", "n_train": 16298, "best_epoch": 2, "auc": 0.6881315353483424}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11378, "rep": 2, "method": "Anchor-referenced CORAL on learned features", "n_train": 16298, "best_epoch": 2, "auc": 0.7584060551591374}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11378, "rep": 2, "method": "DANN", "n_train": 16298, "best_epoch": 3, "auc": 0.49733576375272764}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11378, "rep": 2, "method": "FOND", "n_train": 16298, "best_epoch": 3, "auc": 0.6012705289445688}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11500, "rep": 3, "method": "ERM", "n_train": 16593, "best_epoch": 1, "auc": 0.7600023782097087}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11500, "rep": 3, "method": "Linear head on learned features", "n_train": 16593, "best_epoch": 1, "auc": 0.7301760942801847}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11500, "rep": 3, "method": "ComBat on learned features", "n_train": 16593, "best_epoch": 1, "auc": 0.7482261905682265}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11500, "rep": 3, "method": "Anchor centring on learned features", "n_train": 16593, "best_epoch": 1, "auc": 0.7221647304137312}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11500, "rep": 3, "method": "Anchor-referenced CORAL on learned features", "n_train": 16593, "best_epoch": 1, "auc": 0.8065339286956772}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11500, "rep": 3, "method": "DANN", "n_train": 16593, "best_epoch": 2, "auc": 0.7228831632692505}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11500, "rep": 3, "method": "FOND", "n_train": 16593, "best_epoch": 1, "auc": 0.775442518192752}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11433, "rep": 4, "method": "ERM", "n_train": 16476, "best_epoch": 1, "auc": 0.7378751617590513}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11433, "rep": 4, "method": "Linear head on learned features", "n_train": 16476, "best_epoch": 1, "auc": 0.6978920928505297}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11433, "rep": 4, "method": "ComBat on learned features", "n_train": 16476, "best_epoch": 1, "auc": 0.7728291508407938}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11433, "rep": 4, "method": "Anchor centring on learned features", "n_train": 16476, "best_epoch": 1, "auc": 0.7086315395261297}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11433, "rep": 4, "method": "Anchor-referenced CORAL on learned features", "n_train": 16476, "best_epoch": 1, "auc": 0.791287102516326}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11433, "rep": 4, "method": "DANN", "n_train": 16476, "best_epoch": 2, "auc": 0.5972782082956067}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11433, "rep": 4, "method": "FOND", "n_train": 16476, "best_epoch": 4, "auc": 0.7670762894254872}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11489, "rep": 5, "method": "ERM", "n_train": 16578, "best_epoch": 1, "auc": 0.7460085143002432}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11489, "rep": 5, "method": "Linear head on learned features", "n_train": 16578, "best_epoch": 1, "auc": 0.7479824871032845}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11489, "rep": 5, "method": "ComBat on learned features", "n_train": 16578, "best_epoch": 1, "auc": 0.8008499398820739}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11489, "rep": 5, "method": "Anchor centring on learned features", "n_train": 16578, "best_epoch": 1, "auc": 0.7381296665899864}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11489, "rep": 5, "method": "Anchor-referenced CORAL on learned features", "n_train": 16578, "best_epoch": 1, "auc": 0.8273428062917532}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11489, "rep": 5, "method": "DANN", "n_train": 16578, "best_epoch": 1, "auc": 0.6963982330638349}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11489, "rep": 5, "method": "FOND", "n_train": 16578, "best_epoch": 4, "auc": 0.7371272665296358}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11524, "rep": 6, "method": "ERM", "n_train": 16599, "best_epoch": 1, "auc": 0.8149115941879744}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11524, "rep": 6, "method": "Linear head on learned features", "n_train": 16599, "best_epoch": 1, "auc": 0.6777544158772985}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11524, "rep": 6, "method": "ComBat on learned features", "n_train": 16599, "best_epoch": 1, "auc": 0.7701439692951808}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11524, "rep": 6, "method": "Anchor centring on learned features", "n_train": 16599, "best_epoch": 1, "auc": 0.7110575671226589}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11524, "rep": 6, "method": "Anchor-referenced CORAL on learned features", "n_train": 16599, "best_epoch": 1, "auc": 0.8120320979517861}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11524, "rep": 6, "method": "DANN", "n_train": 16599, "best_epoch": 2, "auc": 0.7273897299499972}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11524, "rep": 6, "method": "FOND", "n_train": 16599, "best_epoch": 4, "auc": 0.6103575805096776}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11409, "rep": 7, "method": "ERM", "n_train": 16486, "best_epoch": 1, "auc": 0.7508298443379097}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11409, "rep": 7, "method": "Linear head on learned features", "n_train": 16486, "best_epoch": 1, "auc": 0.629935962184579}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11409, "rep": 7, "method": "ComBat on learned features", "n_train": 16486, "best_epoch": 1, "auc": 0.7515912184121307}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11409, "rep": 7, "method": "Anchor centring on learned features", "n_train": 16486, "best_epoch": 1, "auc": 0.6625577515204595}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11409, "rep": 7, "method": "Anchor-referenced CORAL on learned features", "n_train": 16486, "best_epoch": 1, "auc": 0.7907094816247937}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11409, "rep": 7, "method": "DANN", "n_train": 16486, "best_epoch": 1, "auc": 0.5481462295962429}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11409, "rep": 7, "method": "FOND", "n_train": 16486, "best_epoch": 6, "auc": 0.7023289616627555}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11294, "rep": 8, "method": "ERM", "n_train": 16200, "best_epoch": 1, "auc": 0.8524685983965762}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11294, "rep": 8, "method": "Linear head on learned features", "n_train": 16200, "best_epoch": 1, "auc": 0.7219415009258038}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11294, "rep": 8, "method": "ComBat on learned features", "n_train": 16200, "best_epoch": 1, "auc": 0.8081978826207821}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11294, "rep": 8, "method": "Anchor centring on learned features", "n_train": 16200, "best_epoch": 1, "auc": 0.7303221015501717}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11294, "rep": 8, "method": "Anchor-referenced CORAL on learned features", "n_train": 16200, "best_epoch": 1, "auc": 0.8384651687698779}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11294, "rep": 8, "method": "DANN", "n_train": 16200, "best_epoch": 1, "auc": 0.574412639786601}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11294, "rep": 8, "method": "FOND", "n_train": 16200, "best_epoch": 4, "auc": 0.43388598201155915}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11436, "rep": 9, "method": "ERM", "n_train": 16453, "best_epoch": 1, "auc": 0.7371832430932885}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11436, "rep": 9, "method": "Linear head on learned features", "n_train": 16453, "best_epoch": 1, "auc": 0.6690155385066707}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11436, "rep": 9, "method": "ComBat on learned features", "n_train": 16453, "best_epoch": 1, "auc": 0.7909512034131783}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11436, "rep": 9, "method": "Anchor centring on learned features", "n_train": 16453, "best_epoch": 1, "auc": 0.7247565033417515}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11436, "rep": 9, "method": "Anchor-referenced CORAL on learned features", "n_train": 16453, "best_epoch": 1, "auc": 0.8111049463023903}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11436, "rep": 9, "method": "DANN", "n_train": 16453, "best_epoch": 2, "auc": 0.5363866873612918}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11436, "rep": 9, "method": "FOND", "n_train": 16453, "best_epoch": 4, "auc": 0.6937564172470091}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 0, "method": "AR-BN", "n_train": 5035, "not_estimable": true}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 1, "method": "AR-BN", "n_train": 5169, "not_estimable": true}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 2, "method": "AR-BN", "n_train": 4920, "not_estimable": true}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 3, "method": "AR-BN", "n_train": 5093, "not_estimable": true}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 4, "method": "AR-BN", "n_train": 5043, "not_estimable": true}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 5, "method": "AR-BN", "n_train": 5089, "not_estimable": true}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 6, "method": "AR-BN", "n_train": 5075, "not_estimable": true}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 7, "method": "AR-BN", "n_train": 5077, "not_estimable": true}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 8, "method": "AR-BN", "n_train": 4906, "not_estimable": true}
+{"exp": "constructed", "bridge_req": 0, "bridge": 0, "rep": 9, "method": "AR-BN", "n_train": 5017, "not_estimable": true}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 0, "method": "AR-BN", "n_train": 5135, "auc": 0.6252618723193409, "best_epoch": 1, "minutes": 2.2}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 1, "method": "AR-BN", "n_train": 5269, "auc": 0.642572337840083, "best_epoch": 1, "minutes": 2.3}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 2, "method": "AR-BN", "n_train": 5020, "auc": 0.6423651933421769, "best_epoch": 1, "minutes": 2.5}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 3, "method": "AR-BN", "n_train": 5193, "auc": 0.67009463875694, "best_epoch": 3, "minutes": 3.8}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 4, "method": "AR-BN", "n_train": 5143, "auc": 0.6909176843935416, "best_epoch": 1, "minutes": 2.6}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 5, "method": "AR-BN", "n_train": 5189, "auc": 0.613477777788126, "best_epoch": 1, "minutes": 3.1}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 6, "method": "AR-BN", "n_train": 5175, "auc": 0.6771339790485802, "best_epoch": 1, "minutes": 7.0}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 7, "method": "AR-BN", "n_train": 5177, "auc": 0.7087526739640582, "best_epoch": 1, "minutes": 5.5}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 8, "method": "AR-BN", "n_train": 5006, "auc": 0.654283662372305, "best_epoch": 4, "minutes": 20.5}
+{"exp": "constructed", "bridge_req": 100, "bridge": 100, "rep": 9, "method": "AR-BN", "n_train": 5117, "auc": 0.6409003238118925, "best_epoch": 4, "minutes": 29.4}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 0, "method": "AR-BN", "n_train": 6035, "auc": 0.7170885720700494, "best_epoch": 3, "minutes": 9.2}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 1, "method": "AR-BN", "n_train": 6169, "auc": 0.6735933077486442, "best_epoch": 3, "minutes": 26.3}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 2, "method": "AR-BN", "n_train": 5920, "auc": 0.6158387855158012, "best_epoch": 4, "minutes": 12.9}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 3, "method": "AR-BN", "n_train": 6093, "auc": 0.8386213525681168, "best_epoch": 1, "minutes": 24.9}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 4, "method": "AR-BN", "n_train": 6043, "auc": 0.7185324790976785, "best_epoch": 2, "minutes": 12.5}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 5, "method": "AR-BN", "n_train": 6089, "auc": 0.7505645310755195, "best_epoch": 2, "minutes": 10.2}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 6, "method": "AR-BN", "n_train": 6075, "auc": 0.6765372637227975, "best_epoch": 3, "minutes": 13.0}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 7, "method": "AR-BN", "n_train": 6077, "auc": 0.7706622848240905, "best_epoch": 2, "minutes": 9.3}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 8, "method": "AR-BN", "n_train": 5906, "auc": 0.7294957667072164, "best_epoch": 2, "minutes": 7.2}
+{"exp": "constructed", "bridge_req": 1000, "bridge": 1000, "rep": 9, "method": "AR-BN", "n_train": 6017, "auc": 0.6206269052447642, "best_epoch": 4, "minutes": 24.5}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11348, "rep": 0, "method": "AR-BN", "n_train": 16383, "auc": 0.8542638929749314, "best_epoch": 1, "minutes": 11.9}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11528, "rep": 1, "method": "AR-BN", "n_train": 16697, "auc": 0.8541082275562151, "best_epoch": 1, "minutes": 39.8}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11378, "rep": 2, "method": "AR-BN", "n_train": 16298, "auc": 0.8818275803192317, "best_epoch": 1, "minutes": 25.3}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11500, "rep": 3, "method": "AR-BN", "n_train": 16593, "auc": 0.7853947367936653, "best_epoch": 3, "minutes": 43.0}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11433, "rep": 4, "method": "AR-BN", "n_train": 16476, "auc": 0.8207231770468886, "best_epoch": 1, "minutes": 15.2}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11489, "rep": 5, "method": "AR-BN", "n_train": 16578, "auc": 0.7646772957271102, "best_epoch": 2, "minutes": 36.7}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11524, "rep": 6, "method": "AR-BN", "n_train": 16599, "auc": 0.8381125112723111, "best_epoch": 1, "minutes": 13.7}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11409, "rep": 7, "method": "AR-BN", "n_train": 16486, "auc": 0.7376372075423333, "best_epoch": 4, "minutes": 63.8}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11294, "rep": 8, "method": "AR-BN", "n_train": 16200, "auc": 0.7744671620571898, "best_epoch": 2, "minutes": 23.1}
+{"exp": "constructed", "bridge_req": -1, "bridge": 11436, "rep": 9, "method": "AR-BN", "n_train": 16453, "auc": 0.8827644702941251, "best_epoch": 3, "minutes": 65.2}

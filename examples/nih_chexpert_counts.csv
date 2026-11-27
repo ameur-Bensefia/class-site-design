@@ -1,0 +1,5 @@
+class,site,n
+effusion,NIH,3632
+no_finding,NIH,16368
+effusion,CheXpert,16421
+no_finding,CheXpert,3580

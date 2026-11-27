@@ -1,0 +1,602 @@
+[
+ {
+  "n_bridge": 0,
+  "ERM": 0.5419098292120217,
+  "Site centring (class-blind)": 0.5,
+  "Oracle (both classes, both hospitals)": 0.878265178142855
+ },
+ {
+  "n_bridge": 0,
+  "ERM": 0.5110910446882713,
+  "Site centring (class-blind)": 0.5,
+  "Oracle (both classes, both hospitals)": 0.8854563633532484
+ },
+ {
+  "n_bridge": 0,
+  "ERM": 0.5240613396326601,
+  "Site centring (class-blind)": 0.5,
+  "Oracle (both classes, both hospitals)": 0.8908095623181174
+ },
+ {
+  "n_bridge": 0,
+  "ERM": 0.5242078555285461,
+  "Site centring (class-blind)": 0.5,
+  "Oracle (both classes, both hospitals)": 0.882409126434979
+ },
+ {
+  "n_bridge": 0,
+  "ERM": 0.5297973274156296,
+  "Site centring (class-blind)": 0.5,
+  "Oracle (both classes, both hospitals)": 0.8846711205159645
+ },
+ {
+  "n_bridge": 0,
+  "ERM": 0.538819043645335,
+  "Site centring (class-blind)": 0.5,
+  "Oracle (both classes, both hospitals)": 0.8680106507916847
+ },
+ {
+  "n_bridge": 0,
+  "ERM": 0.521901934939089,
+  "Site centring (class-blind)": 0.5,
+  "Oracle (both classes, both hospitals)": 0.8897194684029581
+ },
+ {
+  "n_bridge": 0,
+  "ERM": 0.5137045426110096,
+  "Site centring (class-blind)": 0.5,
+  "Oracle (both classes, both hospitals)": 0.891409213389198
+ },
+ {
+  "n_bridge": 0,
+  "ERM": 0.5317629356041176,
+  "Site centring (class-blind)": 0.5,
+  "Oracle (both classes, both hospitals)": 0.8896330494853117
+ },
+ {
+  "n_bridge": 0,
+  "ERM": 0.5541193145583021,
+  "Site centring (class-blind)": 0.5,
+  "Oracle (both classes, both hospitals)": 0.8836636820489273
+ },
+ {
+  "n_bridge": 25,
+  "ERM": 0.5809115788984718,
+  "Site centring (class-blind)": 0.6786323413282134,
+  "Anchor centring (no finding)": 0.693781451775235,
+  "Anchor transform (no finding, LW)": 0.7183943530031123,
+  "ComBat (dx covariate)": 0.6970986947029404,
+  "Oracle (both classes, both hospitals)": 0.878675696390691
+ },
+ {
+  "n_bridge": 25,
+  "ERM": 0.5596674958966896,
+  "Site centring (class-blind)": 0.7189172848639817,
+  "Anchor centring (no finding)": 0.7275575189854933,
+  "Anchor transform (no finding, LW)": 0.7436718126610684,
+  "ComBat (dx covariate)": 0.7266472658132973,
+  "Oracle (both classes, both hospitals)": 0.8853669584990118
+ },
+ {
+  "n_bridge": 25,
+  "ERM": 0.5643887895498221,
+  "Site centring (class-blind)": 0.6741361097403779,
+  "Anchor centring (no finding)": 0.7049427075222294,
+  "Anchor transform (no finding, LW)": 0.7441800336606208,
+  "ComBat (dx covariate)": 0.7075618190244424,
+  "Oracle (both classes, both hospitals)": 0.891115960275214
+ },
+ {
+  "n_bridge": 25,
+  "ERM": 0.5542986508629846,
+  "Site centring (class-blind)": 0.6731774759243081,
+  "Anchor centring (no finding)": 0.6830939845651981,
+  "Anchor transform (no finding, LW)": 0.7097277244398599,
+  "ComBat (dx covariate)": 0.6854228629889826,
+  "Oracle (both classes, both hospitals)": 0.8805696953498637
+ },
+ {
+  "n_bridge": 25,
+  "ERM": 0.5537901718409608,
+  "Site centring (class-blind)": 0.6125005863857615,
+  "Anchor centring (no finding)": 0.6152068916176573,
+  "Anchor transform (no finding, LW)": 0.6580496583849041,
+  "ComBat (dx covariate)": 0.6219773654114642,
+  "Oracle (both classes, both hospitals)": 0.885576362735975
+ },
+ {
+  "n_bridge": 25,
+  "ERM": 0.5683739660974012,
+  "Site centring (class-blind)": 0.6567332542937051,
+  "Anchor centring (no finding)": 0.6750756014353796,
+  "Anchor transform (no finding, LW)": 0.7173293298178396,
+  "ComBat (dx covariate)": 0.679604888784165,
+  "Oracle (both classes, both hospitals)": 0.8687460359887977
+ },
+ {
+  "n_bridge": 25,
+  "ERM": 0.5505657854281566,
+  "Site centring (class-blind)": 0.6029182229688876,
+  "Anchor centring (no finding)": 0.6342843020287954,
+  "Anchor transform (no finding, LW)": 0.6798341848556041,
+  "ComBat (dx covariate)": 0.6366472579413707,
+  "Oracle (both classes, both hospitals)": 0.8896887591704755
+ },
+ {
+  "n_bridge": 25,
+  "ERM": 0.5514247918046244,
+  "Site centring (class-blind)": 0.6335334165402796,
+  "Anchor centring (no finding)": 0.6727315935147408,
+  "Anchor transform (no finding, LW)": 0.7234369707382124,
+  "ComBat (dx covariate)": 0.6743128942285098,
+  "Oracle (both classes, both hospitals)": 0.8907897386915353
+ },
+ {
+  "n_bridge": 25,
+  "ERM": 0.5748181369603345,
+  "Site centring (class-blind)": 0.665111316302452,
+  "Anchor centring (no finding)": 0.7038987331877453,
+  "Anchor transform (no finding, LW)": 0.7465324129036042,
+  "ComBat (dx covariate)": 0.7046938984889124,
+  "Oracle (both classes, both hospitals)": 0.8900483176752798
+ },
+ {
+  "n_bridge": 25,
+  "ERM": 0.5671252008877326,
+  "Site centring (class-blind)": 0.5883051054182291,
+  "Anchor centring (no finding)": 0.6103290174357797,
+  "Anchor transform (no finding, LW)": 0.64837332752991,
+  "ComBat (dx covariate)": 0.6170061430193108,
+  "Oracle (both classes, both hospitals)": 0.8842049628836
+ },
+ {
+  "n_bridge": 50,
+  "ERM": 0.5844142421380238,
+  "Site centring (class-blind)": 0.6408700819101001,
+  "Anchor centring (no finding)": 0.660335924314448,
+  "Anchor transform (no finding, LW)": 0.7064109363145101,
+  "ComBat (dx covariate)": 0.6663841490794791,
+  "Oracle (both classes, both hospitals)": 0.8800812520322685
+ },
+ {
+  "n_bridge": 50,
+  "ERM": 0.5565332969753594,
+  "Site centring (class-blind)": 0.6575198050378146,
+  "Anchor centring (no finding)": 0.6716800438679817,
+  "Anchor transform (no finding, LW)": 0.7301975698270539,
+  "ComBat (dx covariate)": 0.6748919132564303,
+  "Oracle (both classes, both hospitals)": 0.8853041888409331
+ },
+ {
+  "n_bridge": 50,
+  "ERM": 0.5833364917527727,
+  "Site centring (class-blind)": 0.7165920216448673,
+  "Anchor centring (no finding)": 0.7251687252681687,
+  "Anchor transform (no finding, LW)": 0.7806481451947306,
+  "ComBat (dx covariate)": 0.7266481789679287,
+  "Oracle (both classes, both hospitals)": 0.889589974613813
+ },
+ {
+  "n_bridge": 50,
+  "ERM": 0.5649934157460308,
+  "Site centring (class-blind)": 0.6673455240510263,
+  "Anchor centring (no finding)": 0.6861597030403902,
+  "Anchor transform (no finding, LW)": 0.7266789111333716,
+  "ComBat (dx covariate)": 0.6895444182203261,
+  "Oracle (both classes, both hospitals)": 0.8835744860066657
+ },
+ {
+  "n_bridge": 50,
+  "ERM": 0.5659151572917241,
+  "Site centring (class-blind)": 0.6500361449164821,
+  "Anchor centring (no finding)": 0.6754251272236288,
+  "Anchor transform (no finding, LW)": 0.742860373061075,
+  "ComBat (dx covariate)": 0.6776269934907746,
+  "Oracle (both classes, both hospitals)": 0.8854352375936966
+ },
+ {
+  "n_bridge": 50,
+  "ERM": 0.5736246685597682,
+  "Site centring (class-blind)": 0.6521069214313189,
+  "Anchor centring (no finding)": 0.6639658459397815,
+  "Anchor transform (no finding, LW)": 0.6889020725084589,
+  "ComBat (dx covariate)": 0.6687538592355756,
+  "Oracle (both classes, both hospitals)": 0.8686322263749588
+ },
+ {
+  "n_bridge": 50,
+  "ERM": 0.561109349876354,
+  "Site centring (class-blind)": 0.6556947053605447,
+  "Anchor centring (no finding)": 0.6722166402113677,
+  "Anchor transform (no finding, LW)": 0.7332768920932737,
+  "ComBat (dx covariate)": 0.6715746885311498,
+  "Oracle (both classes, both hospitals)": 0.8898923227654345
+ },
+ {
+  "n_bridge": 50,
+  "ERM": 0.5644438688788729,
+  "Site centring (class-blind)": 0.6855986627891009,
+  "Anchor centring (no finding)": 0.7148837188012096,
+  "Anchor transform (no finding, LW)": 0.7631279810312577,
+  "ComBat (dx covariate)": 0.7131664311849055,
+  "Oracle (both classes, both hospitals)": 0.8907931717409681
+ },
+ {
+  "n_bridge": 50,
+  "ERM": 0.5736438562292671,
+  "Site centring (class-blind)": 0.6467298851417042,
+  "Anchor centring (no finding)": 0.6682106826520492,
+  "Anchor transform (no finding, LW)": 0.7257576690263671,
+  "ComBat (dx covariate)": 0.6716229169414765,
+  "Oracle (both classes, both hospitals)": 0.8897469795346066
+ },
+ {
+  "n_bridge": 50,
+  "ERM": 0.5849796959898982,
+  "Site centring (class-blind)": 0.6233753603224408,
+  "Anchor centring (no finding)": 0.6458765799979593,
+  "Anchor transform (no finding, LW)": 0.7245741498941354,
+  "ComBat (dx covariate)": 0.64799646373817,
+  "Oracle (both classes, both hospitals)": 0.8847472401851995
+ },
+ {
+  "n_bridge": 100,
+  "ERM": 0.6020291717634672,
+  "Site centring (class-blind)": 0.6729228279887896,
+  "Anchor centring (no finding)": 0.6877916789247944,
+  "Anchor transform (no finding, LW)": 0.7440214530139511,
+  "ComBat (dx covariate)": 0.6916063437746776,
+  "Oracle (both classes, both hospitals)": 0.8787898905284672
+ },
+ {
+  "n_bridge": 100,
+  "ERM": 0.5723853364118404,
+  "Site centring (class-blind)": 0.673990414309545,
+  "Anchor centring (no finding)": 0.6813527177958127,
+  "Anchor transform (no finding, LW)": 0.7600509682173194,
+  "ComBat (dx covariate)": 0.6853375666531815,
+  "Oracle (both classes, both hospitals)": 0.885071549959805
+ },
+ {
+  "n_bridge": 100,
+  "ERM": 0.5864974754534521,
+  "Site centring (class-blind)": 0.6952824471308731,
+  "Anchor centring (no finding)": 0.7138543286920204,
+  "Anchor transform (no finding, LW)": 0.7720037075466212,
+  "ComBat (dx covariate)": 0.7136329266164696,
+  "Oracle (both classes, both hospitals)": 0.8897291952409813
+ },
+ {
+  "n_bridge": 100,
+  "ERM": 0.6030066681907824,
+  "Site centring (class-blind)": 0.7110055519784237,
+  "Anchor centring (no finding)": 0.7304400534692227,
+  "Anchor transform (no finding, LW)": 0.795837507165001,
+  "ComBat (dx covariate)": 0.7298865490888622,
+  "Oracle (both classes, both hospitals)": 0.8834916536251682
+ },
+ {
+  "n_bridge": 100,
+  "ERM": 0.6015205007332031,
+  "Site centring (class-blind)": 0.6657218413631707,
+  "Anchor centring (no finding)": 0.6848330120560912,
+  "Anchor transform (no finding, LW)": 0.7585344890023473,
+  "ComBat (dx covariate)": 0.6863618350508139,
+  "Oracle (both classes, both hospitals)": 0.8857000189802521
+ },
+ {
+  "n_bridge": 100,
+  "ERM": 0.5996932169656419,
+  "Site centring (class-blind)": 0.6780860613025892,
+  "Anchor centring (no finding)": 0.6866983383982648,
+  "Anchor transform (no finding, LW)": 0.7525797621919248,
+  "ComBat (dx covariate)": 0.6892487168478276,
+  "Oracle (both classes, both hospitals)": 0.8704079171257391
+ },
+ {
+  "n_bridge": 100,
+  "ERM": 0.5984931512894935,
+  "Site centring (class-blind)": 0.687514435178143,
+  "Anchor centring (no finding)": 0.7098223939814317,
+  "Anchor transform (no finding, LW)": 0.7867481019119898,
+  "ComBat (dx covariate)": 0.710326429946908,
+  "Oracle (both classes, both hospitals)": 0.890182497429251
+ },
+ {
+  "n_bridge": 100,
+  "ERM": 0.5867632675917082,
+  "Site centring (class-blind)": 0.7310821811002237,
+  "Anchor centring (no finding)": 0.7391712084639163,
+  "Anchor transform (no finding, LW)": 0.8112583804551156,
+  "ComBat (dx covariate)": 0.7384861243770922,
+  "Oracle (both classes, both hospitals)": 0.8900829119583029
+ },
+ {
+  "n_bridge": 100,
+  "ERM": 0.6273774103875673,
+  "Site centring (class-blind)": 0.7235586041126207,
+  "Anchor centring (no finding)": 0.7442864471119319,
+  "Anchor transform (no finding, LW)": 0.8098734164846815,
+  "ComBat (dx covariate)": 0.7461288699331174,
+  "Oracle (both classes, both hospitals)": 0.8913165955825235
+ },
+ {
+  "n_bridge": 100,
+  "ERM": 0.6119100118619423,
+  "Site centring (class-blind)": 0.6757779616591414,
+  "Anchor centring (no finding)": 0.6882204455881228,
+  "Anchor transform (no finding, LW)": 0.7551236336445499,
+  "ComBat (dx covariate)": 0.6892780955842963,
+  "Oracle (both classes, both hospitals)": 0.8835662275834801
+ },
+ {
+  "n_bridge": 300,
+  "ERM": 0.6493775451744267,
+  "Site centring (class-blind)": 0.7591558537076321,
+  "Anchor centring (no finding)": 0.7664650527228527,
+  "Anchor transform (no finding, LW)": 0.8188844200486196,
+  "ComBat (dx covariate)": 0.7682201585556572,
+  "Oracle (both classes, both hospitals)": 0.8791369245776752
+ },
+ {
+  "n_bridge": 300,
+  "ERM": 0.6216291576051122,
+  "Site centring (class-blind)": 0.7445027190251294,
+  "Anchor centring (no finding)": 0.7468458712465793,
+  "Anchor transform (no finding, LW)": 0.811891255385711,
+  "ComBat (dx covariate)": 0.747738057187815,
+  "Oracle (both classes, both hospitals)": 0.885488027572457
+ },
+ {
+  "n_bridge": 300,
+  "ERM": 0.6343570990323979,
+  "Site centring (class-blind)": 0.7381847281351379,
+  "Anchor centring (no finding)": 0.7490827762319243,
+  "Anchor transform (no finding, LW)": 0.8290599605604099,
+  "ComBat (dx covariate)": 0.7479348627588575,
+  "Oracle (both classes, both hospitals)": 0.8921963273523501
+ },
+ {
+  "n_bridge": 300,
+  "ERM": 0.6455788308411831,
+  "Site centring (class-blind)": 0.7341509441602987,
+  "Anchor centring (no finding)": 0.747481067278669,
+  "Anchor transform (no finding, LW)": 0.8086411844809669,
+  "ComBat (dx covariate)": 0.7485796087292813,
+  "Oracle (both classes, both hospitals)": 0.8826143666691332
+ },
+ {
+  "n_bridge": 300,
+  "ERM": 0.6334285224707931,
+  "Site centring (class-blind)": 0.7358259029997238,
+  "Anchor centring (no finding)": 0.7471645917606863,
+  "Anchor transform (no finding, LW)": 0.8161009851477075,
+  "ComBat (dx covariate)": 0.7404900987660088,
+  "Oracle (both classes, both hospitals)": 0.8864878859080754
+ },
+ {
+  "n_bridge": 300,
+  "ERM": 0.6451656525938254,
+  "Site centring (class-blind)": 0.7631305280784709,
+  "Anchor centring (no finding)": 0.7674390881074542,
+  "Anchor transform (no finding, LW)": 0.8212458893029206,
+  "ComBat (dx covariate)": 0.7639830757094705,
+  "Oracle (both classes, both hospitals)": 0.8703812808331386
+ },
+ {
+  "n_bridge": 300,
+  "ERM": 0.6205484485033754,
+  "Site centring (class-blind)": 0.7122646054580788,
+  "Anchor centring (no finding)": 0.7220941342791531,
+  "Anchor transform (no finding, LW)": 0.7900753645020397,
+  "ComBat (dx covariate)": 0.7187979486968252,
+  "Oracle (both classes, both hospitals)": 0.888744864018783
+ },
+ {
+  "n_bridge": 300,
+  "ERM": 0.6208879696793074,
+  "Site centring (class-blind)": 0.7310703561521771,
+  "Anchor centring (no finding)": 0.7422514167050659,
+  "Anchor transform (no finding, LW)": 0.8128600887405133,
+  "ComBat (dx covariate)": 0.7395106989078325,
+  "Oracle (both classes, both hospitals)": 0.8917471780333662
+ },
+ {
+  "n_bridge": 300,
+  "ERM": 0.6281076961409372,
+  "Site centring (class-blind)": 0.7173829310117399,
+  "Anchor centring (no finding)": 0.7276174842564501,
+  "Anchor transform (no finding, LW)": 0.7981272870284875,
+  "ComBat (dx covariate)": 0.7288372979231705,
+  "Oracle (both classes, both hospitals)": 0.8908499318471619
+ },
+ {
+  "n_bridge": 300,
+  "ERM": 0.6472343658325043,
+  "Site centring (class-blind)": 0.7191577542664728,
+  "Anchor centring (no finding)": 0.7242010726767174,
+  "Anchor transform (no finding, LW)": 0.8069739930103823,
+  "ComBat (dx covariate)": 0.7261248517257213,
+  "Oracle (both classes, both hospitals)": 0.8851175272952221
+ },
+ {
+  "n_bridge": 1000,
+  "ERM": 0.6794771843983711,
+  "Site centring (class-blind)": 0.7644614294783456,
+  "Anchor centring (no finding)": 0.7708274623352895,
+  "Anchor transform (no finding, LW)": 0.8245271588498522,
+  "ComBat (dx covariate)": 0.7712708839787561,
+  "Oracle (both classes, both hospitals)": 0.8800918972485019
+ },
+ {
+  "n_bridge": 1000,
+  "ERM": 0.6611569062642257,
+  "Site centring (class-blind)": 0.7625161208127794,
+  "Anchor centring (no finding)": 0.7653834089921913,
+  "Anchor transform (no finding, LW)": 0.8226684517835896,
+  "ComBat (dx covariate)": 0.7624175892130063,
+  "Oracle (both classes, both hospitals)": 0.886031720842283
+ },
+ {
+  "n_bridge": 1000,
+  "ERM": 0.6699949527831929,
+  "Site centring (class-blind)": 0.7485938153769369,
+  "Anchor centring (no finding)": 0.758082770603058,
+  "Anchor transform (no finding, LW)": 0.8216197250486428,
+  "ComBat (dx covariate)": 0.7568656220741622,
+  "Oracle (both classes, both hospitals)": 0.8914478757596624
+ },
+ {
+  "n_bridge": 1000,
+  "ERM": 0.6601875177859531,
+  "Site centring (class-blind)": 0.7498712416647615,
+  "Anchor centring (no finding)": 0.757647361567763,
+  "Anchor transform (no finding, LW)": 0.8173163118311515,
+  "ComBat (dx covariate)": 0.7593892345146703,
+  "Oracle (both classes, both hospitals)": 0.8824704223972869
+ },
+ {
+  "n_bridge": 1000,
+  "ERM": 0.6639356956124999,
+  "Site centring (class-blind)": 0.7410553844541332,
+  "Anchor centring (no finding)": 0.7490062846814055,
+  "Anchor transform (no finding, LW)": 0.8186123845850519,
+  "ComBat (dx covariate)": 0.7435748313613434,
+  "Oracle (both classes, both hospitals)": 0.8864920077828847
+ },
+ {
+  "n_bridge": 1000,
+  "ERM": 0.6857045997897038,
+  "Site centring (class-blind)": 0.7744855982408871,
+  "Anchor centring (no finding)": 0.780239037442618,
+  "Anchor transform (no finding, LW)": 0.8241688033133312,
+  "ComBat (dx covariate)": 0.7767835838479757,
+  "Oracle (both classes, both hospitals)": 0.8681704685472882
+ },
+ {
+  "n_bridge": 1000,
+  "ERM": 0.6617495730129471,
+  "Site centring (class-blind)": 0.7489071558763862,
+  "Anchor centring (no finding)": 0.7552099040400846,
+  "Anchor transform (no finding, LW)": 0.8240923674869035,
+  "ComBat (dx covariate)": 0.7557707612800343,
+  "Oracle (both classes, both hospitals)": 0.8894879538898117
+ },
+ {
+  "n_bridge": 1000,
+  "ERM": 0.6631146684284568,
+  "Site centring (class-blind)": 0.7434552727061889,
+  "Anchor centring (no finding)": 0.7552481789580008,
+  "Anchor transform (no finding, LW)": 0.8256081456345343,
+  "ComBat (dx covariate)": 0.7509625889159803,
+  "Oracle (both classes, both hospitals)": 0.8906827419842112
+ },
+ {
+  "n_bridge": 1000,
+  "ERM": 0.6640099273524943,
+  "Site centring (class-blind)": 0.7447189122904728,
+  "Anchor centring (no finding)": 0.7537023846165121,
+  "Anchor transform (no finding, LW)": 0.8229910057795562,
+  "ComBat (dx covariate)": 0.7506837268610123,
+  "Oracle (both classes, both hospitals)": 0.8905075554383033
+ },
+ {
+  "n_bridge": 1000,
+  "ERM": 0.6812338173771078,
+  "Site centring (class-blind)": 0.7438350584168771,
+  "Anchor centring (no finding)": 0.7486854608300808,
+  "Anchor transform (no finding, LW)": 0.8216666985536084,
+  "ComBat (dx covariate)": 0.7484405292594577,
+  "Oracle (both classes, both hospitals)": 0.8842689360603047
+ },
+ {
+  "n_bridge": 11348,
+  "ERM": 0.7736834770760106,
+  "Site centring (class-blind)": 0.822961731415388,
+  "Anchor centring (no finding)": 0.8247975473421799,
+  "Anchor transform (no finding, LW)": 0.8308080299769289,
+  "ComBat (dx covariate)": 0.8213324326835235,
+  "Oracle (both classes, both hospitals)": 0.8794951844912748
+ },
+ {
+  "n_bridge": 11528,
+  "ERM": 0.7446018094052416,
+  "Site centring (class-blind)": 0.8138570446182376,
+  "Anchor centring (no finding)": 0.8165023107429619,
+  "Anchor transform (no finding, LW)": 0.8228202537756788,
+  "ComBat (dx covariate)": 0.8120104618580266,
+  "Oracle (both classes, both hospitals)": 0.8858573813765218
+ },
+ {
+  "n_bridge": 11378,
+  "ERM": 0.7483834834051639,
+  "Site centring (class-blind)": 0.8204194631187297,
+  "Anchor centring (no finding)": 0.8228441911037644,
+  "Anchor transform (no finding, LW)": 0.8290475770544892,
+  "ComBat (dx covariate)": 0.8139916730304128,
+  "Oracle (both classes, both hospitals)": 0.8904665767298914
+ },
+ {
+  "n_bridge": 11500,
+  "ERM": 0.7508197644688843,
+  "Site centring (class-blind)": 0.814442764481033,
+  "Anchor centring (no finding)": 0.8168253919168112,
+  "Anchor transform (no finding, LW)": 0.8252109740756735,
+  "ComBat (dx covariate)": 0.8145114233216962,
+  "Oracle (both classes, both hospitals)": 0.8829705459095714
+ },
+ {
+  "n_bridge": 11433,
+  "ERM": 0.7520641269506037,
+  "Site centring (class-blind)": 0.8095006858995962,
+  "Anchor centring (no finding)": 0.8120472194126955,
+  "Anchor transform (no finding, LW)": 0.8211365422063297,
+  "ComBat (dx covariate)": 0.8076707697640463,
+  "Oracle (both classes, both hospitals)": 0.8865783708741259
+ },
+ {
+  "n_bridge": 11489,
+  "ERM": 0.7577991716671804,
+  "Site centring (class-blind)": 0.8208882551645071,
+  "Anchor centring (no finding)": 0.8223824952990669,
+  "Anchor transform (no finding, LW)": 0.8216014744957498,
+  "ComBat (dx covariate)": 0.8176145989235585,
+  "Oracle (both classes, both hospitals)": 0.869479185972546
+ },
+ {
+  "n_bridge": 11524,
+  "ERM": 0.7594749934903782,
+  "Site centring (class-blind)": 0.8152346847357094,
+  "Anchor centring (no finding)": 0.8177263619820436,
+  "Anchor transform (no finding, LW)": 0.8296069733127576,
+  "ComBat (dx covariate)": 0.8120995847081998,
+  "Oracle (both classes, both hospitals)": 0.8893329366264418
+ },
+ {
+  "n_bridge": 11409,
+  "ERM": 0.7475493748798434,
+  "Site centring (class-blind)": 0.8201885049298592,
+  "Anchor centring (no finding)": 0.8228374840172477,
+  "Anchor transform (no finding, LW)": 0.829839188335566,
+  "ComBat (dx covariate)": 0.8156843440739463,
+  "Oracle (both classes, both hospitals)": 0.891779219828073
+ },
+ {
+  "n_bridge": 11294,
+  "ERM": 0.7625813070688418,
+  "Site centring (class-blind)": 0.8253190481075983,
+  "Anchor centring (no finding)": 0.8276707362949284,
+  "Anchor transform (no finding, LW)": 0.8369633635746286,
+  "ComBat (dx covariate)": 0.8239038141161872,
+  "Oracle (both classes, both hospitals)": 0.8900764582020354
+ },
+ {
+  "n_bridge": 11436,
+  "ERM": 0.7648411791153287,
+  "Site centring (class-blind)": 0.8174006243463178,
+  "Anchor centring (no finding)": 0.8200151542690237,
+  "Anchor transform (no finding, LW)": 0.8232277636412335,
+  "ComBat (dx covariate)": 0.8159714914798092,
+  "Oracle (both classes, both hospitals)": 0.886951026440652
+ }
+]

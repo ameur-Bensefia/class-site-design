@@ -1,0 +1,1842 @@
+[
+ {
+  "n_bridge": 0,
+  "R_eff": Infinity,
+  "ERM": {
+   "auc": 0.6795320692379516,
+   "ba": 0.6285552682611506
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.5,
+   "ba": 0.5
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8345992243051068,
+   "ba": 0.7197802197802198
+  }
+ },
+ {
+  "n_bridge": 0,
+  "R_eff": Infinity,
+  "ERM": {
+   "auc": 0.6860420650095602,
+   "ba": 0.6188910133843212
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.5,
+   "ba": 0.5
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8051625239005736,
+   "ba": 0.7285803059273422
+  }
+ },
+ {
+  "n_bridge": 0,
+  "R_eff": Infinity,
+  "ERM": {
+   "auc": 0.6431036342068371,
+   "ba": 0.5931814330390842
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.5,
+   "ba": 0.5
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8065582104728012,
+   "ba": 0.7205982036942891
+  }
+ },
+ {
+  "n_bridge": 0,
+  "R_eff": Infinity,
+  "ERM": {
+   "auc": 0.6499344937301141,
+   "ba": 0.581892195395845
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.5,
+   "ba": 0.5
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.805820699981284,
+   "ba": 0.709652816769605
+  }
+ },
+ {
+  "n_bridge": 0,
+  "R_eff": Infinity,
+  "ERM": {
+   "auc": 0.64006734006734,
+   "ba": 0.5590377458798511
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.5,
+   "ba": 0.5
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8164274322169058,
+   "ba": 0.7272993088782562
+  }
+ },
+ {
+  "n_bridge": 0,
+  "R_eff": Infinity,
+  "ERM": {
+   "auc": 0.7137378243496959,
+   "ba": 0.6369770688576151
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.5,
+   "ba": 0.5
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8281448079978176,
+   "ba": 0.7303544779113244
+  }
+ },
+ {
+  "n_bridge": 0,
+  "R_eff": Infinity,
+  "ERM": {
+   "auc": 0.6545991576242147,
+   "ba": 0.5845231296402056
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.5,
+   "ba": 0.5
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8081007281553398,
+   "ba": 0.7127266561964591
+  }
+ },
+ {
+  "n_bridge": 0,
+  "R_eff": Infinity,
+  "ERM": {
+   "auc": 0.6075533661740559,
+   "ba": 0.5657654127481714
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.5,
+   "ba": 0.5
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8406198686371101,
+   "ba": 0.7507370503060158
+  }
+ },
+ {
+  "n_bridge": 0,
+  "R_eff": Infinity,
+  "ERM": {
+   "auc": 0.6745669079685226,
+   "ba": 0.6102542474996988
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.5,
+   "ba": 0.5
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8440775997108085,
+   "ba": 0.7381751276798874
+  }
+ },
+ {
+  "n_bridge": 0,
+  "R_eff": Infinity,
+  "ERM": {
+   "auc": 0.6531986243947508,
+   "ba": 0.5774205690625696
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.5,
+   "ba": 0.5
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8403681968278953,
+   "ba": 0.7512233305387788
+  }
+ },
+ {
+  "n_bridge": 10,
+  "R_eff": 0.10077760497667186,
+  "ERM": {
+   "auc": 0.6822434101845867,
+   "ba": 0.6310062486533075
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.690359477124183,
+   "ba": 0.6451195862960569
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6838145514616103,
+   "ba": 0.5690045248868778
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6504794225382461,
+   "ba": 0.5542986425339367
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.686283487754076,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8345992243051068,
+   "ba": 0.7197802197802198
+  }
+ },
+ {
+  "n_bridge": 10,
+  "R_eff": 0.10076394194041254,
+  "ERM": {
+   "auc": 0.6900478011472275,
+   "ba": 0.6188910133843212
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6558221797323136,
+   "ba": 0.5930544933078394
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6447896749521989,
+   "ba": 0.5252198852772466
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6677342256214148,
+   "ba": 0.5323518164435946
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6600956022944551,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8051625239005736,
+   "ba": 0.7285803059273422
+  }
+ },
+ {
+  "n_bridge": 10,
+  "R_eff": 0.10078740157480315,
+  "ERM": {
+   "auc": 0.6451834049698818,
+   "ba": 0.5936859700204896
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.5905239481751937,
+   "ba": 0.573134753739736
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6101893361679838,
+   "ba": 0.5237170895533885
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.613593997935635,
+   "ba": 0.5122436875105915
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6162899970729152,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8065582104728012,
+   "ba": 0.7205982036942891
+  }
+ },
+ {
+  "n_bridge": 10,
+  "R_eff": 0.10077881619937695,
+  "ERM": {
+   "auc": 0.6522084970990081,
+   "ba": 0.5844562979599476
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6834081976417743,
+   "ba": 0.6037198203256597
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7009638779711772,
+   "ba": 0.5720615758936927
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6759404828747895,
+   "ba": 0.5529805352798054
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.712277746584316,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.805820699981284,
+   "ba": 0.709652816769605
+  }
+ },
+ {
+  "n_bridge": 10,
+  "R_eff": 0.10079239302694137,
+  "ERM": {
+   "auc": 0.6412014885699096,
+   "ba": 0.5624401913875599
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.5430001772107036,
+   "ba": 0.533572567783094
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.5489987595250753,
+   "ba": 0.511323763955343
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.5671539961013645,
+   "ba": 0.5165869218500797
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.5594010278220805,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8164274322169058,
+   "ba": 0.7272993088782562
+  }
+ },
+ {
+  "n_bridge": 10,
+  "R_eff": 0.10082304526748971,
+  "ERM": {
+   "auc": 0.7158078854887109,
+   "ba": 0.6386419436108928
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6061989505271436,
+   "ba": 0.5685045814143813
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.5800263170563409,
+   "ba": 0.521555113371953
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6086782097982893,
+   "ba": 0.5273601104032607
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.5721793411107723,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8281448079978176,
+   "ba": 0.7303544779113244
+  }
+ },
+ {
+  "n_bridge": 10,
+  "R_eff": 0.10077639751552796,
+  "ERM": {
+   "auc": 0.6575528269560252,
+   "ba": 0.5854422472872645
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6844570959451741,
+   "ba": 0.6331917475728155
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7040887350085665,
+   "ba": 0.560278055396916
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7289227584237578,
+   "ba": 0.5566729725870931
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7137439320388349,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8081007281553398,
+   "ba": 0.7127266561964591
+  }
+ },
+ {
+  "n_bridge": 10,
+  "R_eff": 0.10076687116564417,
+  "ERM": {
+   "auc": 0.6105482161516644,
+   "ba": 0.5657654127481714
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6129273025824751,
+   "ba": 0.5673468054933573
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6073667711598746,
+   "ba": 0.5136447604120018
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.637548514703687,
+   "ba": 0.548510038811763
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6001735333631887,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8406198686371101,
+   "ba": 0.7507370503060158
+  }
+ },
+ {
+  "n_bridge": 10,
+  "R_eff": 0.10078554595443834,
+  "ERM": {
+   "auc": 0.6765968096248853,
+   "ba": 0.6120431562653517
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6653535643775431,
+   "ba": 0.6152085051952505
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.640114193554367,
+   "ba": 0.5193674863514604
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6676522657966206,
+   "ba": 0.5631308684086127
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6411615857332209,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8440775997108085,
+   "ba": 0.7381751276798874
+  }
+ },
+ {
+  "n_bridge": 10,
+  "R_eff": 0.10078247261345853,
+  "ERM": {
+   "auc": 0.6582715964891268,
+   "ba": 0.5821599055554605
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6659452153232843,
+   "ba": 0.617858914914367
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6524458056016562,
+   "ba": 0.5092562492514586
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6393997981076873,
+   "ba": 0.5178323951614283
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6613598644926173,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8403681968278953,
+   "ba": 0.7512233305387788
+  }
+ },
+ {
+  "n_bridge": 25,
+  "R_eff": 0.04077760497667185,
+  "ERM": {
+   "auc": 0.6836349924585219,
+   "ba": 0.6337535014005602
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6849906629318394,
+   "ba": 0.6090551605257488
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6916343460461107,
+   "ba": 0.6521223874165051
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7080819507290095,
+   "ba": 0.6297672915319974
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7002801120448179,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8345992243051068,
+   "ba": 0.7197802197802198
+  }
+ },
+ {
+  "n_bridge": 25,
+  "R_eff": 0.04076394194041253,
+  "ERM": {
+   "auc": 0.6918164435946461,
+   "ba": 0.6188910133843212
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.702189292543021,
+   "ba": 0.6651912045889101
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7161376673040153,
+   "ba": 0.6133747609942639
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6993499043977055,
+   "ba": 0.5992590822179733
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7150286806883365,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8051625239005736,
+   "ba": 0.7285803059273422
+  }
+ },
+ {
+  "n_bridge": 25,
+  "R_eff": 0.04078740157480315,
+  "ERM": {
+   "auc": 0.6473710156984178,
+   "ba": 0.596235614918889
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6598419374220086,
+   "ba": 0.6224137665418804
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6610975027345134,
+   "ba": 0.5596509066259956
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6332131688003574,
+   "ba": 0.5457742139236801
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6759409036989109,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8065582104728012,
+   "ba": 0.7205982036942891
+  }
+ },
+ {
+  "n_bridge": 25,
+  "R_eff": 0.04077881619937695,
+  "ERM": {
+   "auc": 0.6539958824630359,
+   "ba": 0.5861079917649261
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7153939734231705,
+   "ba": 0.655553995882463
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7014692120531536,
+   "ba": 0.6153986524424481
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7050159086655438,
+   "ba": 0.5977961819202695
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7074396406513195,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.805820699981284,
+   "ba": 0.709652816769605
+  }
+ },
+ {
+  "n_bridge": 25,
+  "R_eff": 0.04079239302694136,
+  "ERM": {
+   "auc": 0.6443026758816232,
+   "ba": 0.5599149388623073
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6603579656211236,
+   "ba": 0.6011961722488038
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6707513733829524,
+   "ba": 0.5639287612971824
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6906609959241538,
+   "ba": 0.6056618819776715
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6842548289916711,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8164274322169058,
+   "ba": 0.7272993088782562
+  }
+ },
+ {
+  "n_bridge": 25,
+  "R_eff": 0.04082304526748971,
+  "ERM": {
+   "auc": 0.7203251119277244,
+   "ba": 0.6361225668758124
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6877015902562703,
+   "ba": 0.6310637546736846
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6856876935667635,
+   "ba": 0.5739324742847056
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6975303689201983,
+   "ba": 0.5831554792432241
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6969045364828217,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8281448079978176,
+   "ba": 0.7303544779113244
+  }
+ },
+ {
+  "n_bridge": 25,
+  "R_eff": 0.04077639751552795,
+  "ERM": {
+   "auc": 0.6581685465448315,
+   "ba": 0.5863613649343232
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6067693460879497,
+   "ba": 0.5850228440890919
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.611498786407767,
+   "ba": 0.5473390205596802
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6919081953169617,
+   "ba": 0.614050899486008
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6196459166190749,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8081007281553398,
+   "ba": 0.7127266561964591
+  }
+ },
+ {
+  "n_bridge": 25,
+  "R_eff": 0.040766871165644175,
+  "ERM": {
+   "auc": 0.610949395432154,
+   "ba": 0.5617862740707569
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.5916741304672339,
+   "ba": 0.5571167338408718
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.5893510225406777,
+   "ba": 0.5420771756978653
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.587261158381848,
+   "ba": 0.5511783475145544
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.5841356918943126,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8406198686371101,
+   "ba": 0.7507370503060158
+  }
+ },
+ {
+  "n_bridge": 25,
+  "R_eff": 0.04078554595443833,
+  "ERM": {
+   "auc": 0.6820933013245338,
+   "ba": 0.6120431562653517
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7210970737901693,
+   "ba": 0.6437986040950254
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7034489790243497,
+   "ba": 0.603932818597236
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.719697461232586,
+   "ba": 0.5913502090149879
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7120598403885547,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8440775997108085,
+   "ba": 0.7381751276798874
+  }
+ },
+ {
+  "n_bridge": 25,
+  "R_eff": 0.04078247261345853,
+  "ERM": {
+   "auc": 0.6587506629938235,
+   "ba": 0.5843028726880763
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.678400944445395,
+   "ba": 0.6081535408147551
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6758088524646261,
+   "ba": 0.5909584751997536
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7021404007049121,
+   "ba": 0.562295755128578
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6859376871353534,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8403681968278953,
+   "ba": 0.7512233305387788
+  }
+ },
+ {
+  "n_bridge": 50,
+  "R_eff": 0.020777604976671853,
+  "ERM": {
+   "auc": 0.6897938662644545,
+   "ba": 0.636204481792717
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7052628743805214,
+   "ba": 0.6242997198879552
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7078934137757666,
+   "ba": 0.6390056022408963
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7323583279465633,
+   "ba": 0.6659394527041587
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7212705595058536,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8345992243051068,
+   "ba": 0.7197802197802198
+  }
+ },
+ {
+  "n_bridge": 50,
+  "R_eff": 0.02076394194041253,
+  "ERM": {
+   "auc": 0.6926386233269598,
+   "ba": 0.6163910133843212
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6463288718929254,
+   "ba": 0.592246653919694
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6478585086042066,
+   "ba": 0.5966826003824092
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6710133843212238,
+   "ba": 0.5991108986615679
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6618451242829828,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8051625239005736,
+   "ba": 0.7285803059273422
+  }
+ },
+ {
+  "n_bridge": 50,
+  "R_eff": 0.02078740157480315,
+  "ERM": {
+   "auc": 0.6529786939039608,
+   "ba": 0.5992897967986937
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6805780222150328,
+   "ba": 0.6301012155104682
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.683582135539431,
+   "ba": 0.6051324120719139
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6832123985148897,
+   "ba": 0.601693087458212
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6975551139252207,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8065582104728012,
+   "ba": 0.7205982036942891
+  }
+ },
+ {
+  "n_bridge": 50,
+  "R_eff": 0.020778816199376948,
+  "ERM": {
+   "auc": 0.6618379187722254,
+   "ba": 0.5897576268014224
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7133445629795995,
+   "ba": 0.6456438330525922
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6985682201010668,
+   "ba": 0.6046228710462287
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7011884708965,
+   "ba": 0.5954052030694366
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7044731424293469,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.805820699981284,
+   "ba": 0.709652816769605
+  }
+ },
+ {
+  "n_bridge": 50,
+  "R_eff": 0.020792393026941365,
+  "ERM": {
+   "auc": 0.647217791954634,
+   "ba": 0.5599149388623073
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.623825979089137,
+   "ba": 0.5852737905369484
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6176856282119441,
+   "ba": 0.5895800106326422
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6692007797270955,
+   "ba": 0.6390749601275917
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6324561403508773,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8164274322169058,
+   "ba": 0.7272993088782562
+  }
+ },
+ {
+  "n_bridge": 50,
+  "R_eff": 0.020823045267489713,
+  "ERM": {
+   "auc": 0.7210392027857566,
+   "ba": 0.643504180239742
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6622751416146477,
+   "ba": 0.6240953511882793
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6525025274002278,
+   "ba": 0.582698140154372
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6917293836352841,
+   "ba": 0.626353964407786
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6689988285700532,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8281448079978176,
+   "ba": 0.7303544779113244
+  }
+ },
+ {
+  "n_bridge": 50,
+  "R_eff": 0.020776397515527952,
+  "ERM": {
+   "auc": 0.6644595945174187,
+   "ba": 0.587280482581382
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6434715876641919,
+   "ba": 0.5968553683609366
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6538674328954883,
+   "ba": 0.6054486721873216
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7085237007424329,
+   "ba": 0.6164780839520274
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6636297115933752,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8081007281553398,
+   "ba": 0.7127266561964591
+  }
+ },
+ {
+  "n_bridge": 50,
+  "R_eff": 0.02076687116564417,
+  "ERM": {
+   "auc": 0.6131232273473652,
+   "ba": 0.5642493282579489
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6229567845947157,
+   "ba": 0.5838278101209136
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6172283176593522,
+   "ba": 0.5642493282579489
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6400955366472607,
+   "ba": 0.5606480444842514
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6125727720555306,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8406198686371101,
+   "ba": 0.7507370503060158
+  }
+ },
+ {
+  "n_bridge": 50,
+  "R_eff": 0.020785545954438336,
+  "ERM": {
+   "auc": 0.6823342942152437,
+   "ba": 0.6147265194138312
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7088249742786433,
+   "ba": 0.6623040774143316
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7056920666994171,
+   "ba": 0.6245933244969273
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6763465477768407,
+   "ba": 0.5976391965667782
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7124769434686292,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8440775997108085,
+   "ba": 0.7381751276798874
+  }
+ },
+ {
+  "n_bridge": 50,
+  "R_eff": 0.02078247261345853,
+  "ERM": {
+   "auc": 0.6626944068985576,
+   "ba": 0.5843028726880763
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6961520693962051,
+   "ba": 0.6445925368282376
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7091467483360993,
+   "ba": 0.626618988143104
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7485841873834415,
+   "ba": 0.6594564306123496
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7149212106694953,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8403681968278953,
+   "ba": 0.7512233305387788
+  }
+ },
+ {
+  "n_bridge": 100,
+  "R_eff": 0.01077760497667185,
+  "ERM": {
+   "auc": 0.7001005530417295,
+   "ba": 0.654277095453566
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7158658335128925,
+   "ba": 0.6578592975651799
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7110536522301227,
+   "ba": 0.6598793363499246
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7363535157652803,
+   "ba": 0.6629228614522732
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7195827048768225,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8345992243051068,
+   "ba": 0.7197802197802198
+  }
+ },
+ {
+  "n_bridge": 100,
+  "R_eff": 0.010763941940412528,
+  "ERM": {
+   "auc": 0.7045028680688337,
+   "ba": 0.6271271510516252
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6989292543021033,
+   "ba": 0.6404875717017209
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.707753346080306,
+   "ba": 0.6440344168260038
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7397131931166347,
+   "ba": 0.6624187380497132
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7140630975143404,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8051625239005736,
+   "ba": 0.7285803059273422
+  }
+ },
+ {
+  "n_bridge": 100,
+  "R_eff": 0.01078740157480315,
+  "ERM": {
+   "auc": 0.6550738703763614,
+   "ba": 0.6001794765139961
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6610050684783781,
+   "ba": 0.5988815455007626
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.664155536041657,
+   "ba": 0.6139637349601763
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6512378487467455,
+   "ba": 0.5961162206713808
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6707876939193665,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8065582104728012,
+   "ba": 0.7205982036942891
+  }
+ },
+ {
+  "n_bridge": 100,
+  "R_eff": 0.010778816199376947,
+  "ERM": {
+   "auc": 0.6691091147295527,
+   "ba": 0.5941465468837732
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7045947969305634,
+   "ba": 0.6570653191091147
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6927288040426727,
+   "ba": 0.6397014785700917
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7258562605277934,
+   "ba": 0.652994572337638
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.702124274752012,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.805820699981284,
+   "ba": 0.709652816769605
+  }
+ },
+ {
+  "n_bridge": 100,
+  "R_eff": 0.010792393026941363,
+  "ERM": {
+   "auc": 0.6583554846712741,
+   "ba": 0.5726475279106857
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6457469431153643,
+   "ba": 0.5988569909622541
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6433280170122275,
+   "ba": 0.6053960659223817
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6980949849370901,
+   "ba": 0.6276714513556618
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6536062378167642,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8164274322169058,
+   "ba": 0.7272993088782562
+  }
+ },
+ {
+  "n_bridge": 100,
+  "R_eff": 0.010823045267489713,
+  "ERM": {
+   "auc": 0.7300415616926361,
+   "ba": 0.6459794277644945
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7336360864611582,
+   "ba": 0.6726134120705425
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7242004589437875,
+   "ba": 0.6416026124492514
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7426304218752506,
+   "ba": 0.6761678193751304
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.734253895405748,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8281448079978176,
+   "ba": 0.7303544779113244
+  }
+ },
+ {
+  "n_bridge": 100,
+  "R_eff": 0.01077639751552795,
+  "ERM": {
+   "auc": 0.6700278412335808,
+   "ba": 0.5958113221016562
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6756050114220445,
+   "ba": 0.6216715448315249
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6733919902912622,
+   "ba": 0.635092447173044
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7148772130211308,
+   "ba": 0.6404197601370646
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.684421402055968,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8081007281553398,
+   "ba": 0.7127266561964591
+  }
+ },
+ {
+  "n_bridge": 100,
+  "R_eff": 0.010766871165644173,
+  "ERM": {
+   "auc": 0.6267353336318854,
+   "ba": 0.5676593521421107
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.632174578295268,
+   "ba": 0.592149947753396
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6302433198984924,
+   "ba": 0.5761914091655471
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6766121809225258,
+   "ba": 0.5913475891924168
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6351507687714584,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8406198686371101,
+   "ba": 0.7507370503060158
+  }
+ },
+ {
+  "n_bridge": 100,
+  "R_eff": 0.010785545954438334,
+  "ERM": {
+   "auc": 0.6909080797501089,
+   "ba": 0.6225912297125696
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6964138404070926,
+   "ba": 0.6333154133491523
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6892396674298109,
+   "ba": 0.6453511544486361
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7301713830211239,
+   "ba": 0.6806334405442731
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6976651496473162,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8440775997108085,
+   "ba": 0.7381751276798874
+  }
+ },
+ {
+  "n_bridge": 100,
+  "R_eff": 0.010782472613458528,
+  "ERM": {
+   "auc": 0.6746710695159718,
+   "ba": 0.5905093503516006
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.75401645935634,
+   "ba": 0.6781015278799596
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7618868376477834,
+   "ba": 0.6516715999110305
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7959347785172891,
+   "ba": 0.7006433178777354
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.76447037486954,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8403681968278953,
+   "ba": 0.7512233305387788
+  }
+ },
+ {
+  "n_bridge": 300,
+  "R_eff": 0.0041109383100051845,
+  "ERM": {
+   "auc": 0.7105329311211663,
+   "ba": 0.6456851971557853
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6973712561947856,
+   "ba": 0.6488633915104504
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.695907850319615,
+   "ba": 0.6578054298642534
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7353928750987574,
+   "ba": 0.6810493428140487
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7016716943187531,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8345992243051068,
+   "ba": 0.7197802197802198
+  }
+ },
+ {
+  "n_bridge": 300,
+  "R_eff": 0.004097275273745862,
+  "ERM": {
+   "auc": 0.7214531548757172,
+   "ba": 0.6265391969407266
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7070267686424474,
+   "ba": 0.658876673040153
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7069980879541108,
+   "ba": 0.6321940726577437
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7515869980879542,
+   "ba": 0.6716061185468452
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7081548757170172,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8051625239005736,
+   "ba": 0.7285803059273422
+  }
+ },
+ {
+  "n_bridge": 300,
+  "R_eff": 0.004120734908136484,
+  "ERM": {
+   "auc": 0.6736300472955278,
+   "ba": 0.6029679099074117
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7009982899662615,
+   "ba": 0.6417055660827903
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6966230685091895,
+   "ba": 0.6296467470844695
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6840289011107517,
+   "ba": 0.6144952319329544
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6953829089060406,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8065582104728012,
+   "ba": 0.7205982036942891
+  }
+ },
+ {
+  "n_bridge": 300,
+  "R_eff": 0.00411214953271028,
+  "ERM": {
+   "auc": 0.6840632603406326,
+   "ba": 0.598142429346809
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7250889013662737,
+   "ba": 0.6662221598352985
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.722281489799738,
+   "ba": 0.6532144862436833
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7069810967621187,
+   "ba": 0.6420456672281489
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7217387235635412,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.805820699981284,
+   "ba": 0.709652816769605
+  }
+ },
+ {
+  "n_bridge": 300,
+  "R_eff": 0.004125726360274697,
+  "ERM": {
+   "auc": 0.6734804182172603,
+   "ba": 0.5835194045720361
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6742867269183059,
+   "ba": 0.6329346092503987
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6725500620237463,
+   "ba": 0.6067251461988304
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7171982987772461,
+   "ba": 0.6661084529505582
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6786726918305865,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8164274322169058,
+   "ba": 0.7272993088782562
+  }
+ },
+ {
+  "n_bridge": 300,
+  "R_eff": 0.0041563786008230455,
+  "ERM": {
+   "auc": 0.7420126129306609,
+   "ba": 0.6566025322143235
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7199720782451016,
+   "ba": 0.6553468555931767
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7138341062631385,
+   "ba": 0.6416026124492514
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.745558996742462,
+   "ba": 0.681972816406438
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7223871495739524,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8281448079978176,
+   "ba": 0.7303544779113244
+  }
+ },
+ {
+  "n_bridge": 300,
+  "R_eff": 0.004109730848861284,
+  "ERM": {
+   "auc": 0.689820102798401,
+   "ba": 0.6134619503141062
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6927737721302113,
+   "ba": 0.6422490719588807
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6978423043974872,
+   "ba": 0.6613899200456882
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7279590234151914,
+   "ba": 0.6731956739006282
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7038834951456311,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8081007281553398,
+   "ba": 0.7127266561964591
+  }
+ },
+ {
+  "n_bridge": 300,
+  "R_eff": 0.004100204498977506,
+  "ERM": {
+   "auc": 0.644415211225556,
+   "ba": 0.5754263696074041
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.66077026421854,
+   "ba": 0.6165798999850725
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6579620092551127,
+   "ba": 0.6063171742051052
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6828724436483057,
+   "ba": 0.6089761531571877
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6537729511867443,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8406198686371101,
+   "ba": 0.7507370503060158
+  }
+ },
+ {
+  "n_bridge": 300,
+  "R_eff": 0.004118879287771668,
+  "ERM": {
+   "auc": 0.7131721152687535,
+   "ba": 0.6408186343118263
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7618434102347826,
+   "ba": 0.6941058700306802
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7584787787221815,
+   "ba": 0.7023135317508133
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7850065346149211,
+   "ba": 0.7156979061425379
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7566435251698536,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8440775997108085,
+   "ba": 0.7381751276798874
+  }
+ },
+ {
+  "n_bridge": 300,
+  "R_eff": 0.004115805946791862,
+  "ERM": {
+   "auc": 0.6907454617003439,
+   "ba": 0.6030335175458108
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7531524286960837,
+   "ba": 0.6788842883295978
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7536913785138674,
+   "ba": 0.6678101527879959
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7727171625575309,
+   "ba": 0.6836065153044638
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7501069344876555,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8403681968278953,
+   "ba": 0.7512233305387788
+  }
+ },
+ {
+  "n_bridge": 576,
+  "R_eff": 0.0025137160877829615,
+  "ERM": {
+   "auc": 0.7218361703655821,
+   "ba": 0.6588558500323206
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7126158155569922,
+   "ba": 0.6649967679379445
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7121489621489622,
+   "ba": 0.6785983624218919
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7470462543991956,
+   "ba": 0.694543201896143
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7176973353443942,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8345992243051068,
+   "ba": 0.7197802197802198
+  }
+ },
+ {
+  "n_bridge": 557,
+  "R_eff": 0.0025592740768577713,
+  "ERM": {
+   "auc": 0.7336902485659655,
+   "ba": 0.6230831739961759
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7103154875717017,
+   "ba": 0.6629971319311663
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7120936902485658,
+   "ba": 0.6389579349904397
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7430019120458893,
+   "ba": 0.6710181644359465
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7109369024856597,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8051625239005736,
+   "ba": 0.7285803059273422
+  }
+ },
+ {
+  "n_bridge": 540,
+  "R_eff": 0.0026392534266550015,
+  "ERM": {
+   "auc": 0.684375529571259,
+   "ba": 0.6051324120719139
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7012832955893454,
+   "ba": 0.6406695321286069
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6989801420406403,
+   "ba": 0.6248132057740599
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.6879342484324691,
+   "ba": 0.6297661413319776
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6978632281123385,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8065582104728012,
+   "ba": 0.7205982036942891
+  }
+ },
+ {
+  "n_bridge": 575,
+  "R_eff": 0.0025179466341595557,
+  "ERM": {
+   "auc": 0.7035934868051658,
+   "ba": 0.6256082725060828
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7393224780086094,
+   "ba": 0.6723891072431218
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.736224967246865,
+   "ba": 0.6598212614635972
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.739453490548381,
+   "ba": 0.6700776717200074
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7334924199887703,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.805820699981284,
+   "ba": 0.709652816769605
+  }
+ },
+ {
+  "n_bridge": 540,
+  "R_eff": 0.002644244878793215,
+  "ERM": {
+   "auc": 0.6876395534290272,
+   "ba": 0.5895534290271133
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.68739145844409,
+   "ba": 0.6345560871876661
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6870281765018608,
+   "ba": 0.6276980329611909
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7286106680843524,
+   "ba": 0.6630515683147262
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.691157185894028,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8164274322169058,
+   "ba": 0.7272993088782562
+  }
+ },
+ {
+  "n_bridge": 576,
+  "R_eff": 0.002559156378600823,
+  "ERM": {
+   "auc": 0.757586212429995,
+   "ba": 0.6656048911212029
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7318227770913235,
+   "ba": 0.6499550684403934
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7280838294526373,
+   "ba": 0.648217982252034
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7538954057480303,
+   "ba": 0.6871439575075822
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7323523276152574,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8281448079978176,
+   "ba": 0.7303544779113244
+  }
+ },
+ {
+  "n_bridge": 573,
+  "R_eff": 0.0025215982136082295,
+  "ERM": {
+   "auc": 0.7030179183323815,
+   "ba": 0.618316319246145
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7054272558537978,
+   "ba": 0.6384565962307254
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7079079811536264,
+   "ba": 0.648923829240434
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7432181610508282,
+   "ba": 0.6689302541404911
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7107902627070246,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8081007281553398,
+   "ba": 0.7127266561964591
+  }
+ },
+ {
+  "n_bridge": 581,
+  "R_eff": 0.002488041561513363,
+  "ERM": {
+   "auc": 0.6630000746380057,
+   "ba": 0.5773203090013435
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.6786740558292281,
+   "ba": 0.6262315270935961
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.6790752351097178,
+   "ba": 0.6222337289147634
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.702931407672787,
+   "ba": 0.6391019181967458
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.6724044633527393,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8406198686371101,
+   "ba": 0.7507370503060158
+  }
+ },
+ {
+  "n_bridge": 548,
+  "R_eff": 0.00261036347268651,
+  "ERM": {
+   "auc": 0.724804656724165,
+   "ba": 0.6502868742295179
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7519534327583488,
+   "ba": 0.6897587290405702
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7497474209126214,
+   "ba": 0.6954359654082513
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.780761352155496,
+   "ba": 0.7104238694189291
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7474487194935441,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8440775997108085,
+   "ba": 0.7381751276798874
+  }
+ },
+ {
+  "n_bridge": 586,
+  "R_eff": 0.0024889572550967545,
+  "ERM": {
+   "auc": 0.7072732561123752,
+   "ba": 0.6015663763751775
+  },
+  "Site centring (class-blind)": {
+   "auc": 0.7444693482984585,
+   "ba": 0.6665782674902048
+  },
+  "Anchor centring (nevi)": {
+   "auc": 0.7466080380515681,
+   "ba": 0.6470477526648075
+  },
+  "Anchor transform (nevi, Ledoit-Wolf)": {
+   "auc": 0.7785857272400636,
+   "ba": 0.6909422211576299
+  },
+  "ComBat (dx covariate)": {
+   "auc": 0.7445634506475953,
+   "ba": NaN
+  },
+  "Oracle (melanoma from three sources)": {
+   "auc": 0.8403681968278953,
+   "ba": 0.7512233305387788
+  }
+ }
+]

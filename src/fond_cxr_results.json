@@ -1,0 +1,1052 @@
+[
+ {
+  "FOND": 0.5695511976836009,
+  "MLP_ERM": 0.6355705061703545,
+  "FOND_hp": {
+   "temperature": 0.07443643395395544,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 0.3201059313777843,
+   "error_lmbd": 10.315865844626495,
+   "xda_alpha": 9.86627201064132,
+   "xda_beta": 1.1890916249924286,
+   "lr": 0.001719285110733252,
+   "weight_decay": 8.605740594077842e-05
+  },
+  "n_bridge": 0
+ },
+ {
+  "FOND": 0.5389861973805867,
+  "MLP_ERM": 0.5770822576811808,
+  "FOND_hp": {
+   "temperature": 0.07394851611134245,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 90.99728013348461,
+   "error_lmbd": 0.46807162866884056,
+   "xda_alpha": 3.6826262468285913,
+   "xda_beta": 4.9907202999588085,
+   "lr": 0.00012464541844291302,
+   "weight_decay": 1.4953606142839447e-05
+  },
+  "n_bridge": 0
+ },
+ {
+  "FOND": 0.5885021023815733,
+  "MLP_ERM": 0.5969463400172994,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 0
+ },
+ {
+  "FOND": 0.5414287076418209,
+  "MLP_ERM": 0.6003458159891529,
+  "FOND_hp": {
+   "temperature": 0.0708196273256549,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.061334598729442,
+   "error_lmbd": 18.124092348836225,
+   "xda_alpha": 1.3872367675474488,
+   "xda_beta": 5.965970634299087,
+   "lr": 0.001598060521701822,
+   "weight_decay": 2.2181901364796797e-05
+  },
+  "n_bridge": 0
+ },
+ {
+  "FOND": 0.600034859284101,
+  "MLP_ERM": 0.6147625142572706,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 0
+ },
+ {
+  "FOND": 0.6080727524696778,
+  "MLP_ERM": 0.6150875970804388,
+  "FOND_hp": {
+   "temperature": 0.06949142921253698,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 2.1647424629695,
+   "error_lmbd": 486.646416725006,
+   "xda_alpha": 1.7859663813038749,
+   "xda_beta": 3.876900412157733,
+   "lr": 0.0004279189287232066,
+   "weight_decay": 3.4526358175873293e-05
+  },
+  "n_bridge": 0
+ },
+ {
+  "FOND": 0.6109081400429268,
+  "MLP_ERM": 0.6052179215403015,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 0
+ },
+ {
+  "FOND": 0.5898855306884103,
+  "MLP_ERM": 0.6123375786168319,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 0
+ },
+ {
+  "FOND": 0.5435622193886275,
+  "MLP_ERM": 0.605690346724511,
+  "FOND_hp": {
+   "temperature": 0.08134509927285881,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 327.9048916330702,
+   "error_lmbd": 0.3290407397074362,
+   "xda_alpha": 3.08287499124976,
+   "xda_beta": 3.619237679198729,
+   "lr": 0.0005886428095669339,
+   "weight_decay": 3.0723523029849244e-06
+  },
+  "n_bridge": 0
+ },
+ {
+  "FOND": 0.607980643829239,
+  "MLP_ERM": 0.6494859825004464,
+  "FOND_hp": {
+   "temperature": 0.08000520264487493,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 122.6307419255463,
+   "error_lmbd": 709.3613270567876,
+   "xda_alpha": 1.005105882820784,
+   "xda_beta": 1.39810451999536,
+   "lr": 0.00015953138777479304,
+   "weight_decay": 1.5216330130952063e-06
+  },
+  "n_bridge": 0
+ },
+ {
+  "FOND": 0.5594625327098462,
+  "MLP_ERM": 0.5772423664122137,
+  "FOND_hp": {
+   "temperature": 0.08225383114510218,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 12.588835892265983,
+   "error_lmbd": 8.757950728804639,
+   "xda_alpha": 1.2055157560002474,
+   "xda_beta": 8.07113844731664,
+   "lr": 0.0005899641766249947,
+   "weight_decay": 0.002872742104835358
+  },
+  "n_bridge": 25
+ },
+ {
+  "FOND": 0.5593958355218897,
+  "MLP_ERM": 0.537458957584102,
+  "FOND_hp": {
+   "temperature": 0.05351661265430347,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 0.40080398001595846,
+   "error_lmbd": 0.23667769830510824,
+   "xda_alpha": 2.9614429330096503,
+   "xda_beta": 1.5626422979375718,
+   "lr": 0.0005498099545983722,
+   "weight_decay": 3.8820973376554066e-05
+  },
+  "n_bridge": 25
+ },
+ {
+  "FOND": 0.4633441657738659,
+  "MLP_ERM": 0.5564237560674488,
+  "FOND_hp": {
+   "temperature": 0.07289990580261475,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 20.242227130936424,
+   "error_lmbd": 0.31726074646343516,
+   "xda_alpha": 1.22488839388931,
+   "xda_beta": 3.863007396773005,
+   "lr": 0.000371896191642428,
+   "weight_decay": 2.343540674003338e-05
+  },
+  "n_bridge": 25
+ },
+ {
+  "FOND": 0.5394363127588743,
+  "MLP_ERM": 0.5677099497152223,
+  "FOND_hp": {
+   "temperature": 0.05496560117980541,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 33.29922072042954,
+   "error_lmbd": 0.22441669124304814,
+   "xda_alpha": 2.6276832086338224,
+   "xda_beta": 2.6625555958376794,
+   "lr": 0.0004719963142393244,
+   "weight_decay": 3.965676693141945e-06
+  },
+  "n_bridge": 25
+ },
+ {
+  "FOND": 0.5104329558415701,
+  "MLP_ERM": 0.5618641394732519,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 25
+ },
+ {
+  "FOND": 0.5996216901379592,
+  "MLP_ERM": 0.5746700033435067,
+  "FOND_hp": {
+   "temperature": 0.08022601551006343,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 11.450006079715351,
+   "error_lmbd": 6.51277390601094,
+   "xda_alpha": 1.4993205057282273,
+   "xda_beta": 1.1362438772851844,
+   "lr": 0.0004615991264486413,
+   "weight_decay": 6.971305323630993e-05
+  },
+  "n_bridge": 25
+ },
+ {
+  "FOND": 0.5234712318852306,
+  "MLP_ERM": 0.5789916853373896,
+  "FOND_hp": {
+   "temperature": 0.07641079291740348,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 258.8314093449147,
+   "error_lmbd": 0.2932408172401878,
+   "xda_alpha": 4.653270652913968,
+   "xda_beta": 4.925072506619958,
+   "lr": 0.0028762435165467434,
+   "weight_decay": 3.0246012453889905e-06
+  },
+  "n_bridge": 25
+ },
+ {
+  "FOND": 0.5737657424388993,
+  "MLP_ERM": 0.5683236915504262,
+  "FOND_hp": {
+   "temperature": 0.06342941594153237,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 0.122776578310577,
+   "error_lmbd": 0.5981273322292395,
+   "xda_alpha": 1.0693786441950857,
+   "xda_beta": 2.4969505592099304,
+   "lr": 0.0013163932344443213,
+   "weight_decay": 6.126575873835939e-06
+  },
+  "n_bridge": 25
+ },
+ {
+  "FOND": 0.5791666300253557,
+  "MLP_ERM": 0.57338277467548,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 25
+ },
+ {
+  "FOND": 0.41836663924389683,
+  "MLP_ERM": 0.6121961971633376,
+  "FOND_hp": {
+   "temperature": 0.05687901333229758,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 0.32668599578599333,
+   "error_lmbd": 15.856159124319765,
+   "xda_alpha": 2.206808411143037,
+   "xda_beta": 8.953507422223224,
+   "lr": 0.0016696259691500873,
+   "weight_decay": 6.15645858246901e-06
+  },
+  "n_bridge": 25
+ },
+ {
+  "FOND": 0.5965411756963908,
+  "MLP_ERM": 0.5882021971726306,
+  "FOND_hp": {
+   "temperature": 0.08130998331671291,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 0.49831399469534254,
+   "error_lmbd": 2.1976568938338206,
+   "xda_alpha": 3.259022441138509,
+   "xda_beta": 1.2916922365585881,
+   "lr": 0.0004321822682642588,
+   "weight_decay": 2.6030150846449687e-05
+  },
+  "n_bridge": 50
+ },
+ {
+  "FOND": 0.5008888332592019,
+  "MLP_ERM": 0.5122393382848722,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 50
+ },
+ {
+  "FOND": 0.5891675281959297,
+  "MLP_ERM": 0.5754759675552146,
+  "FOND_hp": {
+   "temperature": 0.07304239389019734,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 3.3198970474797007,
+   "error_lmbd": 2.3435406740033358,
+   "xda_alpha": 1.7940465453470074,
+   "xda_beta": 1.0968646265668804,
+   "lr": 0.00010438950479171341,
+   "weight_decay": 1.1766276382261872e-06
+  },
+  "n_bridge": 50
+ },
+ {
+  "FOND": 0.5591169184586993,
+  "MLP_ERM": 0.5424727637926039,
+  "FOND_hp": {
+   "temperature": 0.0544761586764204,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.7179139682972533,
+   "error_lmbd": 1.5840360920287755,
+   "xda_alpha": 2.456802114099619,
+   "xda_beta": 7.144811881883808,
+   "lr": 0.00022136814725917477,
+   "weight_decay": 0.006755119942166512
+  },
+  "n_bridge": 50
+ },
+ {
+  "FOND": 0.47921485743514575,
+  "MLP_ERM": 0.5543806794773227,
+  "FOND_hp": {
+   "temperature": 0.08218279247615494,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 4.166917053690156,
+   "error_lmbd": 27.853084599146932,
+   "xda_alpha": 2.76534263620735,
+   "xda_beta": 3.8358197785044736,
+   "lr": 0.0009078181494578313,
+   "weight_decay": 1.429344352696845e-06
+  },
+  "n_bridge": 50
+ },
+ {
+  "FOND": 0.5924321263491608,
+  "MLP_ERM": 0.5924790658298276,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 50
+ },
+ {
+  "FOND": 0.5309070955612472,
+  "MLP_ERM": 0.5526739650436991,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 50
+ },
+ {
+  "FOND": 0.48490125786931215,
+  "MLP_ERM": 0.5587715175909452,
+  "FOND_hp": {
+   "temperature": 0.06500576690535566,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 165.04220317459914,
+   "error_lmbd": 17.009451497297096,
+   "xda_alpha": 1.3346896813211924,
+   "xda_beta": 2.7436982967216674,
+   "lr": 0.001162016883213489,
+   "weight_decay": 1.2910393491442485e-05
+  },
+  "n_bridge": 50
+ },
+ {
+  "FOND": 0.48833155012287055,
+  "MLP_ERM": 0.5563020611958747,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 50
+ },
+ {
+  "FOND": 0.6040446991148185,
+  "MLP_ERM": 0.5920507249496186,
+  "FOND_hp": {
+   "temperature": 0.0830302735067021,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 114.14991456575785,
+   "error_lmbd": 0.6443413606860819,
+   "xda_alpha": 1.5195182406782834,
+   "xda_beta": 1.5442775871630499,
+   "lr": 0.00025239160710045116,
+   "weight_decay": 0.007009716098091612
+  },
+  "n_bridge": 50
+ },
+ {
+  "FOND": 0.6480560867410928,
+  "MLP_ERM": 0.583209687533871,
+  "FOND_hp": {
+   "temperature": 0.0816781173958266,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 0.1394355906958424,
+   "error_lmbd": 5.124039680287604,
+   "xda_alpha": 3.8996260369166476,
+   "xda_beta": 6.659406004383682,
+   "lr": 0.00012198907885272124,
+   "weight_decay": 0.00048552360316344336
+  },
+  "n_bridge": 100
+ },
+ {
+  "FOND": 0.5266109823432863,
+  "MLP_ERM": 0.5501849935442245,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 100
+ },
+ {
+  "FOND": 0.5724202436548604,
+  "MLP_ERM": 0.5400615797976236,
+  "FOND_hp": {
+   "temperature": 0.08121774072799322,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 2.8994954703951916,
+   "error_lmbd": 4.398271300734221,
+   "xda_alpha": 3.5924342497693957,
+   "xda_beta": 5.153526486076348,
+   "lr": 0.00012781721765795192,
+   "weight_decay": 0.0012203451311091562
+  },
+  "n_bridge": 100
+ },
+ {
+  "FOND": 0.5759707310859621,
+  "MLP_ERM": 0.533549691513804,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 100
+ },
+ {
+  "FOND": 0.57526553215661,
+  "MLP_ERM": 0.5681372403734104,
+  "FOND_hp": {
+   "temperature": 0.055654722324779325,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 2.4094836723830597,
+   "error_lmbd": 13.5803225097815,
+   "xda_alpha": 3.5881196075366835,
+   "xda_beta": 6.026394276909267,
+   "lr": 0.00028375808294444477,
+   "weight_decay": 3.083647947858049e-05
+  },
+  "n_bridge": 100
+ },
+ {
+  "FOND": 0.6055286139907593,
+  "MLP_ERM": 0.5720387846772398,
+  "FOND_hp": {
+   "temperature": 0.07926648099995594,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 0.6222914152976924,
+   "error_lmbd": 0.17404773829649525,
+   "xda_alpha": 4.649702939023104,
+   "xda_beta": 4.419975798265082,
+   "lr": 0.00012685086424106383,
+   "weight_decay": 1.457415059932422e-05
+  },
+  "n_bridge": 100
+ },
+ {
+  "FOND": 0.6575155605703753,
+  "MLP_ERM": 0.6041425467405551,
+  "FOND_hp": {
+   "temperature": 0.07556228082489419,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 0.48460772103330146,
+   "error_lmbd": 7.133511966346879,
+   "xda_alpha": 4.005620392304435,
+   "xda_beta": 7.021355036200163,
+   "lr": 0.00019705688865492399,
+   "weight_decay": 0.0028605643978671974
+  },
+  "n_bridge": 100
+ },
+ {
+  "FOND": 0.6056784163419257,
+  "MLP_ERM": 0.5632962767434551,
+  "FOND_hp": {
+   "temperature": 0.07198877138154725,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 0.40997912360802774,
+   "error_lmbd": 0.36476037606930095,
+   "xda_alpha": 1.7669390345342395,
+   "xda_beta": 5.280054901807829,
+   "lr": 0.0002724046209291887,
+   "weight_decay": 3.4585604394904786e-06
+  },
+  "n_bridge": 100
+ },
+ {
+  "FOND": 0.5938141650422352,
+  "MLP_ERM": 0.5734151167392165,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 100
+ },
+ {
+  "FOND": 0.5763945355348078,
+  "MLP_ERM": 0.5495704430371675,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 100
+ },
+ {
+  "FOND": 0.5606460872056114,
+  "MLP_ERM": 0.599116737376709,
+  "FOND_hp": {
+   "temperature": 0.05254329992613142,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 0.23055653209279572,
+   "error_lmbd": 5.5436759227251855,
+   "xda_alpha": 2.3306144629501295,
+   "xda_beta": 9.098772788606421,
+   "lr": 0.003129625431244358,
+   "weight_decay": 3.4534895546008497e-06
+  },
+  "n_bridge": 300
+ },
+ {
+  "FOND": 0.5633093467559821,
+  "MLP_ERM": 0.4990765223597815,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 300
+ },
+ {
+  "FOND": 0.5730232828674195,
+  "MLP_ERM": 0.5727722354292104,
+  "FOND_hp": {
+   "temperature": 0.05268979324059373,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 656.4950275816125,
+   "error_lmbd": 0.8301069911234379,
+   "xda_alpha": 4.217078315703912,
+   "xda_beta": 1.7521355670305094,
+   "lr": 0.00018529403979072211,
+   "weight_decay": 6.955821242445501e-05
+  },
+  "n_bridge": 300
+ },
+ {
+  "FOND": 0.5781554811659413,
+  "MLP_ERM": 0.5588125554746866,
+  "FOND_hp": {
+   "temperature": 0.08016980548333227,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 591.461089019418,
+   "error_lmbd": 0.6576267244411698,
+   "xda_alpha": 8.291262662485888,
+   "xda_beta": 1.3748778477589603,
+   "lr": 0.00031340571107366506,
+   "weight_decay": 4.923982905913253e-06
+  },
+  "n_bridge": 300
+ },
+ {
+  "FOND": 0.6062820512568872,
+  "MLP_ERM": 0.6141401111610751,
+  "FOND_hp": {
+   "temperature": 0.05989983444671979,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 0.5612658272379687,
+   "error_lmbd": 0.1437905518071505,
+   "xda_alpha": 8.22774432393226,
+   "xda_beta": 3.6909489624232856,
+   "lr": 0.00016070427168665067,
+   "weight_decay": 0.0006425078189431455
+  },
+  "n_bridge": 300
+ },
+ {
+  "FOND": 0.5929378433730115,
+  "MLP_ERM": 0.6145873749561107,
+  "FOND_hp": {
+   "temperature": 0.0773660944461378,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 690.846417096445,
+   "error_lmbd": 0.3350357257930072,
+   "xda_alpha": 4.24188778429008,
+   "xda_beta": 1.1466782471776436,
+   "lr": 0.001953740401694861,
+   "weight_decay": 3.73122157735601e-05
+  },
+  "n_bridge": 300
+ },
+ {
+  "FOND": 0.5684757040321406,
+  "MLP_ERM": 0.5949915632360101,
+  "FOND_hp": {
+   "temperature": 0.062148928021960426,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 58.29413129576495,
+   "error_lmbd": 11.740382463321954,
+   "xda_alpha": 2.5584289391715562,
+   "xda_beta": 3.233475297557945,
+   "lr": 0.00026380374876150783,
+   "weight_decay": 3.502047991129865e-06
+  },
+  "n_bridge": 300
+ },
+ {
+  "FOND": 0.6392256032249303,
+  "MLP_ERM": 0.5862101651830807,
+  "FOND_hp": {
+   "temperature": 0.0854274787263304,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 0.11857514525131886,
+   "error_lmbd": 0.4171904453427972,
+   "xda_alpha": 1.4100409163177468,
+   "xda_beta": 3.0389205841341482,
+   "lr": 0.00010268606365047072,
+   "weight_decay": 2.321158091183678e-05
+  },
+  "n_bridge": 300
+ },
+ {
+  "FOND": 0.5919954857904997,
+  "MLP_ERM": 0.578933884418649,
+  "FOND_hp": {
+   "temperature": 0.06589090852968087,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 13.580632485608428,
+   "error_lmbd": 0.12798772598232386,
+   "xda_alpha": 3.026028271178794,
+   "xda_beta": 1.0374416670266962,
+   "lr": 0.00012580389241314717,
+   "weight_decay": 0.0003283360807084973
+  },
+  "n_bridge": 300
+ },
+ {
+  "FOND": 0.5611565632892017,
+  "MLP_ERM": 0.5950336486951864,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 300
+ },
+ {
+  "FOND": 0.646314819689392,
+  "MLP_ERM": 0.6010352956660421,
+  "FOND_hp": {
+   "temperature": 0.0802918443587274,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 215.7364067448052,
+   "error_lmbd": 18.197067683696996,
+   "xda_alpha": 7.897563656076583,
+   "xda_beta": 4.541087094132593,
+   "lr": 0.0008852594915369646,
+   "weight_decay": 0.002229128741282418
+  },
+  "n_bridge": 1000
+ },
+ {
+  "FOND": 0.587368099900984,
+  "MLP_ERM": 0.5731868136780487,
+  "FOND_hp": {
+   "temperature": 0.05856670980560964,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 32.95382326701175,
+   "error_lmbd": 8.653085451320724,
+   "xda_alpha": 2.886705758877986,
+   "xda_beta": 9.263218908176503,
+   "lr": 0.0004194052772439905,
+   "weight_decay": 6.790015432547311e-06
+  },
+  "n_bridge": 1000
+ },
+ {
+  "FOND": 0.5572365643651482,
+  "MLP_ERM": 0.5834364979445257,
+  "FOND_hp": {
+   "temperature": 0.07583057732862815,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 0.6862365772556163,
+   "error_lmbd": 9.433861946331929,
+   "xda_alpha": 2.422476116355587,
+   "xda_beta": 2.2135939536082456,
+   "lr": 0.000927711719125305,
+   "weight_decay": 1.817415509968264e-05
+  },
+  "n_bridge": 1000
+ },
+ {
+  "FOND": 0.5938225818742869,
+  "MLP_ERM": 0.5565132206003028,
+  "FOND_hp": {
+   "temperature": 0.08230750791513912,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.9922076914457116,
+   "error_lmbd": 3.374173637354435,
+   "xda_alpha": 8.837138425329632,
+   "xda_beta": 3.5839785004514333,
+   "lr": 0.000142348209779855,
+   "weight_decay": 1.6157583630853767e-05
+  },
+  "n_bridge": 1000
+ },
+ {
+  "FOND": 0.602457442133294,
+  "MLP_ERM": 0.5929760505334001,
+  "FOND_hp": {
+   "temperature": 0.05265006061896637,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 2.8978241819379345,
+   "error_lmbd": 1.2048912041415951,
+   "xda_alpha": 4.178339896959958,
+   "xda_beta": 4.535473959820465,
+   "lr": 0.0003748913041056352,
+   "weight_decay": 8.891916244526002e-05
+  },
+  "n_bridge": 1000
+ },
+ {
+  "FOND": 0.6890309698125121,
+  "MLP_ERM": 0.5987413886076762,
+  "FOND_hp": {
+   "temperature": 0.05302704249457127,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 9.216248234262181,
+   "error_lmbd": 0.7151148854076136,
+   "xda_alpha": 3.2510269697242635,
+   "xda_beta": 4.236891877108361,
+   "lr": 0.00013240701473750264,
+   "weight_decay": 0.00010882915546568384
+  },
+  "n_bridge": 1000
+ },
+ {
+  "FOND": 0.5692660530214207,
+  "MLP_ERM": 0.5903688123654862,
+  "FOND_hp": {
+   "temperature": 0.0575196403181113,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 43.02451653634674,
+   "error_lmbd": 4.109839685789769,
+   "xda_alpha": 2.730389220721925,
+   "xda_beta": 7.4145019812081205,
+   "lr": 0.00010665830206892878,
+   "weight_decay": 1.915729862465598e-05
+  },
+  "n_bridge": 1000
+ },
+ {
+  "FOND": 0.5668992621232418,
+  "MLP_ERM": 0.6015246172531332,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 1000
+ },
+ {
+  "FOND": 0.6610182376018018,
+  "MLP_ERM": 0.5917395828753169,
+  "FOND_hp": {
+   "temperature": 0.0682777954224563,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 0.1857508800389892,
+   "error_lmbd": 5.310714458261206,
+   "xda_alpha": 1.2262083104295236,
+   "xda_beta": 1.2708780470595393,
+   "lr": 0.00022539564139841589,
+   "weight_decay": 5.4003344784048626e-05
+  },
+  "n_bridge": 1000
+ },
+ {
+  "FOND": 0.6893390793602203,
+  "MLP_ERM": 0.5847969439555114,
+  "FOND_hp": {
+   "temperature": 0.08157479335114193,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 0.6912557422723034,
+   "error_lmbd": 1.052541249521842,
+   "xda_alpha": 1.0357766850012782,
+   "xda_beta": 1.3351085045550752,
+   "lr": 0.0001358372246199771,
+   "weight_decay": 0.0003270841112870494
+  },
+  "n_bridge": 1000
+ },
+ {
+  "FOND": 0.684688888716845,
+  "MLP_ERM": 0.6148671089915303,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 11348
+ },
+ {
+  "FOND": 0.6504156580681548,
+  "MLP_ERM": 0.614395652986979,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 11528
+ },
+ {
+  "FOND": 0.7039955569481788,
+  "MLP_ERM": 0.6197686723568251,
+  "FOND_hp": {
+   "temperature": 0.07532773383634786,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 712.3207037708906,
+   "error_lmbd": 0.5126508339863837,
+   "xda_alpha": 5.2240638932386245,
+   "xda_beta": 4.407000286514141,
+   "lr": 0.0002798045124238773,
+   "weight_decay": 6.0321293824571855e-06
+  },
+  "n_bridge": 11378
+ },
+ {
+  "FOND": 0.6412693381398203,
+  "MLP_ERM": 0.5923862683791249,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 11500
+ },
+ {
+  "FOND": 0.6729994038983907,
+  "MLP_ERM": 0.5967228347349998,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 11433
+ },
+ {
+  "FOND": 0.6773666951345925,
+  "MLP_ERM": 0.6541266229744542,
+  "FOND_hp": {
+   "temperature": 0.0789094389824928,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 42.58311900625091,
+   "error_lmbd": 0.6490436903515151,
+   "xda_alpha": 1.0259400677708894,
+   "xda_beta": 3.1261355849108616,
+   "lr": 0.0010297176870728173,
+   "weight_decay": 0.000206150863989445
+  },
+  "n_bridge": 11489
+ },
+ {
+  "FOND": 0.6722650026553372,
+  "MLP_ERM": 0.6174262206092418,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 11524
+ },
+ {
+  "FOND": 0.6628129415283021,
+  "MLP_ERM": 0.6046357229391786,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 11409
+ },
+ {
+  "FOND": 0.689185341521445,
+  "MLP_ERM": 0.6233259562160762,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 11294
+ },
+ {
+  "FOND": 0.7002529830233922,
+  "MLP_ERM": 0.6694509945537104,
+  "FOND_hp": {
+   "temperature": 0.07,
+   "base_temperature": 0.07,
+   "xdom_lmbd": 1.0,
+   "error_lmbd": 1.0,
+   "xda_alpha": 1.0,
+   "xda_beta": 1.0,
+   "lr": 0.001,
+   "weight_decay": 0.0
+  },
+  "n_bridge": 11436
+ }
+]

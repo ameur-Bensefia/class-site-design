@@ -1,0 +1,15 @@
+# Data and data-derived files (the datasets cannot be redistributed)
+*.npy
+*.npz
+!src/scores_e2e_es/*.npy
+datasets/
+prepared/
+images/
+cache/
+cxr224*
+
+# Python and system files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

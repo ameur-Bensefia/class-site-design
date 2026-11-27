@@ -1,0 +1,2702 @@
+[
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.2000000000000001,
+  "est_err": 4.498474156687927,
+  "cf_A_vs_B": 0.5675
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.2000000000000001,
+  "est_err": 4.354035413445753,
+  "cf_A_vs_B": 0.5175000000000001
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.2000000000000001,
+  "est_err": 6.661066374778208,
+  "cf_A_vs_B": 0.5625
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.2000000000000001,
+  "est_err": 3.604216788136262,
+  "cf_A_vs_B": 0.4675
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.2000000000000001,
+  "est_err": 6.744462347757759,
+  "cf_A_vs_B": 0.53125
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.2000000000000001,
+  "est_err": 5.738778736071064,
+  "cf_A_vs_B": 0.48624999999999996
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.2000000000000001,
+  "est_err": 13.014597703633399,
+  "cf_A_vs_B": 0.50625
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.2000000000000001,
+  "est_err": 2.7093917878452762,
+  "cf_A_vs_B": 0.65625
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.2000000000000001,
+  "est_err": 9.857626278418829,
+  "cf_A_vs_B": 0.43125
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.2000000000000001,
+  "est_err": 10.016681741305327,
+  "cf_A_vs_B": 0.5974999999999999
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000014,
+  "est_err": 1.242148730169648,
+  "cf_A_vs_B": 0.7150000000000001
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000014,
+  "est_err": 1.3307859890679343,
+  "cf_A_vs_B": 0.6325000000000001
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000014,
+  "est_err": 2.7522397278625967,
+  "cf_A_vs_B": 0.73375
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000014,
+  "est_err": 2.1006800231746765,
+  "cf_A_vs_B": 0.6775
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000014,
+  "est_err": 2.790137073505962,
+  "cf_A_vs_B": 0.74875
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000014,
+  "est_err": 1.3004142363814144,
+  "cf_A_vs_B": 0.7225
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000014,
+  "est_err": 5.077795488215427,
+  "cf_A_vs_B": 0.84375
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000014,
+  "est_err": 2.6518000111697786,
+  "cf_A_vs_B": 0.73875
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000014,
+  "est_err": 2.191710987408081,
+  "cf_A_vs_B": 0.76
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000014,
+  "est_err": 5.9153026277139045,
+  "cf_A_vs_B": 0.7112499999999999
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.04000000000000002,
+  "est_err": 1.700802376372154,
+  "cf_A_vs_B": 0.77625
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.04000000000000002,
+  "est_err": 1.6601412098976969,
+  "cf_A_vs_B": 0.7637499999999999
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.04000000000000002,
+  "est_err": 0.86278200896536,
+  "cf_A_vs_B": 0.77875
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.04000000000000002,
+  "est_err": 1.5140451430722712,
+  "cf_A_vs_B": 0.77875
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.04000000000000002,
+  "est_err": 1.6258143006148305,
+  "cf_A_vs_B": 0.8087500000000001
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.04000000000000002,
+  "est_err": 1.2377352766881222,
+  "cf_A_vs_B": 0.7462500000000001
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.04000000000000002,
+  "est_err": 3.4707457783681335,
+  "cf_A_vs_B": 0.83375
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.04000000000000002,
+  "est_err": 1.2857043915852624,
+  "cf_A_vs_B": 0.82125
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.04000000000000002,
+  "est_err": 1.3566574340239186,
+  "cf_A_vs_B": 0.80375
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.04000000000000002,
+  "est_err": 1.8136914228699095,
+  "cf_A_vs_B": 0.84625
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.020000000000000025,
+  "est_err": 0.6366931925489081,
+  "cf_A_vs_B": 0.84875
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.020000000000000025,
+  "est_err": 0.7380658520301081,
+  "cf_A_vs_B": 0.77
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.020000000000000025,
+  "est_err": 0.6610758407201244,
+  "cf_A_vs_B": 0.8125
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.020000000000000025,
+  "est_err": 0.3306580230004105,
+  "cf_A_vs_B": 0.8425
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.020000000000000025,
+  "est_err": 0.8346880486877023,
+  "cf_A_vs_B": 0.83875
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.020000000000000025,
+  "est_err": 0.6291091519154153,
+  "cf_A_vs_B": 0.78375
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.020000000000000025,
+  "est_err": 0.7703521955664603,
+  "cf_A_vs_B": 0.8925000000000001
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.020000000000000025,
+  "est_err": 0.8667535853224836,
+  "cf_A_vs_B": 0.81375
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.020000000000000025,
+  "est_err": 0.6869002839954201,
+  "cf_A_vs_B": 0.8325
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.020000000000000025,
+  "est_err": 1.0464864561026272,
+  "cf_A_vs_B": 0.86375
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.0066666666666666645,
+  "est_err": 0.2839956794186944,
+  "cf_A_vs_B": 0.8512500000000001
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.0066666666666666645,
+  "est_err": 0.2810336274918218,
+  "cf_A_vs_B": 0.8325
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.0066666666666666645,
+  "est_err": 0.13675271691098234,
+  "cf_A_vs_B": 0.8725
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.0066666666666666645,
+  "est_err": 0.4529589806556538,
+  "cf_A_vs_B": 0.84125
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.0066666666666666645,
+  "est_err": 0.12073637492099938,
+  "cf_A_vs_B": 0.85625
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.0066666666666666645,
+  "est_err": 0.27573459065523864,
+  "cf_A_vs_B": 0.8512500000000001
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.0066666666666666645,
+  "est_err": 0.3468818655854401,
+  "cf_A_vs_B": 0.87625
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.0066666666666666645,
+  "est_err": 0.2266421437948287,
+  "cf_A_vs_B": 0.85875
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.0066666666666666645,
+  "est_err": 0.14377007603692543,
+  "cf_A_vs_B": 0.85625
+ },
+ {
+  "topology": "star",
+  "n_sites": 3,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.0066666666666666645,
+  "est_err": 0.1486626713972289,
+  "cf_A_vs_B": 0.8575
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.19999999999999968,
+  "est_err": 9.405275027701649,
+  "cf_A_vs_B": 0.45
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.19999999999999968,
+  "est_err": 4.885090525949846,
+  "cf_A_vs_B": 0.40375000000000005
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.19999999999999968,
+  "est_err": 5.130856701163108,
+  "cf_A_vs_B": 0.5025
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.19999999999999968,
+  "est_err": 5.6459718531778735,
+  "cf_A_vs_B": 0.60625
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.19999999999999968,
+  "est_err": 4.792870836165555,
+  "cf_A_vs_B": 0.505
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.19999999999999968,
+  "est_err": 9.753506056415894,
+  "cf_A_vs_B": 0.5237499999999999
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.19999999999999968,
+  "est_err": 3.620820202708697,
+  "cf_A_vs_B": 0.48624999999999996
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.19999999999999968,
+  "est_err": 10.945218834529083,
+  "cf_A_vs_B": 0.50125
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.19999999999999968,
+  "est_err": 3.289516648790512,
+  "cf_A_vs_B": 0.515
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.19999999999999968,
+  "est_err": 7.148447329710629,
+  "cf_A_vs_B": 0.56
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000004,
+  "est_err": 1.7304207164341328,
+  "cf_A_vs_B": 0.7375
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000004,
+  "est_err": 1.5372378867240073,
+  "cf_A_vs_B": 0.7725
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000004,
+  "est_err": 1.414009457056268,
+  "cf_A_vs_B": 0.76875
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000004,
+  "est_err": 3.495766414430123,
+  "cf_A_vs_B": 0.72375
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000004,
+  "est_err": 2.13659920690835,
+  "cf_A_vs_B": 0.6799999999999999
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000004,
+  "est_err": 1.7576518566190258,
+  "cf_A_vs_B": 0.7175
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000004,
+  "est_err": 2.779470128988292,
+  "cf_A_vs_B": 0.75375
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000004,
+  "est_err": 4.97203451320246,
+  "cf_A_vs_B": 0.5875
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000004,
+  "est_err": 2.9219438558216977,
+  "cf_A_vs_B": 0.72875
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000004,
+  "est_err": 4.374801776751596,
+  "cf_A_vs_B": 0.69875
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.03999999999999998,
+  "est_err": 2.136932156194351,
+  "cf_A_vs_B": 0.74375
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.03999999999999998,
+  "est_err": 0.805570197870952,
+  "cf_A_vs_B": 0.79
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.03999999999999998,
+  "est_err": 1.9796438670565335,
+  "cf_A_vs_B": 0.7262500000000001
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.03999999999999998,
+  "est_err": 1.0153543660650493,
+  "cf_A_vs_B": 0.79875
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.03999999999999998,
+  "est_err": 1.1821724977718773,
+  "cf_A_vs_B": 0.75
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.03999999999999998,
+  "est_err": 2.3336333011326538,
+  "cf_A_vs_B": 0.8325
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.03999999999999998,
+  "est_err": 1.3214249275587986,
+  "cf_A_vs_B": 0.7675000000000001
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.03999999999999998,
+  "est_err": 2.370418453708359,
+  "cf_A_vs_B": 0.7124999999999999
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.03999999999999998,
+  "est_err": 1.176504635995431,
+  "cf_A_vs_B": 0.77625
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.03999999999999998,
+  "est_err": 1.2420086829117234,
+  "cf_A_vs_B": 0.8125
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.02000000000000001,
+  "est_err": 0.769871375737361,
+  "cf_A_vs_B": 0.78125
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.02000000000000001,
+  "est_err": 0.8894829173078376,
+  "cf_A_vs_B": 0.7887500000000001
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.02000000000000001,
+  "est_err": 0.630924021426987,
+  "cf_A_vs_B": 0.82375
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.02000000000000001,
+  "est_err": 0.33870468774436724,
+  "cf_A_vs_B": 0.8512500000000001
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.02000000000000001,
+  "est_err": 0.6150889525388047,
+  "cf_A_vs_B": 0.845
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.02000000000000001,
+  "est_err": 0.497710019272202,
+  "cf_A_vs_B": 0.83
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.02000000000000001,
+  "est_err": 1.0474911878044542,
+  "cf_A_vs_B": 0.83125
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.02000000000000001,
+  "est_err": 1.008051250599024,
+  "cf_A_vs_B": 0.8025
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.02000000000000001,
+  "est_err": 0.5466807134415794,
+  "cf_A_vs_B": 0.86125
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.02000000000000001,
+  "est_err": 0.981931265016541,
+  "cf_A_vs_B": 0.77
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.006666666666666664,
+  "est_err": 0.46271959117137373,
+  "cf_A_vs_B": 0.85
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.006666666666666664,
+  "est_err": 0.16253587953312143,
+  "cf_A_vs_B": 0.88
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.006666666666666664,
+  "est_err": 0.18910762948696166,
+  "cf_A_vs_B": 0.86625
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.006666666666666664,
+  "est_err": 0.2100418604942228,
+  "cf_A_vs_B": 0.8725
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.006666666666666664,
+  "est_err": 0.2906291610590188,
+  "cf_A_vs_B": 0.84125
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.006666666666666664,
+  "est_err": 0.3020589770119918,
+  "cf_A_vs_B": 0.87
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.006666666666666664,
+  "est_err": 0.29241550732399735,
+  "cf_A_vs_B": 0.88375
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.006666666666666664,
+  "est_err": 0.2804598284342783,
+  "cf_A_vs_B": 0.86375
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.006666666666666664,
+  "est_err": 0.3958024981541644,
+  "cf_A_vs_B": 0.88625
+ },
+ {
+  "topology": "star",
+  "n_sites": 4,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.006666666666666664,
+  "est_err": 0.24298947967592743,
+  "cf_A_vs_B": 0.8612500000000001
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.19999999999999868,
+  "est_err": 3.969778846344707,
+  "cf_A_vs_B": 0.50875
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.19999999999999868,
+  "est_err": 5.01466481322689,
+  "cf_A_vs_B": 0.5075
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.19999999999999868,
+  "est_err": 4.318173861782901,
+  "cf_A_vs_B": 0.6275
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.19999999999999868,
+  "est_err": 8.257516403834916,
+  "cf_A_vs_B": 0.39749999999999996
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.19999999999999868,
+  "est_err": 5.4727451551671225,
+  "cf_A_vs_B": 0.5762499999999999
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.19999999999999868,
+  "est_err": 7.087986035756167,
+  "cf_A_vs_B": 0.54
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.19999999999999868,
+  "est_err": 8.055382690556364,
+  "cf_A_vs_B": 0.6225
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.19999999999999868,
+  "est_err": 6.652199770934851,
+  "cf_A_vs_B": 0.57375
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.19999999999999868,
+  "est_err": 12.671591005591464,
+  "cf_A_vs_B": 0.3875
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.19999999999999868,
+  "est_err": 18.351326730740574,
+  "cf_A_vs_B": 0.3125
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000013,
+  "est_err": 1.048608801845993,
+  "cf_A_vs_B": 0.76
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000013,
+  "est_err": 2.111804980673701,
+  "cf_A_vs_B": 0.72375
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000013,
+  "est_err": 1.4731263277820332,
+  "cf_A_vs_B": 0.73375
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000013,
+  "est_err": 2.4933856432981925,
+  "cf_A_vs_B": 0.67625
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000013,
+  "est_err": 3.5171593509320838,
+  "cf_A_vs_B": 0.6975
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000013,
+  "est_err": 2.4929399739662754,
+  "cf_A_vs_B": 0.65625
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000013,
+  "est_err": 2.8067951476254676,
+  "cf_A_vs_B": 0.76125
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000013,
+  "est_err": 2.951634551546394,
+  "cf_A_vs_B": 0.6950000000000001
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000013,
+  "est_err": 4.816043102622895,
+  "cf_A_vs_B": 0.75125
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.08000000000000013,
+  "est_err": 3.146201287930327,
+  "cf_A_vs_B": 0.7662500000000001
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.04000000000000002,
+  "est_err": 1.0421138661148845,
+  "cf_A_vs_B": 0.77125
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.04000000000000002,
+  "est_err": 0.7154801883487288,
+  "cf_A_vs_B": 0.79625
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.04000000000000002,
+  "est_err": 0.8402374273596257,
+  "cf_A_vs_B": 0.84625
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.04000000000000002,
+  "est_err": 0.876749379034123,
+  "cf_A_vs_B": 0.6912499999999999
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.04000000000000002,
+  "est_err": 2.060718872193552,
+  "cf_A_vs_B": 0.7337499999999999
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.04000000000000002,
+  "est_err": 1.3864100092413438,
+  "cf_A_vs_B": 0.74625
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.04000000000000002,
+  "est_err": 1.770867308571182,
+  "cf_A_vs_B": 0.845
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.04000000000000002,
+  "est_err": 0.556937881579192,
+  "cf_A_vs_B": 0.81625
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.04000000000000002,
+  "est_err": 0.6984959729661846,
+  "cf_A_vs_B": 0.8
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.04000000000000002,
+  "est_err": 1.7429007709515467,
+  "cf_A_vs_B": 0.765
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.020000000000000018,
+  "est_err": 0.5064371399848511,
+  "cf_A_vs_B": 0.8375
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.020000000000000018,
+  "est_err": 0.5042834025356537,
+  "cf_A_vs_B": 0.8512500000000001
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.020000000000000018,
+  "est_err": 1.0845404508184804,
+  "cf_A_vs_B": 0.83125
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.020000000000000018,
+  "est_err": 0.5141226615103824,
+  "cf_A_vs_B": 0.80375
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.020000000000000018,
+  "est_err": 0.2579325808745786,
+  "cf_A_vs_B": 0.84375
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.020000000000000018,
+  "est_err": 0.29169259086346455,
+  "cf_A_vs_B": 0.8025
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.020000000000000018,
+  "est_err": 0.7687466812168011,
+  "cf_A_vs_B": 0.86875
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.020000000000000018,
+  "est_err": 0.32163870216878887,
+  "cf_A_vs_B": 0.8574999999999999
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.020000000000000018,
+  "est_err": 0.9689144034106582,
+  "cf_A_vs_B": 0.8
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.020000000000000018,
+  "est_err": 0.9491230068283489,
+  "cf_A_vs_B": 0.85875
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.006666666666666668,
+  "est_err": 0.30182261557625556,
+  "cf_A_vs_B": 0.84875
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.006666666666666668,
+  "est_err": 0.48267178824006257,
+  "cf_A_vs_B": 0.8325
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.006666666666666668,
+  "est_err": 0.13594547133082543,
+  "cf_A_vs_B": 0.8500000000000001
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.006666666666666668,
+  "est_err": 0.36688320740350666,
+  "cf_A_vs_B": 0.8574999999999999
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.006666666666666668,
+  "est_err": 0.13279231716137335,
+  "cf_A_vs_B": 0.8625
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.006666666666666668,
+  "est_err": 0.26642678799937913,
+  "cf_A_vs_B": 0.84125
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.006666666666666668,
+  "est_err": 0.47014029741205,
+  "cf_A_vs_B": 0.905
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.006666666666666668,
+  "est_err": 0.1938111874383059,
+  "cf_A_vs_B": 0.8674999999999999
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.006666666666666668,
+  "est_err": 0.32756546283315435,
+  "cf_A_vs_B": 0.825
+ },
+ {
+  "topology": "star",
+  "n_sites": 6,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.006666666666666668,
+  "est_err": 0.35969653769689547,
+  "cf_A_vs_B": 0.855
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.40000000000000063,
+  "est_err": 18.026605375672872,
+  "cf_A_vs_B": 0.24625000000000002
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.40000000000000063,
+  "est_err": 13.934823909317199,
+  "cf_A_vs_B": 0.29125
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.40000000000000063,
+  "est_err": 16.438039343129084,
+  "cf_A_vs_B": 0.24875
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.40000000000000063,
+  "est_err": 8.63445399876448,
+  "cf_A_vs_B": 0.31375
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.40000000000000063,
+  "est_err": 7.629540920021409,
+  "cf_A_vs_B": 0.38625
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.40000000000000063,
+  "est_err": 9.759619158823437,
+  "cf_A_vs_B": 0.25375000000000003
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.40000000000000063,
+  "est_err": 15.696654659052577,
+  "cf_A_vs_B": 0.33125000000000004
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.40000000000000063,
+  "est_err": 12.643466784718221,
+  "cf_A_vs_B": 0.315
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.40000000000000063,
+  "est_err": 5.622478400850351,
+  "cf_A_vs_B": 0.31875
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.40000000000000063,
+  "est_err": 8.459279750250762,
+  "cf_A_vs_B": 0.5
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.1599999999999991,
+  "est_err": 3.863564054048252,
+  "cf_A_vs_B": 0.5925
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.1599999999999991,
+  "est_err": 2.909926821675829,
+  "cf_A_vs_B": 0.5575
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.1599999999999991,
+  "est_err": 3.0682527405492515,
+  "cf_A_vs_B": 0.6475
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.1599999999999991,
+  "est_err": 9.477876214800286,
+  "cf_A_vs_B": 0.525
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.1599999999999991,
+  "est_err": 2.6910048788488434,
+  "cf_A_vs_B": 0.6387499999999999
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.1599999999999991,
+  "est_err": 2.8677308954508085,
+  "cf_A_vs_B": 0.58125
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.1599999999999991,
+  "est_err": 5.418903144470757,
+  "cf_A_vs_B": 0.56625
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.1599999999999991,
+  "est_err": 6.136477969709325,
+  "cf_A_vs_B": 0.595
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.1599999999999991,
+  "est_err": 7.058921483498208,
+  "cf_A_vs_B": 0.6012500000000001
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.1599999999999991,
+  "est_err": 4.595730096302985,
+  "cf_A_vs_B": 0.59375
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.07999999999999997,
+  "est_err": 3.115045700060344,
+  "cf_A_vs_B": 0.77875
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.07999999999999997,
+  "est_err": 1.5030529823496288,
+  "cf_A_vs_B": 0.69625
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.07999999999999997,
+  "est_err": 2.6492387418595182,
+  "cf_A_vs_B": 0.745
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.07999999999999997,
+  "est_err": 1.2616290347875472,
+  "cf_A_vs_B": 0.72375
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.07999999999999997,
+  "est_err": 2.78518811622246,
+  "cf_A_vs_B": 0.7424999999999999
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.07999999999999997,
+  "est_err": 2.800665408106873,
+  "cf_A_vs_B": 0.6812499999999999
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.07999999999999997,
+  "est_err": 2.300808899986938,
+  "cf_A_vs_B": 0.8325
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.07999999999999997,
+  "est_err": 3.5176236875558007,
+  "cf_A_vs_B": 0.7375
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.07999999999999997,
+  "est_err": 2.0921304951624227,
+  "cf_A_vs_B": 0.6425
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.07999999999999997,
+  "est_err": 4.184844888134951,
+  "cf_A_vs_B": 0.6699999999999999
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.039999999999999994,
+  "est_err": 1.6164544935735823,
+  "cf_A_vs_B": 0.7725
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.039999999999999994,
+  "est_err": 1.5692421524748403,
+  "cf_A_vs_B": 0.7775000000000001
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.039999999999999994,
+  "est_err": 1.3555729473095193,
+  "cf_A_vs_B": 0.79625
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.039999999999999994,
+  "est_err": 1.648776837338747,
+  "cf_A_vs_B": 0.72
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.039999999999999994,
+  "est_err": 0.6366892070202819,
+  "cf_A_vs_B": 0.85875
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.039999999999999994,
+  "est_err": 1.1829506085189467,
+  "cf_A_vs_B": 0.78625
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.039999999999999994,
+  "est_err": 1.4595410617395541,
+  "cf_A_vs_B": 0.83125
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.039999999999999994,
+  "est_err": 1.285044362278808,
+  "cf_A_vs_B": 0.8262499999999999
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.039999999999999994,
+  "est_err": 1.2665812139831218,
+  "cf_A_vs_B": 0.74625
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.039999999999999994,
+  "est_err": 2.197650504165559,
+  "cf_A_vs_B": 0.79375
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.013333333333333319,
+  "est_err": 0.9330918567321124,
+  "cf_A_vs_B": 0.8262499999999999
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.013333333333333319,
+  "est_err": 0.5361006866470281,
+  "cf_A_vs_B": 0.8575
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.013333333333333319,
+  "est_err": 0.28762351302368727,
+  "cf_A_vs_B": 0.8674999999999999
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.013333333333333319,
+  "est_err": 0.5097824207826002,
+  "cf_A_vs_B": 0.84
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.013333333333333319,
+  "est_err": 0.8132738457573035,
+  "cf_A_vs_B": 0.84375
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.013333333333333319,
+  "est_err": 0.4913644044567853,
+  "cf_A_vs_B": 0.81375
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.013333333333333319,
+  "est_err": 0.8618595837101003,
+  "cf_A_vs_B": 0.85625
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.013333333333333319,
+  "est_err": 0.44623404478042195,
+  "cf_A_vs_B": 0.8625
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.013333333333333319,
+  "est_err": 0.5589000257486724,
+  "cf_A_vs_B": 0.84125
+ },
+ {
+  "topology": "chain",
+  "n_sites": 3,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.013333333333333319,
+  "est_err": 0.6429355796192003,
+  "cf_A_vs_B": 0.86125
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.5999999999999955,
+  "est_err": 8.569071900460136,
+  "cf_A_vs_B": 0.21000000000000002
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.5999999999999955,
+  "est_err": 14.697243179205067,
+  "cf_A_vs_B": 0.27749999999999997
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.5999999999999955,
+  "est_err": 20.82611434508858,
+  "cf_A_vs_B": 0.31625000000000003
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.5999999999999955,
+  "est_err": 26.130860659128277,
+  "cf_A_vs_B": 0.155
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.5999999999999955,
+  "est_err": 15.634288116936549,
+  "cf_A_vs_B": 0.28500000000000003
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.5999999999999955,
+  "est_err": 14.098991842728687,
+  "cf_A_vs_B": 0.23500000000000001
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.5999999999999955,
+  "est_err": 19.113754858323524,
+  "cf_A_vs_B": 0.25
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.5999999999999955,
+  "est_err": 37.93907180273507,
+  "cf_A_vs_B": 0.07375
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.5999999999999955,
+  "est_err": 28.53566308010845,
+  "cf_A_vs_B": 0.12000000000000001
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 0.5999999999999955,
+  "est_err": 29.93052249599122,
+  "cf_A_vs_B": 0.19
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.24000000000000093,
+  "est_err": 7.110539733267548,
+  "cf_A_vs_B": 0.4825
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.24000000000000093,
+  "est_err": 3.1095791803612802,
+  "cf_A_vs_B": 0.5487500000000001
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.24000000000000093,
+  "est_err": 6.365530400125579,
+  "cf_A_vs_B": 0.48375
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.24000000000000093,
+  "est_err": 12.835241703643778,
+  "cf_A_vs_B": 0.34375
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.24000000000000093,
+  "est_err": 10.202922501687889,
+  "cf_A_vs_B": 0.3225
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.24000000000000093,
+  "est_err": 8.11419386002169,
+  "cf_A_vs_B": 0.27
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.24000000000000093,
+  "est_err": 7.582103805737906,
+  "cf_A_vs_B": 0.5475
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.24000000000000093,
+  "est_err": 7.583958028923883,
+  "cf_A_vs_B": 0.37124999999999997
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.24000000000000093,
+  "est_err": 6.99057287496708,
+  "cf_A_vs_B": 0.505
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.24000000000000093,
+  "est_err": 16.963831718116566,
+  "cf_A_vs_B": 0.3725
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.12000000000000079,
+  "est_err": 1.7235159380620138,
+  "cf_A_vs_B": 0.76125
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.12000000000000079,
+  "est_err": 3.174536108079603,
+  "cf_A_vs_B": 0.6275
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.12000000000000079,
+  "est_err": 5.943088029889395,
+  "cf_A_vs_B": 0.5800000000000001
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.12000000000000079,
+  "est_err": 2.0659199009169353,
+  "cf_A_vs_B": 0.69875
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.12000000000000079,
+  "est_err": 4.628949254876548,
+  "cf_A_vs_B": 0.6074999999999999
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.12000000000000079,
+  "est_err": 5.221608485442027,
+  "cf_A_vs_B": 0.5675
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.12000000000000079,
+  "est_err": 3.149061324541797,
+  "cf_A_vs_B": 0.655
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.12000000000000079,
+  "est_err": 1.5578332979285747,
+  "cf_A_vs_B": 0.62
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.12000000000000079,
+  "est_err": 1.543411215581805,
+  "cf_A_vs_B": 0.66875
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.12000000000000079,
+  "est_err": 3.6522760872311113,
+  "cf_A_vs_B": 0.6312500000000001
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.05999999999999998,
+  "est_err": 2.4698163405597917,
+  "cf_A_vs_B": 0.71625
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.05999999999999998,
+  "est_err": 2.546212208329282,
+  "cf_A_vs_B": 0.7675000000000001
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.05999999999999998,
+  "est_err": 1.804577374599733,
+  "cf_A_vs_B": 0.7225
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.05999999999999998,
+  "est_err": 1.064107176501982,
+  "cf_A_vs_B": 0.815
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.05999999999999998,
+  "est_err": 2.285543592981173,
+  "cf_A_vs_B": 0.7725
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.05999999999999998,
+  "est_err": 1.27135226740023,
+  "cf_A_vs_B": 0.7075
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.05999999999999998,
+  "est_err": 1.1643098965938679,
+  "cf_A_vs_B": 0.77
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.05999999999999998,
+  "est_err": 1.3926239943240883,
+  "cf_A_vs_B": 0.7625
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.05999999999999998,
+  "est_err": 2.4598963417455746,
+  "cf_A_vs_B": 0.7875
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.05999999999999998,
+  "est_err": 1.341067892777081,
+  "cf_A_vs_B": 0.7625
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.019999999999999966,
+  "est_err": 0.8915843437164567,
+  "cf_A_vs_B": 0.7987500000000001
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.019999999999999966,
+  "est_err": 0.9855992670694869,
+  "cf_A_vs_B": 0.8274999999999999
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.019999999999999966,
+  "est_err": 0.4453622890385637,
+  "cf_A_vs_B": 0.8187500000000001
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.019999999999999966,
+  "est_err": 0.8531327656157423,
+  "cf_A_vs_B": 0.8
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.019999999999999966,
+  "est_err": 0.971917601111429,
+  "cf_A_vs_B": 0.82125
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.019999999999999966,
+  "est_err": 0.601854179333167,
+  "cf_A_vs_B": 0.8175
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.019999999999999966,
+  "est_err": 1.0808713426346421,
+  "cf_A_vs_B": 0.82125
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.019999999999999966,
+  "est_err": 0.9568997352152775,
+  "cf_A_vs_B": 0.8274999999999999
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.019999999999999966,
+  "est_err": 2.230309362052003,
+  "cf_A_vs_B": 0.8262499999999999
+ },
+ {
+  "topology": "chain",
+  "n_sites": 4,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.019999999999999966,
+  "est_err": 0.9277000600930208,
+  "cf_A_vs_B": 0.865
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 1.0000000000000098,
+  "est_err": 13.26820517564946,
+  "cf_A_vs_B": 0.20375
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 1.0000000000000098,
+  "est_err": 36.56573147811906,
+  "cf_A_vs_B": 0.1525
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 1.0000000000000098,
+  "est_err": 33.909286046373396,
+  "cf_A_vs_B": 0.11000000000000001
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 1.0000000000000098,
+  "est_err": 31.865018346781028,
+  "cf_A_vs_B": 0.0375
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 1.0000000000000098,
+  "est_err": 15.732033861210152,
+  "cf_A_vs_B": 0.21625
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 1.0000000000000098,
+  "est_err": 39.387810674326644,
+  "cf_A_vs_B": 0.06625
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 1.0000000000000098,
+  "est_err": 10.795213007642538,
+  "cf_A_vs_B": 0.215
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 1.0000000000000098,
+  "est_err": 35.2483347382687,
+  "cf_A_vs_B": 0.11875
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 1.0000000000000098,
+  "est_err": 29.854993812279464,
+  "cf_A_vs_B": 0.35
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 10,
+  "nonlinear": 0.0,
+  "R_eff": 1.0000000000000098,
+  "est_err": 13.18519341008043,
+  "cf_A_vs_B": 0.1525
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.4000000000000009,
+  "est_err": 21.99579062844385,
+  "cf_A_vs_B": 0.22999999999999998
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.4000000000000009,
+  "est_err": 4.135863903363683,
+  "cf_A_vs_B": 0.375
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.4000000000000009,
+  "est_err": 9.403438029233072,
+  "cf_A_vs_B": 0.4175
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.4000000000000009,
+  "est_err": 18.844441216039854,
+  "cf_A_vs_B": 0.185
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.4000000000000009,
+  "est_err": 16.712898528393303,
+  "cf_A_vs_B": 0.34875
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.4000000000000009,
+  "est_err": 5.887602557341495,
+  "cf_A_vs_B": 0.27
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.4000000000000009,
+  "est_err": 12.505217415567305,
+  "cf_A_vs_B": 0.2975
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.4000000000000009,
+  "est_err": 14.388762470924268,
+  "cf_A_vs_B": 0.16375
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.4000000000000009,
+  "est_err": 11.936709785185172,
+  "cf_A_vs_B": 0.4325
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 25,
+  "nonlinear": 0.0,
+  "R_eff": 0.4000000000000009,
+  "est_err": 21.218709747794293,
+  "cf_A_vs_B": 0.06875
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.20000000000000145,
+  "est_err": 3.4443291220292935,
+  "cf_A_vs_B": 0.5587500000000001
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.20000000000000145,
+  "est_err": 3.323201217643395,
+  "cf_A_vs_B": 0.5475
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.20000000000000145,
+  "est_err": 11.07680364206956,
+  "cf_A_vs_B": 0.4525
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.20000000000000145,
+  "est_err": 9.840673389800447,
+  "cf_A_vs_B": 0.325
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.20000000000000145,
+  "est_err": 6.512914289580866,
+  "cf_A_vs_B": 0.5449999999999999
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.20000000000000145,
+  "est_err": 5.397579774982973,
+  "cf_A_vs_B": 0.5762499999999999
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.20000000000000145,
+  "est_err": 8.247115419017241,
+  "cf_A_vs_B": 0.58125
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.20000000000000145,
+  "est_err": 6.031435413810991,
+  "cf_A_vs_B": 0.5549999999999999
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.20000000000000145,
+  "est_err": 2.871985891416738,
+  "cf_A_vs_B": 0.46499999999999997
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 50,
+  "nonlinear": 0.0,
+  "R_eff": 0.20000000000000145,
+  "est_err": 6.532949223435659,
+  "cf_A_vs_B": 0.48875
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.10000000000000003,
+  "est_err": 4.692336538373794,
+  "cf_A_vs_B": 0.6487499999999999
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.10000000000000003,
+  "est_err": 2.3088825089564144,
+  "cf_A_vs_B": 0.6475
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.10000000000000003,
+  "est_err": 5.986759378801689,
+  "cf_A_vs_B": 0.66875
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.10000000000000003,
+  "est_err": 6.08220539744068,
+  "cf_A_vs_B": 0.7
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.10000000000000003,
+  "est_err": 2.5512611806169154,
+  "cf_A_vs_B": 0.6375
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.10000000000000003,
+  "est_err": 1.9715188723589305,
+  "cf_A_vs_B": 0.67625
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.10000000000000003,
+  "est_err": 2.6486740857357254,
+  "cf_A_vs_B": 0.7275
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.10000000000000003,
+  "est_err": 1.729967526629486,
+  "cf_A_vs_B": 0.7125
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.10000000000000003,
+  "est_err": 5.967428452832712,
+  "cf_A_vs_B": 0.65375
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 100,
+  "nonlinear": 0.0,
+  "R_eff": 0.10000000000000003,
+  "est_err": 6.501027829314481,
+  "cf_A_vs_B": 0.6487499999999999
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.03333333333333319,
+  "est_err": 2.430565449720391,
+  "cf_A_vs_B": 0.8287500000000001
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.03333333333333319,
+  "est_err": 2.4715018875580927,
+  "cf_A_vs_B": 0.81375
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.03333333333333319,
+  "est_err": 0.9163894838969824,
+  "cf_A_vs_B": 0.86625
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.03333333333333319,
+  "est_err": 1.8983590188266553,
+  "cf_A_vs_B": 0.82125
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.03333333333333319,
+  "est_err": 0.895562895693583,
+  "cf_A_vs_B": 0.7975
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.03333333333333319,
+  "est_err": 1.9452491791727795,
+  "cf_A_vs_B": 0.7424999999999999
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.03333333333333319,
+  "est_err": 1.691240670403893,
+  "cf_A_vs_B": 0.83375
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.03333333333333319,
+  "est_err": 1.0284567065953405,
+  "cf_A_vs_B": 0.78625
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.03333333333333319,
+  "est_err": 1.2922322462784162,
+  "cf_A_vs_B": 0.78625
+ },
+ {
+  "topology": "chain",
+  "n_sites": 6,
+  "n_anchor": 300,
+  "nonlinear": 0.0,
+  "R_eff": 0.03333333333333319,
+  "est_err": 0.824005317860265,
+  "cf_A_vs_B": 0.83125
+ }
+]

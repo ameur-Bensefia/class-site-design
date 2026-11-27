@@ -1,0 +1,7 @@
+NIH ChestX-ray14: 7,022 patients; age (at first retained image) mean 45.7 ± 16.6 years, range 1–149
+  Female: 3,270 (46.6%), age mean 44.7 ± 16.1, range 2–95
+  Male: 3,752 (53.4%), age mean 46.5 ± 16.9, range 1–149
+  Note: 1 implausible ages (>105 or <0) in the source metadata
+CheXpert: 7,841 patients; age (at first retained image) mean 59.8 ± 18.7 years, range 18–90
+  Female: 3,512 (44.8%), age mean 60.2 ± 18.8, range 18–90
+  Male: 4,329 (55.2%), age mean 59.4 ± 18.5, range 18–90
